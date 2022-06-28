@@ -150,7 +150,7 @@ class MlbMenubar extends HTMLElement {
         e.preventDefault();
         this.league = e.target.dataset.league;
         this.division = e.target.dataset.division;
-        const pathname = `/${this.league.toLowerCase()}${this.division.toLowerCase()}.html`;
+        const pathname = `/mlb2022/${this.league.toLowerCase()}${this.division.toLowerCase()}.html`;
         const event = new CustomEvent("division-selected", {
           bubbles: true,
           composed: true,

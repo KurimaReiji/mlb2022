@@ -1,0 +1,32 @@
+name: get the results of today
+on:
+  schedule:
+    - cron: '15 0,3,6 * 5-10 2-6'
+    - cron: '05 0 * 5-10 0,1'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      CI_COMMIT_MESSAGE: add game results of today
+      CI_COMMIT_AUTHOR: Github Actions today
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: Create now.json
+      run: echo "[\"`TZ=Pacific/Honolulu date -Isecond`\"]" > docs/now.json
+    - name: install puppeteer
+      run: npm ci
+    - name: get results of today
+      run: node ../puppeteer/fox.js `TZ=Pacific/Honolulu date -I` && jq -s '.|add' mlb-2022-0*json > ../docs/mlb2022.json
+      working-directory: ./daily
+    - name: commit and push
+      run: |
+        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "${{ secrets.MY_SECRET_EMAIL}}"
+        git add .
+        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push

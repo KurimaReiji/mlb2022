@@ -1,0 +1,26 @@
+{
+  "name": "mlb2022",
+  "version": "1.0.0",
+  "description": "## Games above .500",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurimaReiji/mlb2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurimaReiji/mlb2022/issues"
+  },
+  "homepage": "https://github.com/KurimaReiji/mlb2022#readme",
+  "dependencies": {
+    "puppeteer": "^15.1.1"
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2022-04-23",
+    "home": "GUARDIANS",
+    "road": "YANKEES",
+    "score": "4 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "GIANTS",
+    "road": "NATIONALS",
+    "score": "5 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "ROCKIES",
+    "road": "TIGERS",
+    "score": "0 - 13",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "PIRATES",
+    "road": "CUBS",
+    "score": "0 - 21",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "WHITE SOX",
+    "road": "TWINS",
+    "score": "2 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "BREWERS",
+    "road": "PHILLIES",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "RANGERS",
+    "road": "ATHLETICS",
+    "score": "2 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "BLUE JAYS",
+    "road": "ASTROS",
+    "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "CARDINALS",
+    "road": "REDS",
+    "score": "5 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "RED SOX",
+    "road": "RAYS",
+    "score": "2 - 3",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "ROCKIES",
+    "road": "TIGERS",
+    "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "MARLINS",
+    "road": "BRAVES",
+    "score": "9 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "METS",
+    "road": "DIAMONDBACKS",
+    "score": "2 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "DODGERS",
+    "road": "PADRES",
+    "score": "2 - 3",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "ORIOLES",
+    "road": "ANGELS",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-23",
+    "home": "ROYALS",
+    "road": "MARINERS",
+    "score": "7 - 13",
+    "status": "FINAL"
+  }
+]

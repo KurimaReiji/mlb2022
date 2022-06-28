@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AL West</title>
+  <style>
+    :root {
+      --bg-color: cornsilk;
+      --text-color: midnightblue;
+
+      --angels-red: #ba0021;
+      --angels-blue: #003263;
+      --angels-maroon: #862633;
+      --angels-silver: #C4CED4;
+      --athletics-green: #006141;
+      --athletics-darkgreen: #003831;
+      --athletics-gold: #EFB21E;
+      --athletics-gray: #A2AAAD;
+      --athletics-yellow: #FFCD00;
+      --astros-orange: #eb6e1f;
+      --astros-darkblue: #002d62;
+      --mariners-green: #005c5c;
+      --mariners-navy: #0c2c56;
+      --mariners-aqua: #6ec2c4;
+      --mariners-red: #D50032;
+      --rangers-red: #c0111f;
+      --rangers-blue: #003278;
+      --rangers-white: white;
+
+      --dodger-blue: #005a9c;
+      --dodger-red: #EF3E42;
+      --dodger-silver: #A5ACAF;
+      --giants-orange: #fd5a1e;
+      --giants-black: #27251F;
+      --giants-beige: #EFD19F;
+      --giants-gold: #AE8F6F;
+      --padres-brown: #2F241D;
+      --padres-gold: #ffc425;
+      --padres-blue: #002D62;
+      --padres-gray: #A2AAAD;
+      --rockies-purple: #33006f;
+      --rockies-silver: #C4CED4;
+      --rockies-black: #000000;
+      --dbacks-red: #a71930;
+      --dbacks-sand: #e3d4ad;
+      --dbacks-black: black;
+
+      --orioles-orange: #df4601;
+      --orioles-black: black;
+      --redsox-red: #bd3039;
+      --redsox-blue: #0c2340;
+      --yankees-blue: #003087;
+      --yankees-red: #e4002c;
+      --yankees-navy: #0c2340;
+      --yankees-gray: #c4ced3;
+      --rays-navy: #092c5c;
+      --rays-columbia-blue: #8FBCE6;
+      --bluejays-blue: #134A8E;
+      --bluejays-navy: #1D2D5C;
+      --bluejays-red: #E8291C;
+      --bluejays-white: white;
+      --bluejays-powderblue: #6ba9dc;
+
+      --phillies-red: #E81828;
+      --phillies-blue: #002D72;
+      --phillies-white: white;
+      --nationals-red: #AB0003;
+      --nationals-blue: #14225A;
+      --nationals-white: white;
+      --mets-blue: #002D72;
+      --mets-orange: #FF5910;
+      --braves-scarlet: #CE1141;
+      --braves-navy: #13274F;
+      --marlins-miamiblue: #00A3E0;
+      --marlins-red: #EF3340;
+      --marlins-black: black;
+
+      --cubs-blue: #0E3386;
+      --cubs-red: #CC3433;
+      --reds-red: #C6011F;
+      --reds-black: black;
+      --guardians-navy: #00385D;
+      --guardians-red: #E50022;
+      --tigers-navy: #0C2340;
+      --tigers-orange: #FA4616;
+      --tigers-white: white;
+      --royals-blue: #004687;
+      --royals-gold: #BD9B60;
+
+      --brewers-yellow: #FFC52F;
+      --brewers-navy: #12284B;
+      --cardinals-red: #C41E3A;
+      --cardinals-navy: #0C2340;
+      --cardinals-yellow: #FEDB00;
+      --cardinals-lightblue: #add8e6;
+      --pirates-black: #27251F;
+      --pirates-gold: #FDB827;
+      --twins-navy: #002B5C;
+      --twins-scarlet-red: #D31145;
+      --whitesox-black: #27251F;
+      --whitesox-silver: #C4CED4;
+
+      --shadow-size: 2px;
+    }
+
+    .HOU {
+      --team-color: var(--astros-orange);
+      --team-shadow-color: var(--astros-darkblue);
+    }
+    .OAK {
+      --team-color: var(--athletics-green);
+      --team-shadow-color: var(--athletics-gold);
+    }
+    .SEA {
+      --team-color: var(--mariners-aqua);
+      --team-shadow-color: var(--mariners-navy);
+      --team-text-color: var(--mariners-aqua);
+    }
+    .LAA {
+      --team-color: var(--angels-red);
+      --team-shadow-color: var(--angels-maroon);
+    }
+    .TEX {
+      --team-text-color: var(--rangers-red);
+      --team-color: var(--rangers-white);
+      --team-color: var(--rangers-blue);
+      --team-shadow-color: var(--rangers-red);
+      --team-text-color: var(--rangers-blue);
+    }
+
+    .CLE {
+      --team-color: var(--guardians-red);
+      --team-shadow-color: var(--guardians-navy);
+    }
+    .CWS,
+    .CHW {
+      --team-color: var(--whitesox-silver);
+      --team-shadow-color: var(--whitesox-black);
+      --team-text-color: var(--whitesox-black);
+    }
+    .MIN {
+      --team-color: var(--twins-navy);
+      --team-shadow-color: var(--twins-scarlet-red);
+    }
+    .KCR {
+      --team-color: var(--royals-blue);
+      --team-shadow-color: var(--royals-gold);
+    }
+    .DET {
+      --team-color: var(--tigers-navy);
+      --team-shadow-color: var(--tigers-orange);
+      --team-shadow-color: var(--tigers-navy);
+    }
+
+    .CIN {
+      --team-color: var(--reds-red);
+      --team-shadow-color: var(--reds-black);
+    }
+    .PIT {
+      --team-color: var(--pirates-gold);
+      --team-shadow-color: var(--pirates-black);
+    }
+    .STL {
+      --team-color: var(--cardinals-red);
+      --team-shadow-color: var(--cardinals-navy);
+    }
+    .MIL {
+      --team-color: var(--brewers-navy);
+      --team-shadow-color: var(--brewers-yellow);
+    }
+    .CHC {
+      --team-color: var(--cubs-blue);
+      --team-shadow-color: var(--cubs-red);
+    }
+
+    .TOR {
+      --team-color: var(--bluejays-powderblue);
+      --team-shadow-color: var(--bluejays-blue);
+    }
+    .BAL {
+      --team-color: var(--orioles-orange);
+      --team-shadow-color: var(--orioles-black);
+    }
+    .BOS {
+      --team-color: var(--redsox-red);
+      --team-shadow-color: var(--redsox-blue);
+    }
+    .NYY {
+      --team-color: var(--yankees-gray);
+      --team-shadow-color: var(--yankees-blue);
+    }
+    .TBR {
+      --team-color: var(--rays-navy);
+      --team-shadow-color: var(--rays-columbia-blue);
+    }
+
+    .PHI {
+      --team-color: var(--phillies-red);
+      --team-shadow-color: var(--phillies-blue);
+    }
+    .WSH {
+      --team-color: var(--nationals-red);
+      --team-shadow-color: var(--nationals-blue);
+    }
+    .NYM {
+      --team-color: var(--mets-orange);
+      --team-shadow-color: var(--mets-blue);
+    }
+    .ATL {
+      --team-color: var(--braves-scarlet);
+      --team-shadow-color: var(--braves-navy);
+    }
+    .MIA {
+      --team-color: var(--marlins-black);
+      --team-shadow-color: var(--marlins-miamiblue);
+    }
+
+    .LAD {
+      --team-color: var(--dodger-blue);
+      --team-shadow-color: var(--dodger-blue);
+    }
+    .SFG {
+      --team-color: var(--giants-orange);
+      --team-shadow-color: var(--giants-black);
+    }
+    .SDP {
+      --team-color: var(--padres-gold);
+      --team-shadow-color: var(--padres-brown);
+    }
+    .COL {
+      --team-color: var(--rockies-silver);
+      --team-shadow-color: var(--rockies-purple);
+    }
+    .ARI {
+      --team-color: var(--dbacks-red);
+      --team-shadow-color: var(--dbacks-sand);
+      --team-shadow-color: var(--dbacks-black);
+    }
+
+    svg {
+      width: 100%;
+    }
+    .bgRect {
+      stroke: none;
+      fill: var(--bg-color, cornsilk);
+    }
+    .tics,
+    .axis {
+      stroke: var(--text-color, midnightblue);
+      fill: none;
+    }
+
+    .tics text {
+      stroke: none;
+      fill: var(--text-color, midnightblue);
+    }
+
+    .ytics {
+      text-anchor: end;
+    }
+    .xtics {
+      text-anchor: middle;
+    }
+    .series path {
+      stroke: var(--team-color);
+      stroke-opacity: 1;
+      filter: 
+        drop-shadow(var(--shadow-size) 0 0  var(--team-shadow-color)) 
+        drop-shadow(0 var(--shadow-size) 0  var(--team-shadow-color)) 
+        drop-shadow(calc(-1 * var(--shadow-size)) 0 0 var(--team-shadow-color))
+        drop-shadow(0 calc(-1 * var(--shadow-size)) 0 var(--team-shadow-color))
+      ;
+    }
+    .series text {
+      fill: var(--team-text-color, var(--team-color));
+      stroke: var(--team-shadow-color);
+      stroke-width: var(--team-stroke, .5);
+      font-weight: bold;
+    }
+  </style>
+  <style>
+    :root {
+      --mlb-navy: #041e42;
+      --mlb-red: #bf0d3e;
+      --mlb-darkred: #862633;
+      --mlb-blue: #0072CE; /* JACKIE ROBINSON DAY */
+
+      --page-height: 100vh;
+      --frame-width: 100%;
+      --frame-height: auto;
+    }
+    html {
+      min-height: var(--page-height)
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: var(--page-height);
+      overflow-y: scroll;
+    }
+    .frame {
+      flex: 1;
+      margin: 0;
+      width: var(--frame-width);
+      height: var(--frame-height);
+      background-color: var(--bg-color);
+    }
+  </style>
+  <script async src="https://ga.jspm.io/npm:es-module-shims@1.5.6/dist/es-module-shims.js"></script>
+</head>
+<body>
+  <mlb-menubar></mlb-menubar>
+  <div class="frame"></div>
+  <script type="importmap">
+    {
+      "imports": {
+        "mlb-menubar": "./js/mlb-menubar.js?v=0",
+        "mlb2022": "./js/mlb2022.js?v=0",
+        "svg-utils": "./js/svg-utils.js?v=0"
+      }
+    }
+  </script>
+  <script src="js/main.js" type="module"></script>
+</body>
+</html>

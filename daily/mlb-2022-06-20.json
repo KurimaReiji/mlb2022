@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2022-06-20",
+    "home": "MARLINS",
+    "road": "METS",
+    "score": "0 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-20",
+    "home": "CUBS",
+    "road": "PIRATES",
+    "score": "1 - 12",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-20",
+    "home": "YANKEES",
+    "road": "RAYS",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-20",
+    "home": "TIGERS",
+    "road": "RED SOX",
+    "score": "2 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-20",
+    "home": "GIANTS",
+    "road": "BRAVES",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-20",
+    "home": "BLUE JAYS",
+    "road": "WHITE SOX",
+    "score": "7 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-20",
+    "home": "CARDINALS",
+    "road": "BREWERS",
+    "score": "0 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-20",
+    "home": "ROYALS",
+    "road": "ANGELS",
+    "score": "6 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-20",
+    "home": "DIAMONDBACKS",
+    "road": "PADRES",
+    "score": "1 - 4",
+    "status": "FINAL"
+  }
+]

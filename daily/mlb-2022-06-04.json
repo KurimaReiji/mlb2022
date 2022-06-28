@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2022-06-04",
+    "home": "TIGERS",
+    "road": "YANKEES",
+    "score": "0 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "CARDINALS",
+    "road": "CUBS",
+    "score": "1 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "TWINS",
+    "road": "BLUE JAYS",
+    "score": "3 - 12",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "MARINERS",
+    "road": "RANGERS",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "DIAMONDBACKS",
+    "road": "PIRATES",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "GUARDIANS",
+    "road": "ORIOLES",
+    "score": "4 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "RED SOX",
+    "road": "ATHLETICS",
+    "score": "8 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "PADRES",
+    "road": "BREWERS",
+    "score": "4 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "WHITE SOX",
+    "road": "RAYS",
+    "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "NATIONALS",
+    "road": "REDS",
+    "score": "10 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "ASTROS",
+    "road": "ROYALS",
+    "score": "0 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "GIANTS",
+    "road": "MARLINS",
+    "score": "4 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "CARDINALS",
+    "road": "CUBS",
+    "score": "7 - 4",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "ANGELS",
+    "road": "PHILLIES",
+    "score": "2 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "BRAVES",
+    "road": "ROCKIES",
+    "score": "6 - 2",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-06-04",
+    "home": "METS",
+    "road": "DODGERS",
+    "score": "9 - 4",
+    "status": "FINAL"
+  }
+]

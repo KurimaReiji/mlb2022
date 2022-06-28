@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2022-04-19",
+    "home": "DIAMONDBACKS",
+    "road": "NATIONALS",
+    "score": "1 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "GIANTS",
+    "road": "METS",
+    "score": "4 - 5",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "CARDINALS",
+    "road": "MARLINS",
+    "score": "5 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "YANKEES",
+    "road": "TIGERS",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "DIAMONDBACKS",
+    "road": "NATIONALS",
+    "score": "0 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "BLUE JAYS",
+    "road": "RED SOX",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "GIANTS",
+    "road": "METS",
+    "score": "1 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "RAYS",
+    "road": "CUBS",
+    "score": "6 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "PIRATES",
+    "road": "BREWERS",
+    "score": "2 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "ANGELS",
+    "road": "ASTROS",
+    "score": "7 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "TWINS",
+    "road": "ROYALS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "PHILLIES",
+    "road": "ROCKIES",
+    "score": "5 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "ORIOLES",
+    "road": "ATHLETICS",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "RANGERS",
+    "road": "MARINERS",
+    "score": "2 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "REDS",
+    "road": "PADRES",
+    "score": "2 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-04-19",
+    "home": "BRAVES",
+    "road": "DODGERS",
+    "score": "3 - 1",
+    "status": "FINAL"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2022-05-10",
+    "home": "TIGERS",
+    "road": "ATHLETICS",
+    "score": "6 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "ATHLETICS",
+    "road": "TIGERS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "DODGERS",
+    "road": "PIRATES",
+    "score": "11 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "BREWERS",
+    "road": "REDS",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "BLUE JAYS",
+    "road": "YANKEES",
+    "score": "5 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "METS",
+    "road": "NATIONALS",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "RED SOX",
+    "road": "BRAVES",
+    "score": "9 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "ASTROS",
+    "road": "TWINS",
+    "score": "5 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "ORIOLES",
+    "road": "CARDINALS",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "ROYALS",
+    "road": "RANGERS",
+    "score": "4 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "GUARDIANS",
+    "road": "WHITE SOX",
+    "score": "1 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "RAYS",
+    "road": "ANGELS",
+    "score": "0 - 12",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "PHILLIES",
+    "road": "MARINERS",
+    "score": "4 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "MARLINS",
+    "road": "DIAMONDBACKS",
+    "score": "3 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "CUBS",
+    "road": "PADRES",
+    "score": "4 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-05-10",
+    "home": "ROCKIES",
+    "road": "GIANTS",
+    "score": "2 - 9",
+    "status": "FINAL"
+  }
+]

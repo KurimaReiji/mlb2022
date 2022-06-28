@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2022-06-17",
+    "home": "PHILLIES",
+    "road": "NATIONALS",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "BRAVES",
+    "road": "CUBS",
+    "score": "0 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "RAYS",
+    "road": "ORIOLES",
+    "score": "0 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "BREWERS",
+    "road": "REDS",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "PHILLIES",
+    "road": "NATIONALS",
+    "score": "8 - 7",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "GIANTS",
+    "road": "PIRATES",
+    "score": "2 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "YANKEES",
+    "road": "BLUE JAYS",
+    "score": "12 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "CARDINALS",
+    "road": "RED SOX",
+    "score": "5 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "MARLINS",
+    "road": "METS",
+    "score": "4 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "RANGERS",
+    "road": "TIGERS",
+    "score": "7 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "WHITE SOX",
+    "road": "ASTROS",
+    "score": "3 - 13",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "PADRES",
+    "road": "ROCKIES",
+    "score": "4 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "TWINS",
+    "road": "DIAMONDBACKS",
+    "score": "2 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "ROYALS",
+    "road": "ATHLETICS",
+    "score": "5 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "ANGELS",
+    "road": "MARINERS",
+    "score": "1 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-17",
+    "home": "GUARDIANS",
+    "road": "DODGERS",
+    "score": "2 - 1",
+    "status": "FINAL (10)"
+  }
+]

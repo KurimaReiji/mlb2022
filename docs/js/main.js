@@ -295,7 +295,7 @@ const capitalize = (word) => {
 
 customElements.define("mlb-menubar", MlbMenubar);
 
-const jsonfile = `../mlb2022.json`;
+const jsonfile = `https://kurimareiji.github.io/mlb2022/mlb2022.json`;
 const inputs = await (await fetch(jsonfile, { cache: "no-cache" })).json();
 const games = inputs.map(createGameResult);
 const series = make_series(games, mlbteams);

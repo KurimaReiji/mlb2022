@@ -7796,5 +7796,33 @@
     "road": "ROCKIES",
     "score": "4 - 7",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-06-28",
+    "home": "WHITE SOX",
+    "road": "ANGELS",
+    "score": "11 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-28",
+    "home": "PADRES",
+    "road": "DIAMONDBACKS",
+    "score": "6 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-28",
+    "home": "TIGERS",
+    "road": "GIANTS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-06-28",
+    "home": "ORIOLES",
+    "road": "MARINERS",
+    "score": "0 - 2",
+    "status": "FINAL"
   }
 ]

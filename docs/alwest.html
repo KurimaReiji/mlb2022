@@ -270,13 +270,13 @@
     .series path {
       stroke: var(--team-color);
       stroke-opacity: 1;
-      transform: translateZ(0);
       filter: 
         drop-shadow(var(--shadow-size) 0 0  var(--team-shadow-color)) 
         drop-shadow(0 var(--shadow-size) 0  var(--team-shadow-color)) 
         drop-shadow(calc(-1 * var(--shadow-size)) 0 0 var(--team-shadow-color))
         drop-shadow(0 calc(-1 * var(--shadow-size)) 0 var(--team-shadow-color))
       ;
+      transform: translateZ(0);
     }
     .series text {
       fill: var(--team-text-color, var(--team-color));

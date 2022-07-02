@@ -7985,5 +7985,19 @@
     "road": "MARINERS",
     "score": "6 - 8",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-01",
+    "home": "RED SOX",
+    "road": "CUBS",
+    "score": "5 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-01",
+    "home": "RAYS",
+    "road": "BLUE JAYS",
+    "score": "2 - 9",
+    "status": "FINAL"
   }
 ]

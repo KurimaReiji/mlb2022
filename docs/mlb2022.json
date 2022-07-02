@@ -8062,5 +8062,26 @@
     "road": "TWINS",
     "score": "2 - 3",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-01",
+    "home": "PADRES",
+    "road": "DODGERS",
+    "score": "1 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-01",
+    "home": "ATHLETICS",
+    "road": "MARINERS",
+    "score": "3 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-01",
+    "home": "WHITE SOX",
+    "road": "GIANTS",
+    "score": "1 - 0",
+    "status": "FINAL"
   }
 ]

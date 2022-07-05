@@ -8265,5 +8265,47 @@
     "road": "MARINERS",
     "score": "1 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-04",
+    "home": "MARLINS",
+    "road": "NATIONALS",
+    "score": "3 - 2",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-07-04",
+    "home": "RANGERS",
+    "road": "ORIOLES",
+    "score": "6 - 7",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-07-04",
+    "home": "GUARDIANS",
+    "road": "TIGERS",
+    "score": "1 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-04",
+    "home": "RAYS",
+    "road": "RED SOX",
+    "score": "0 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-04",
+    "home": "CUBS",
+    "road": "BREWERS",
+    "score": "2 - 5",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-07-04",
+    "home": "ROYALS",
+    "road": "ASTROS",
+    "score": "6 - 7",
+    "status": "FINAL"
   }
 ]

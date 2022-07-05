@@ -71,6 +71,13 @@
   },
   {
     "date": "2022-07-04",
+    "home": "CARDINALS",
+    "road": "BRAVES",
+    "score": "3 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-04",
     "home": "TWINS",
     "road": "WHITE SOX",
     "score": "6 - 3",
@@ -81,6 +88,13 @@
     "home": "BLUE JAYS",
     "road": "ATHLETICS",
     "score": "1 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-04",
+    "home": "ROCKIES",
+    "road": "DODGERS",
+    "score": "3 - 5",
     "status": "FINAL"
   }
 ]

@@ -8363,5 +8363,12 @@
     "road": "DODGERS",
     "score": "3 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-05",
+    "home": "MARINERS",
+    "road": "PADRES",
+    "score": "6 - 2",
+    "status": "FINAL"
   }
 ]

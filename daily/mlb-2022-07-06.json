@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2022-07-06",
+    "home": "GUARDIANS",
+    "road": "TIGERS",
+    "score": "2 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-06",
+    "home": "TWINS",
+    "road": "WHITE SOX",
+    "score": "8 - 9",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-07-06",
+    "home": "CUBS",
+    "road": "BREWERS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-06",
+    "home": "BLUE JAYS",
+    "road": "ATHLETICS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  }
+]

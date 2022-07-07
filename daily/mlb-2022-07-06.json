@@ -82,5 +82,19 @@
     "road": "ASTROS",
     "score": "7 - 4",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-06",
+    "home": "GIANTS",
+    "road": "DIAMONDBACKS",
+    "score": "7 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-06",
+    "home": "ROCKIES",
+    "road": "DODGERS",
+    "score": "1 - 2",
+    "status": "FINAL"
   }
 ]

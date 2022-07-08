@@ -61,5 +61,33 @@
     "road": "WHITE SOX",
     "score": "2 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-07",
+    "home": "ROCKIES",
+    "road": "DIAMONDBACKS",
+    "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-07",
+    "home": "GIANTS",
+    "road": "PADRES",
+    "score": "1 - 2",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-07-07",
+    "home": "BLUE JAYS",
+    "road": "MARINERS",
+    "score": "3 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-07",
+    "home": "CUBS",
+    "road": "DODGERS",
+    "score": "3 - 5",
+    "status": "FINAL"
   }
 ]

@@ -96,5 +96,12 @@
     "road": "MARINERS",
     "score": "1 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-03",
+    "home": "CARDINALS",
+    "road": "PHILLIES",
+    "score": "0 - 4",
+    "status": "FINAL"
   }
 ]

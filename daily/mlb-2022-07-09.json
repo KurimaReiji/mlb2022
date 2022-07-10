@@ -8,6 +8,20 @@
   },
   {
     "date": "2022-07-09",
+    "home": "YANKEES",
+    "road": "RED SOX",
+    "score": "5 - 6",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-07-09",
+    "home": "GIANTS",
+    "road": "PADRES",
+    "score": "3 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-09",
     "home": "TIGERS",
     "road": "WHITE SOX",
     "score": "0 - 8",
@@ -74,6 +88,20 @@
     "home": "PIRATES",
     "road": "BREWERS",
     "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-09",
+    "home": "BLUE JAYS",
+    "road": "MARINERS",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-09",
+    "home": "CUBS",
+    "road": "DODGERS",
+    "score": "2 - 4",
     "status": "FINAL"
   }
 ]

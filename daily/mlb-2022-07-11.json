@@ -61,5 +61,12 @@
     "road": "ROCKIES",
     "score": "6 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-11",
+    "home": "DIAMONDBACKS",
+    "road": "GIANTS",
+    "score": "4 - 3",
+    "status": "FINAL"
   }
 ]

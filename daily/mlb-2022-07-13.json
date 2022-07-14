@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2022-07-13",
+    "home": "MARINERS",
+    "road": "NATIONALS",
+    "score": "6 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-13",
+    "home": "METS",
+    "road": "BRAVES",
+    "score": "7 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-13",
+    "home": "BREWERS",
+    "road": "TWINS",
+    "score": "1 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-13",
+    "home": "TIGERS",
+    "road": "ROYALS",
+    "score": "2 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-13",
+    "home": "DIAMONDBACKS",
+    "road": "GIANTS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  }
+]

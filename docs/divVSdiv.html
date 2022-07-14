@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Division vs Division</title>
+  <style>
+    :root {
+      --head-color: #eee;
+      --border-color: #333;
+      --thin: solid 1px var(--border-color);
+      --thick: solid 3px var(--border-color);
+    }
+    body {
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    table {
+      margin: 1rem;
+      border-collapse: collapse;
+    }
+
+    th {
+      white-space: nowrap;
+      font-weight: normal;
+      padding: .25em ;
+    }
+
+    td {
+      text-align: center;
+      min-width: 5em;
+      padding-left: .25em;
+      padding-right: .25em;
+    }
+
+    td:nth-of-type(1) {
+      text-align: right;
+      padding-left: .25em;
+      padding-right: .5em;
+    }
+
+    th:nth-of-type(1),
+    td:nth-of-type(1) {
+      width: 7.5em;
+    }
+
+    th:nth-of-type(1),
+    tr:nth-of-type(12n+1) td:nth-of-type(1) {
+      text-align: left;
+      font-weight: bold;
+      padding-left: .5em;
+      padding-right: .25em;
+    }
+    th:nth-of-type(1),
+    th:nth-of-type(3),
+    td:nth-of-type(1),
+    td:nth-of-type(3) {
+      border-right: var(--thick);
+    }
+
+    th:nth-of-type(6),
+    td:nth-of-type(6) {
+      border-right: var(--thin);
+    }
+
+    tr:nth-of-type(2n+1) td {
+      padding-top: .5em;
+    }
+    tr:nth-of-type(2n) td {
+      padding-bottom: .25em;
+    }
+
+    thead> tr,
+    tr:nth-of-type(12n) {
+      border-bottom: var(--thick);
+    }
+
+    tr:nth-of-type(12n+2) {
+      border-bottom: var(--thin);
+    }
+
+    tr:nth-of-type(12n+1),
+    tr:nth-of-type(12n+2) {
+      font-size: 1.125em;
+    }
+
+    td[data-above500="above"] {
+      font-weight: bold;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: cornsilk;
+    }
+    h1 {
+      font-size: 1.5rem;
+      margin: 0 0 0 1em;
+      padding: 1em 0 0 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Division vs Division</h1>
+  </div>
+  <script src="js/divVSdiv.js" type="module"></script>
+</body>
+</html>

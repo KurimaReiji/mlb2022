@@ -96,5 +96,19 @@
     "road": "RANGERS",
     "score": "2 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-13",
+    "home": "PADRES",
+    "road": "ROCKIES",
+    "score": "6 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-13",
+    "home": "ASTROS",
+    "road": "ANGELS",
+    "score": "1 - 7",
+    "status": "FINAL"
   }
 ]

@@ -9301,5 +9301,19 @@
     "road": "ANGELS",
     "score": "1 - 7",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-14",
+    "home": "PIRATES",
+    "road": "MARLINS",
+    "score": "2 - 3",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-07-14",
+    "home": "PADRES",
+    "road": "ROCKIES",
+    "score": "5 - 8",
+    "status": "FINAL"
   }
 ]

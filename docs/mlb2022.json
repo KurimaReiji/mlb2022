@@ -9455,5 +9455,40 @@
     "road": "ASTROS",
     "score": "5 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-15",
+    "home": "REDS",
+    "road": "CARDINALS",
+    "score": "3 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-15",
+    "home": "PIRATES",
+    "road": "ROCKIES",
+    "score": "2 - 13",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-15",
+    "home": "DODGERS",
+    "road": "ANGELS",
+    "score": "9 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-15",
+    "home": "DIAMONDBACKS",
+    "road": "PADRES",
+    "score": "3 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-15",
+    "home": "BREWERS",
+    "road": "GIANTS",
+    "score": "5 - 8",
+    "status": "FINAL"
   }
 ]

@@ -9514,16 +9514,9 @@
   },
   {
     "date": "2022-07-16",
-    "home": "METS",
-    "road": "CUBS",
-    "score": "4 - 3",
-    "status": "FINAL (10)"
-  },
-  {
-    "date": "2022-07-16",
-    "home": "DIAMONDBACKS",
-    "road": "PADRES",
-    "score": "3 - 4",
+    "home": "DODGERS",
+    "road": "ANGELS",
+    "score": "7 - 1",
     "status": "FINAL"
   },
   {
@@ -9594,6 +9587,20 @@
     "home": "ATHLETICS",
     "road": "ASTROS",
     "score": "0 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-16",
+    "home": "METS",
+    "road": "CUBS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-07-16",
+    "home": "DIAMONDBACKS",
+    "road": "PADRES",
+    "score": "3 - 4",
     "status": "FINAL"
   }
 ]

@@ -22,13 +22,6 @@
   },
   {
     "date": "2022-07-16",
-    "home": "DODGERS",
-    "road": "ANGELS",
-    "score": "7 - 1",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-07-16",
     "home": "WHITE SOX",
     "road": "TWINS",
     "score": "3 - 6",
@@ -109,6 +102,13 @@
     "home": "DIAMONDBACKS",
     "road": "PADRES",
     "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-16",
+    "home": "DODGERS",
+    "road": "ANGELS",
+    "score": "7 - 1",
     "status": "FINAL"
   }
 ]

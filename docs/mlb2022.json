@@ -9686,5 +9686,26 @@
     "road": "PADRES",
     "score": "3 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-21",
+    "home": "YANKEES",
+    "road": "ASTROS",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-21",
+    "home": "RANGERS",
+    "road": "MARLINS",
+    "score": "8 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-21",
+    "home": "TIGERS",
+    "road": "ATHLETICS",
+    "score": "7 - 2",
+    "status": "FINAL"
   }
 ]

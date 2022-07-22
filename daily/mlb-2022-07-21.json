@@ -19,5 +19,19 @@
     "road": "ATHLETICS",
     "score": "7 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-21",
+    "home": "YANKEES",
+    "road": "ASTROS",
+    "score": "5 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-21",
+    "home": "TIGERS",
+    "road": "ATHLETICS",
+    "score": "0 - 5",
+    "status": "FINAL"
   }
 ]

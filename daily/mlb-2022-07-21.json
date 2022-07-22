@@ -33,5 +33,12 @@
     "road": "ATHLETICS",
     "score": "0 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-21",
+    "home": "GIANTS",
+    "road": "DODGERS",
+    "score": "6 - 9",
+    "status": "FINAL"
   }
 ]

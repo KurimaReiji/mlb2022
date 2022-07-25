@@ -10036,5 +10036,12 @@
     "road": "DODGERS",
     "score": "4 - 7",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-24",
+    "home": "PADRES",
+    "road": "METS",
+    "score": "5 - 8",
+    "status": "FINAL"
   }
 ]

@@ -54,5 +54,33 @@
     "road": "BREWERS",
     "score": "2 - 0",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-25",
+    "home": "ASTROS",
+    "road": "ATHLETICS",
+    "score": "5 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-25",
+    "home": "GIANTS",
+    "road": "DIAMONDBACKS",
+    "score": "0 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-25",
+    "home": "NATIONALS",
+    "road": "DODGERS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-25",
+    "home": "RANGERS",
+    "road": "MARINERS",
+    "score": "3 - 4",
+    "status": "FINAL"
   }
 ]

@@ -10197,5 +10197,40 @@
     "road": "ROYALS",
     "score": "6 - 0",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-26",
+    "home": "WHITE SOX",
+    "road": "ROCKIES",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-26",
+    "home": "ASTROS",
+    "road": "ATHLETICS",
+    "score": "3 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-26",
+    "home": "GIANTS",
+    "road": "DIAMONDBACKS",
+    "score": "3 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-26",
+    "home": "NATIONALS",
+    "road": "DODGERS",
+    "score": "8 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-26",
+    "home": "RANGERS",
+    "road": "MARINERS",
+    "score": "4 - 5",
+    "status": "FINAL"
   }
 ]

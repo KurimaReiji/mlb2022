@@ -61,5 +61,40 @@
     "road": "DIAMONDBACKS",
     "score": "3 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-27",
+    "home": "MARLINS",
+    "road": "REDS",
+    "score": "3 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-27",
+    "home": "RAYS",
+    "road": "ORIOLES",
+    "score": "6 - 4",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-07-27",
+    "home": "CARDINALS",
+    "road": "BLUE JAYS",
+    "score": "6 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-27",
+    "home": "YANKEES",
+    "road": "METS",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-27",
+    "home": "GUARDIANS",
+    "road": "RED SOX",
+    "score": "7 - 6",
+    "status": "FINAL"
   }
 ]

@@ -1,92 +1,92 @@
 [
   {
     "date": "2022-04-28",
-    "home": "PADRES",
-    "road": "REDS",
+    "home": "REDS",
+    "road": "PADRES",
     "score": "7 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "BREWERS",
-    "road": "PIRATES",
+    "home": "PIRATES",
+    "road": "BREWERS",
     "score": "3 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "MARLINS",
-    "road": "NATIONALS",
+    "home": "NATIONALS",
+    "road": "MARLINS",
     "score": "3 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "ORIOLES",
-    "road": "YANKEES",
+    "home": "YANKEES",
+    "road": "ORIOLES",
     "score": "5 - 10",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "ROCKIES",
-    "road": "PHILLIES",
+    "home": "PHILLIES",
+    "road": "ROCKIES",
     "score": "1 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "MARINERS",
-    "road": "RAYS",
+    "home": "RAYS",
+    "road": "MARINERS",
     "score": "1 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "TIGERS",
-    "road": "TWINS",
+    "home": "TWINS",
+    "road": "TIGERS",
     "score": "1 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "ASTROS",
-    "road": "RANGERS",
+    "home": "RANGERS",
+    "road": "ASTROS",
     "score": "3 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "ROYALS",
-    "road": "WHITE SOX",
+    "home": "WHITE SOX",
+    "road": "ROYALS",
     "score": "5 - 2",
     "status": "FINAL (10)"
   },
   {
     "date": "2022-04-28",
-    "home": "RED SOX",
-    "road": "BLUE JAYS",
+    "home": "BLUE JAYS",
+    "road": "RED SOX",
     "score": "0 - 1",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "GUARDIANS",
-    "road": "ANGELS",
+    "home": "ANGELS",
+    "road": "GUARDIANS",
     "score": "1 - 4",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "CUBS",
-    "road": "BRAVES",
+    "home": "BRAVES",
+    "road": "CUBS",
     "score": "1 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-04-28",
-    "home": "DIAMONDBACKS",
-    "road": "CARDINALS",
+    "home": "CARDINALS",
+    "road": "DIAMONDBACKS",
     "score": "3 - 8",
     "status": "FINAL"
   }

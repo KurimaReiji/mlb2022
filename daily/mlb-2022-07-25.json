@@ -1,85 +1,85 @@
 [
   {
     "date": "2022-07-25",
-    "home": "MARLINS",
-    "road": "REDS",
+    "home": "REDS",
+    "road": "MARLINS",
     "score": "2 - 11",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "BRAVES",
-    "road": "PHILLIES",
+    "home": "PHILLIES",
+    "road": "BRAVES",
     "score": "4 - 6",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "RAYS",
-    "road": "ORIOLES",
+    "home": "ORIOLES",
+    "road": "RAYS",
     "score": "1 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "GUARDIANS",
-    "road": "RED SOX",
+    "home": "RED SOX",
+    "road": "GUARDIANS",
     "score": "1 - 3",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "PADRES",
-    "road": "TIGERS",
+    "home": "TIGERS",
+    "road": "PADRES",
     "score": "4 - 12",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "PIRATES",
-    "road": "CUBS",
+    "home": "CUBS",
+    "road": "PIRATES",
     "score": "2 - 3",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "ANGELS",
-    "road": "ROYALS",
+    "home": "ROYALS",
+    "road": "ANGELS",
     "score": "0 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "ROCKIES",
-    "road": "BREWERS",
+    "home": "BREWERS",
+    "road": "ROCKIES",
     "score": "2 - 0",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "ASTROS",
-    "road": "ATHLETICS",
+    "home": "ATHLETICS",
+    "road": "ASTROS",
     "score": "5 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "GIANTS",
-    "road": "DIAMONDBACKS",
+    "home": "DIAMONDBACKS",
+    "road": "GIANTS",
     "score": "0 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "NATIONALS",
-    "road": "DODGERS",
+    "home": "DODGERS",
+    "road": "NATIONALS",
     "score": "4 - 1",
     "status": "FINAL"
   },
   {
     "date": "2022-07-25",
-    "home": "RANGERS",
-    "road": "MARINERS",
+    "home": "MARINERS",
+    "road": "RANGERS",
     "score": "3 - 4",
     "status": "FINAL"
   }

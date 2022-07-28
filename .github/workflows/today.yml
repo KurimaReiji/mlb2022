@@ -21,7 +21,7 @@ jobs:
     - name: install puppeteer
       run: npm ci
     - name: get results of today
-      run: node ../puppeteer/fox.js `TZ=Pacific/Honolulu date -I` && jq -s '.|add' mlb-2022-0*json > ../docs/mlb2022.json
+      run: node ../puppeteer/fox.js `TZ=Pacific/Honolulu date -I` && jq -s '.|add' mlb-2022-*json > ../docs/mlb2022.json
       working-directory: ./daily
     - name: commit and push
       run: |

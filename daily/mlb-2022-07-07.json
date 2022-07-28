@@ -1,92 +1,92 @@
 [
   {
     "date": "2022-07-07",
-    "home": "PIRATES",
-    "road": "REDS",
+    "home": "REDS",
+    "road": "PIRATES",
     "score": "4 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "ROYALS",
-    "road": "ASTROS",
+    "home": "ASTROS",
+    "road": "ROYALS",
     "score": "2 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "NATIONALS",
-    "road": "PHILLIES",
+    "home": "PHILLIES",
+    "road": "NATIONALS",
     "score": "3 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "ANGELS",
-    "road": "ORIOLES",
+    "home": "ORIOLES",
+    "road": "ANGELS",
     "score": "1 - 4",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "YANKEES",
-    "road": "RED SOX",
+    "home": "RED SOX",
+    "road": "YANKEES",
     "score": "6 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "MARLINS",
-    "road": "METS",
+    "home": "METS",
+    "road": "MARLINS",
     "score": "0 - 10",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "PIRATES",
-    "road": "REDS",
+    "home": "REDS",
+    "road": "PIRATES",
     "score": "1 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "CARDINALS",
-    "road": "BRAVES",
+    "home": "BRAVES",
+    "road": "CARDINALS",
     "score": "3 - 2",
     "status": "FINAL (11)"
   },
   {
     "date": "2022-07-07",
-    "home": "TIGERS",
-    "road": "WHITE SOX",
+    "home": "WHITE SOX",
+    "road": "TIGERS",
     "score": "2 - 1",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "ROCKIES",
-    "road": "DIAMONDBACKS",
+    "home": "DIAMONDBACKS",
+    "road": "ROCKIES",
     "score": "4 - 3",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "GIANTS",
-    "road": "PADRES",
+    "home": "PADRES",
+    "road": "GIANTS",
     "score": "1 - 2",
     "status": "FINAL (10)"
   },
   {
     "date": "2022-07-07",
-    "home": "BLUE JAYS",
-    "road": "MARINERS",
+    "home": "MARINERS",
+    "road": "BLUE JAYS",
     "score": "3 - 8",
     "status": "FINAL"
   },
   {
     "date": "2022-07-07",
-    "home": "CUBS",
-    "road": "DODGERS",
+    "home": "DODGERS",
+    "road": "CUBS",
     "score": "3 - 5",
     "status": "FINAL"
   }

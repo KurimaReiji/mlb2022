@@ -1,43 +1,43 @@
 [
   {
     "date": "2022-07-21",
-    "home": "YANKEES",
-    "road": "ASTROS",
+    "home": "ASTROS",
+    "road": "YANKEES",
     "score": "2 - 3",
     "status": "FINAL"
   },
   {
     "date": "2022-07-21",
-    "home": "RANGERS",
-    "road": "MARLINS",
+    "home": "MARLINS",
+    "road": "RANGERS",
     "score": "8 - 0",
     "status": "FINAL"
   },
   {
     "date": "2022-07-21",
-    "home": "TIGERS",
-    "road": "ATHLETICS",
+    "home": "ATHLETICS",
+    "road": "TIGERS",
     "score": "7 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-07-21",
-    "home": "YANKEES",
-    "road": "ASTROS",
+    "home": "ASTROS",
+    "road": "YANKEES",
     "score": "5 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-07-21",
-    "home": "TIGERS",
-    "road": "ATHLETICS",
+    "home": "ATHLETICS",
+    "road": "TIGERS",
     "score": "0 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-07-21",
-    "home": "GIANTS",
-    "road": "DODGERS",
+    "home": "DODGERS",
+    "road": "GIANTS",
     "score": "6 - 9",
     "status": "FINAL"
   }

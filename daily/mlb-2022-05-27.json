@@ -1,85 +1,85 @@
 [
   {
     "date": "2022-05-27",
-    "home": "GIANTS",
-    "road": "REDS",
+    "home": "REDS",
+    "road": "GIANTS",
     "score": "1 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "YANKEES",
-    "road": "RAYS",
+    "home": "RAYS",
+    "road": "YANKEES",
     "score": "2 - 0",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "PHILLIES",
-    "road": "METS",
+    "home": "METS",
+    "road": "PHILLIES",
     "score": "6 - 8",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "ORIOLES",
-    "road": "RED SOX",
+    "home": "RED SOX",
+    "road": "ORIOLES",
     "score": "12 - 8",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "MARLINS",
-    "road": "BRAVES",
+    "home": "BRAVES",
+    "road": "MARLINS",
     "score": "4 - 6",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "ROYALS",
-    "road": "TWINS",
+    "home": "TWINS",
+    "road": "ROYALS",
     "score": "7 - 10",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "BREWERS",
-    "road": "CARDINALS",
+    "home": "CARDINALS",
+    "road": "BREWERS",
     "score": "2 - 4",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "BLUE JAYS",
-    "road": "ANGELS",
+    "home": "ANGELS",
+    "road": "BLUE JAYS",
     "score": "4 - 3",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "DODGERS",
-    "road": "DIAMONDBACKS",
+    "home": "DIAMONDBACKS",
+    "road": "DODGERS",
     "score": "6 - 4",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "RANGERS",
-    "road": "ATHLETICS",
+    "home": "ATHLETICS",
+    "road": "RANGERS",
     "score": "8 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "ASTROS",
-    "road": "MARINERS",
+    "home": "MARINERS",
+    "road": "ASTROS",
     "score": "1 - 6",
     "status": "FINAL"
   },
   {
     "date": "2022-05-27",
-    "home": "PIRATES",
-    "road": "PADRES",
+    "home": "PADRES",
+    "road": "PIRATES",
     "score": "3 - 4",
     "status": "FINAL"
   }

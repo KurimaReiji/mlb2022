@@ -1,106 +1,106 @@
 [
   {
     "date": "2022-07-24",
-    "home": "CUBS",
-    "road": "PHILLIES",
+    "home": "PHILLIES",
+    "road": "CUBS",
     "score": "4 - 3",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "BLUE JAYS",
-    "road": "RED SOX",
+    "home": "RED SOX",
+    "road": "BLUE JAYS",
     "score": "8 - 4",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "YANKEES",
-    "road": "ORIOLES",
+    "home": "ORIOLES",
+    "road": "YANKEES",
     "score": "6 - 0",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "ANGELS",
-    "road": "BRAVES",
+    "home": "BRAVES",
+    "road": "ANGELS",
     "score": "9 - 1",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "MARLINS",
-    "road": "PIRATES",
+    "home": "PIRATES",
+    "road": "MARLINS",
     "score": "6 - 5",
     "status": "FINAL (10)"
   },
   {
     "date": "2022-07-24",
-    "home": "CARDINALS",
-    "road": "REDS",
+    "home": "REDS",
+    "road": "CARDINALS",
     "score": "3 - 6",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "TWINS",
-    "road": "TIGERS",
+    "home": "TIGERS",
+    "road": "TWINS",
     "score": "9 - 1",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "GUARDIANS",
-    "road": "WHITE SOX",
+    "home": "WHITE SOX",
+    "road": "GUARDIANS",
     "score": "3 - 6",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "RAYS",
-    "road": "ROYALS",
+    "home": "ROYALS",
+    "road": "RAYS",
     "score": "2 - 4",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "ROCKIES",
-    "road": "BREWERS",
+    "home": "BREWERS",
+    "road": "ROCKIES",
     "score": "9 - 10",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "RANGERS",
-    "road": "ATHLETICS",
+    "home": "ATHLETICS",
+    "road": "RANGERS",
     "score": "11 - 8",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "ASTROS",
-    "road": "MARINERS",
+    "home": "MARINERS",
+    "road": "ASTROS",
     "score": "8 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "NATIONALS",
-    "road": "DIAMONDBACKS",
+    "home": "DIAMONDBACKS",
+    "road": "NATIONALS",
     "score": "4 - 3",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "GIANTS",
-    "road": "DODGERS",
+    "home": "DODGERS",
+    "road": "GIANTS",
     "score": "4 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-07-24",
-    "home": "PADRES",
-    "road": "METS",
+    "home": "METS",
+    "road": "PADRES",
     "score": "5 - 8",
     "status": "FINAL"
   }

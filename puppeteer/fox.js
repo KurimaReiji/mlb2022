@@ -10,7 +10,7 @@ const scraper = (date = "2022-06-17") => {
       const status = chip
         .querySelector(".score-game-info span")
         .textContent.trim();
-      const [home, road] = rows.map((row) => {
+      const [road, home] = rows.map((row) => {
         return {
           team: row.querySelector(".score-team-name span")?.textContent,
           score: row

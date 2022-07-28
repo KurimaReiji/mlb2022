@@ -3,105 +3,105 @@
     "date": "2022-04-12",
     "home": "TIGERS",
     "road": "RED SOX",
-    "score": "5 - 3",
+    "score": "3 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "WHITE SOX",
     "road": "MARINERS",
-    "score": "2 - 3",
+    "score": "3 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "REDS",
     "road": "GUARDIANS",
-    "score": "10 - 5",
+    "score": "5 - 10",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "PIRATES",
     "road": "CUBS",
-    "score": "2 - 1",
+    "score": "1 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "RAYS",
     "road": "ATHLETICS",
-    "score": "8 - 9",
+    "score": "9 - 8",
     "status": "FINAL (10)"
   },
   {
     "date": "2022-04-12",
     "home": "PHILLIES",
     "road": "METS",
-    "score": "2 - 0",
+    "score": "0 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "YANKEES",
     "road": "BLUE JAYS",
-    "score": "0 - 4",
+    "score": "4 - 0",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "ORIOLES",
     "road": "BREWERS",
-    "score": "5 - 4",
+    "score": "4 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "ANGELS",
     "road": "MARLINS",
-    "score": "3 - 4",
+    "score": "4 - 3",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "BRAVES",
     "road": "NATIONALS",
-    "score": "4 - 16",
+    "score": "16 - 4",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "TWINS",
     "road": "DODGERS",
-    "score": "7 - 2",
+    "score": "2 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "CARDINALS",
     "road": "ROYALS",
-    "score": "5 - 6",
+    "score": "6 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "RANGERS",
     "road": "ROCKIES",
-    "score": "4 - 1",
+    "score": "1 - 4",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "DIAMONDBACKS",
     "road": "ASTROS",
-    "score": "2 - 1",
+    "score": "1 - 2",
     "status": "FINAL"
   },
   {
     "date": "2022-04-12",
     "home": "GIANTS",
     "road": "PADRES",
-    "score": "2 - 13",
+    "score": "13 - 2",
     "status": "FINAL"
   }
 ]

@@ -3,35 +3,35 @@
     "date": "2022-06-06",
     "home": "REDS",
     "road": "DIAMONDBACKS",
-    "score": "0 - 7",
+    "score": "7 - 0",
     "status": "FINAL (7)"
   },
   {
     "date": "2022-06-06",
     "home": "ASTROS",
     "road": "MARINERS",
-    "score": "7 - 4",
+    "score": "4 - 7",
     "status": "FINAL"
   },
   {
     "date": "2022-06-06",
     "home": "ROYALS",
     "road": "BLUE JAYS",
-    "score": "8 - 0",
+    "score": "0 - 8",
     "status": "FINAL"
   },
   {
     "date": "2022-06-06",
     "home": "ANGELS",
     "road": "RED SOX",
-    "score": "1 - 0",
+    "score": "0 - 1",
     "status": "FINAL"
   },
   {
     "date": "2022-06-06",
     "home": "PADRES",
     "road": "METS",
-    "score": "11 - 5",
+    "score": "5 - 11",
     "status": "FINAL"
   }
 ]

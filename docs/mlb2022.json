@@ -10340,13 +10340,6 @@
   },
   {
     "date": "2022-07-28",
-    "home": "ROCKIES",
-    "road": "DODGERS",
-    "score": "0 - 13",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-07-28",
     "home": "ORIOLES",
     "road": "RAYS",
     "score": "3 - 0",
@@ -10384,6 +10377,27 @@
     "date": "2022-07-28",
     "home": "RED SOX",
     "road": "GUARDIANS",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-28",
+    "home": "ROCKIES",
+    "road": "DODGERS",
+    "score": "0 - 13",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-28",
+    "home": "ANGELS",
+    "road": "RANGERS",
+    "score": "0 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-28",
+    "home": "GIANTS",
+    "road": "CUBS",
     "score": "4 - 2",
     "status": "FINAL"
   }

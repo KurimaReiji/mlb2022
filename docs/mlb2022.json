@@ -10477,5 +10477,33 @@
     "road": "ATHLETICS",
     "score": "3 - 7",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-29",
+    "home": "ROCKIES",
+    "road": "DODGERS",
+    "score": "4 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-29",
+    "home": "ANGELS",
+    "road": "RANGERS",
+    "score": "2 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-29",
+    "home": "PADRES",
+    "road": "TWINS",
+    "score": "10 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-29",
+    "home": "GIANTS",
+    "road": "CUBS",
+    "score": "2 - 4",
+    "status": "FINAL"
   }
 ]

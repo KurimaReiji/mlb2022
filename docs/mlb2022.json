@@ -10505,5 +10505,33 @@
     "road": "CUBS",
     "score": "2 - 4",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-07-30",
+    "home": "RED SOX",
+    "road": "BREWERS",
+    "score": "4 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-30",
+    "home": "RAYS",
+    "road": "GUARDIANS",
+    "score": "6 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-30",
+    "home": "YANKEES",
+    "road": "ROYALS",
+    "score": "8 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-30",
+    "home": "BLUE JAYS",
+    "road": "TIGERS",
+    "score": "5 - 3",
+    "status": "FINAL"
   }
 ]

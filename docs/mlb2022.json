@@ -10536,6 +10536,13 @@
   },
   {
     "date": "2022-07-30",
+    "home": "ANGELS",
+    "road": "RANGERS",
+    "score": "9 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-30",
     "home": "RAYS",
     "road": "GUARDIANS",
     "score": "6 - 4",
@@ -10595,6 +10602,13 @@
     "home": "ROCKIES",
     "road": "DODGERS",
     "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-07-30",
+    "home": "GIANTS",
+    "road": "CUBS",
+    "score": "5 - 4",
     "status": "FINAL"
   }
 ]

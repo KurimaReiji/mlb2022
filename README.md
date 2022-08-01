@@ -10,3 +10,15 @@
 - [NL East](https://kurimareiji.github.io/mlb2022/nleast.html)
 
 ## [Division vs Division](https://kurimareiji.github.io/mlb2022/divVSdiv.html)
+
+## Head-to-Head Results
+
+Wins and Losses by Opponent
+
+- [ANGELS](https://kurimareiji.github.io/mlb2022/h2h.html?team=ANGELS)
+- [YANKEES](https://kurimareiji.github.io/mlb2022/h2h.html?team=YANKEES)
+- [TWINS](https://kurimareiji.github.io/mlb2022/h2h.html?team=TWINS)
+- [ASTROS](https://kurimareiji.github.io/mlb2022/h2h.html?team=ASTROS)
+- [METS](https://kurimareiji.github.io/mlb2022/h2h.html?team=METS)
+- [BREWERS](https://kurimareiji.github.io/mlb2022/h2h.html?team=BREWERS)
+- [DODGERS](https://kurimareiji.github.io/mlb2022/h2h.html?team=DODGERS)

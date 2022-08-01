@@ -14,128 +14,32 @@ import {
   divisions,
 } from "./mlb2022.js";
 
-const images = [
-  {
-    team: "ORIOLES",
-    href: "logos/110.svg",
-  },
-  {
-    team: "RED SOX",
-    href: "logos/111.svg",
-  },
-  {
-    team: "YANKEES",
-    href: "logos/147.svg",
-  },
-  {
-    team: "RAYS",
-    href: "logos/139.svg",
-  },
-  {
-    team: "BLUE JAYS",
-    href: "logos/141.svg",
-  },
-  {
-    team: "WHITE SOX",
-    href: "logos/145.svg",
-  },
-  {
-    team: "GUARDIANS",
-    href: "logos/114.svg",
-  },
-  {
-    team: "TIGERS",
-    href: "logos/116.svg",
-  },
-  {
-    team: "ROYALS",
-    href: "logos/118.svg",
-  },
-  {
-    team: "TWINS",
-    href: "logos/142.svg",
-  },
-  {
-    team: "ASTROS",
-    href: "logos/117.svg",
-  },
-  {
-    team: "ANGELS",
-    href: "logos/108.svg",
-  },
-  {
-    team: "ATHLETICS",
-    href: "logos/133.svg",
-  },
-  {
-    team: "MARINERS",
-    href: "logos/136.svg",
-  },
-  {
-    team: "RANGERS",
-    href: "logos/140.svg",
-  },
-  {
-    team: "BRAVES",
-    href: "logos/144.svg",
-  },
-  {
-    team: "MARLINS",
-    href: "logos/146.svg",
-  },
-  {
-    team: "METS",
-    href: "logos/121.svg",
-  },
-  {
-    team: "PHILLIES",
-    href: "logos/143.svg",
-  },
-  {
-    team: "NATIONALS",
-    href: "logos/120.svg",
-  },
-  {
-    team: "CUBS",
-    href: "logos/112.svg",
-  },
-  {
-    team: "REDS",
-    href: "logos/113.svg",
-  },
-  {
-    team: "BREWERS",
-    href: "logos/158.svg",
-  },
-  {
-    team: "PIRATES",
-    href: "logos/134.svg",
-  },
-  {
-    team: "CARDINALS",
-    href: "logos/138.svg",
-  },
-  {
-    team: "DIAMONDBACKS",
-    href: "logos/109.svg",
-  },
-  {
-    team: "ROCKIES",
-    href: "logos/115.svg",
-  },
-  {
-    team: "DODGERS",
-    href: "logos/119.svg",
-  },
-  {
-    team: "PADRES",
-    href: "logos/135.svg",
-  },
-  {
-    team: "GIANTS",
-    href: "logos/137.svg",
-  },
-];
+const teams = mlbteams
+  .sort((a, b) => {
+    const divs = ["East", "Central", "West"];
+    if (a.league > b.league) return 1;
+    if (a.league < b.league) return -1;
+    if (
+      divs.findIndex((d) => d === a.division) >
+      divs.findIndex((d) => d === b.division)
+    )
+      return 1;
+    if (
+      divs.findIndex((d) => d === a.division) <
+      divs.findIndex((d) => d === b.division)
+    )
+      return -1;
+    if (a.name > b.name) return 1;
+    if (a.name < b.name) return -1;
+
+    return 0;
+  })
+  .map((o) => {
+    return {
+      team: o.nickname.toUpperCase(),
+      code: o.code,
+    };
+  });
 
 const uniq = (acc, cur, idx, ary) => {
   if (idx == ary.length - 1) acc = [...new Set(ary)];
@@ -222,7 +126,7 @@ const create_team_logo = (team) => {
       transform: `translate(${x},${y})`,
     },
   });
-  const img = get_logo(team)(images);
+  const img = get_logo(team)(teams);
   img.setAttribute("width", 0.15 * height);
   img.setAttribute("height", 0.15 * height);
   logo.append(img);
@@ -290,7 +194,7 @@ const team = [
   "WHITE SOX",
 ][3];
 
-const main_handler = (team) => {
+const main_handler = () => {
   const byDivisionByCity = (a, b) => {
     return [b, a]
       .map((opp) => {
@@ -299,13 +203,16 @@ const main_handler = (team) => {
         const c1 = grpByDivision.find((o) => o.division === div).num;
         const c2 = divisions.findIndex((d) => d.division === div);
         //const c3 = 30 - records.findIndex((obj) => obj.team === opp);
-        const c3 = 30 - images.findIndex((obj) => obj.team === opp);
+        const c3 = 30 - teams.findIndex((obj) => obj.team === opp);
         return Number(
           [c1, c2, c3].map((n) => n.toString().padStart(3, "0")).join("")
         );
       })
       .reduce((acc, cur) => acc - cur);
   };
+
+  const url = new URL(window.location);
+  const team = url.searchParams.get("team") || "ANGELS";
 
   const games = results.map(createGameResult).filter(team_selector(team));
   const numberOfMatches = get_number_of_matches(team)(matchups);
@@ -467,7 +374,7 @@ const main_handler = (team) => {
           transform: `translate(${x},${y})`,
         },
       });
-      const img = get_logo(opp)(images);
+      const img = get_logo(opp)(teams);
       img.setAttribute("width", Math.min(1.2 * bbox.height, 2.6 * box.height));
       img.setAttribute("height", Math.min(1.2 * bbox.height, 2.6 * box.height));
       logo.append(img);
@@ -530,11 +437,9 @@ const box = {
   yShift: 20,
 };
 
-main_handler(team);
-
-const divs = images.map((obj) => {
+const divs = teams.map((obj) => {
   const team = obj.team;
-  const logo = get_logo(team)(images);
+  const logo = get_logo(team)(teams);
   const div = document.createElement("div");
   div.append(logo);
   div.dataset.team = team;
@@ -543,14 +448,43 @@ const divs = images.map((obj) => {
 
 const switcher = document.querySelector(".switcher");
 switcher.append(...divs);
-//switcher.classList.add("two-column");
 switcher.classList.add("six-rows");
 
 document.querySelectorAll(".switcher>div").forEach((div) => {
   div.addEventListener("click", ({ currentTarget }) => {
     const team = currentTarget.dataset.team;
     console.log(team);
-    main_handler(team);
+    const url = new URL(window.location);
+    url.searchParams.set("team", team);
+    window.history.pushState(null, "", url);
+    main_handler();
   });
   div.classList.add("clickable");
 });
+
+const set_variables = () => {
+  document.documentElement.style.setProperty(
+    "--inner-height",
+    `${window.innerHeight}px`
+  );
+  document.documentElement.style.setProperty(
+    "--canvas-width",
+    `${0.75 * window.innerHeight}px`
+  );
+  document.documentElement.style.setProperty(
+    "--canvasx-height",
+    `${Math.min(1 * window.innerHeight, 1.1 * window.innerWidth)}px`
+  );
+  document.documentElement.style.setProperty(
+    "--canvas-height",
+    window.getComputedStyle(document.querySelector(".canvas")).height
+  );
+};
+window.addEventListener("popstate", (e) => {
+  main_handler();
+});
+
+window.addEventListener("orientationchange", set_variables);
+
+set_variables();
+main_handler();

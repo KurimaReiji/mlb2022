@@ -10771,5 +10771,19 @@
     "road": "ROYALS",
     "score": "1 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-01",
+    "home": "PADRES",
+    "road": "ROCKIES",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-01",
+    "home": "GIANTS",
+    "road": "DODGERS",
+    "score": "2 - 8",
+    "status": "FINAL"
   }
 ]

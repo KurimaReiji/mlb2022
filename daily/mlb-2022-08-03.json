@@ -1,27 +1,6 @@
 [
   {
     "date": "2022-08-03",
-    "home": "ANGELS",
-    "road": "ATHLETICS",
-    "score": "1 - 3",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-03",
-    "home": "PADRES",
-    "road": "ROCKIES",
-    "score": "9 - 1",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-03",
-    "home": "GIANTS",
-    "road": "DODGERS",
-    "score": "0 - 3",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-03",
     "home": "RAYS",
     "road": "BLUE JAYS",
     "score": "3 - 2",
@@ -95,6 +74,27 @@
     "home": "PIRATES",
     "road": "BREWERS",
     "score": "8 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-03",
+    "home": "ANGELS",
+    "road": "ATHLETICS",
+    "score": "1 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-03",
+    "home": "PADRES",
+    "road": "ROCKIES",
+    "score": "9 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-03",
+    "home": "GIANTS",
+    "road": "DODGERS",
+    "score": "0 - 3",
     "status": "FINAL"
   }
 ]

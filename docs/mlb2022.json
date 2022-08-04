@@ -10995,5 +10995,19 @@
     "road": "DODGERS",
     "score": "0 - 3",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-04",
+    "home": "CARDINALS",
+    "road": "CUBS",
+    "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-04",
+    "home": "PIRATES",
+    "road": "BREWERS",
+    "score": "5 - 4",
+    "status": "FINAL (10)"
   }
 ]

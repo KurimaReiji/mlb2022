@@ -10900,13 +10900,6 @@
   },
   {
     "date": "2022-08-03",
-    "home": "NATIONALS",
-    "road": "METS",
-    "score": "5 - 9",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-03",
     "home": "RAYS",
     "road": "BLUE JAYS",
     "score": "3 - 2",
@@ -10959,6 +10952,13 @@
     "home": "WHITE SOX",
     "road": "ROYALS",
     "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-03",
+    "home": "NATIONALS",
+    "road": "METS",
+    "score": "5 - 9",
     "status": "FINAL"
   }
 ]

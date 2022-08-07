@@ -341,8 +341,8 @@ const main_handler = () => {
         if (r) {
           r.dataset.result = "loss";
           r.dataset.winner = opp;
-          r.setAttribute("height", 0.85 * box.height);
-          r.setAttribute("transform", `translate(0, ${0.075 * box.height})`);
+          r.setAttribute("height", 0.70 * box.height);
+          r.setAttribute("transform", `translate(0, ${0.15 * box.height})`);
         }
       }
     });
@@ -402,11 +402,12 @@ const main_handler = () => {
     svg.append(teamLogo, teamRecord, title);
 
     [...document.querySelectorAll(`[data-result="win"]+[data-result="loss"]`)].forEach((r) => {
+      const wRect = r.previousElementSibling;
       const c = createCircle({
         attr: {
           cx: 2 + r.getBBox().x - box.xShift * 0.5,
-          cy: 2 + Number(r.getAttribute("y")) + 0.5 * Number(r.getAttribute("height")),
-          r: box.xShift * .25,
+          cy: 0.5 * Number(wRect.getAttribute("height")),
+          r: box.xShift * .20,
         },
         cls: ["divider"],
       });
@@ -427,9 +428,9 @@ const matchups = await (await fetch(matchupsurl, { cache: "no-cache" })).json();
 
 const [width, height] = [1200, 1600];
 const box = {
-  width: 70,
+  width: 66,
   height: 40,
-  xShift: 18,
+  xShift: 24,
   yShift: 20,
 };
 

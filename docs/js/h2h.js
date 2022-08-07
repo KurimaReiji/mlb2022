@@ -5,6 +5,7 @@ import {
   createText,
   createGroup,
   createPath,
+  createCircle,
 } from "./svg-utils.js";
 
 import {
@@ -176,23 +177,6 @@ const svgdownload = (filename, svg = null) => {
   });
 };
 window.svgdownload = svgdownload;
-
-const team = [
-  "ANGELS",
-  "MARINERS",
-  "ATHLETICS",
-  "ASTROS",
-  "DODGERS",
-  "BRAVES",
-  "YANKEES",
-  "REDS",
-  "BLUE JAYS",
-  "METS",
-  "CARDINALS",
-  "ORIOLES",
-  "MARLINS",
-  "WHITE SOX",
-][3];
 
 const main_handler = () => {
   const byDivisionByCity = (a, b) => {
@@ -416,6 +400,18 @@ const main_handler = () => {
     const teamRecord = create_team_record(team);
     const title = create_title(`2022 Head-to-Head Results`);
     svg.append(teamLogo, teamRecord, title);
+
+    [...document.querySelectorAll(`[data-result="win"]+[data-result="loss"]`)].forEach((r) => {
+      const c = createCircle({
+        attr: {
+          cx: 2 + r.getBBox().x - box.xShift * 0.5,
+          cy: 2 + Number(r.getAttribute("y")) + 0.5 * Number(r.getAttribute("height")),
+          r: box.xShift * .25,
+        },
+        cls: ["divider"],
+      });
+      r.parentNode.insertBefore(c, r);
+    });
   };
 
   const svg = draw(team);

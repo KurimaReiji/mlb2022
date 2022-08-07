@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2022-08-06",
+    "home": "CUBS",
+    "road": "MARLINS",
+    "score": "4 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "ORIOLES",
+    "road": "PIRATES",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "METS",
+    "road": "BRAVES",
+    "score": "8 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "MARINERS",
+    "road": "ANGELS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  }
+]

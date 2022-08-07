@@ -8,9 +8,16 @@
   },
   {
     "date": "2022-08-06",
-    "home": "ORIOLES",
-    "road": "PIRATES",
-    "score": "6 - 3",
+    "home": "CARDINALS",
+    "road": "YANKEES",
+    "score": "1 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "BREWERS",
+    "road": "REDS",
+    "score": "5 - 7",
     "status": "FINAL"
   },
   {
@@ -25,6 +32,90 @@
     "home": "MARINERS",
     "road": "ANGELS",
     "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "ORIOLES",
+    "road": "PIRATES",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "PHILLIES",
+    "road": "NATIONALS",
+    "score": "11 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "GUARDIANS",
+    "road": "ASTROS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "TIGERS",
+    "road": "RAYS",
+    "score": "9 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "RANGERS",
+    "road": "WHITE SOX",
+    "score": "8 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "ATHLETICS",
+    "road": "GIANTS",
+    "score": "3 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "METS",
+    "road": "BRAVES",
+    "score": "6 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "TWINS",
+    "road": "BLUE JAYS",
+    "score": "7 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "ROYALS",
+    "road": "RED SOX",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "DIAMONDBACKS",
+    "road": "ROCKIES",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "DODGERS",
+    "road": "PADRES",
+    "score": "8 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-06",
+    "home": "MARINERS",
+    "road": "ANGELS",
+    "score": "1 - 7",
     "status": "FINAL"
   }
 ]

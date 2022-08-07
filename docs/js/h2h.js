@@ -408,7 +408,7 @@ const main_handler = () => {
       const c = createCircle({
         attr: {
           cx: 2 + r.getBBox().x - box.xShift * 0.5,
-          cy: 0.5 * Number(wRect.getAttribute("height")),
+          cy: 0.5 * Number(wRect.getAttribute("height")) + Number(r.getAttribute("y")),
           r: box.xShift * 0.2,
         },
         cls: ["divider"],
@@ -426,7 +426,7 @@ const resultsurl = `./mlb2022.json`;
 const results = await (await fetch(resultsurl, { cache: "no-cache" })).json();
 
 const matchupsurl = `./mlb2022-matchups.json`;
-const matchups = await (await fetch(matchupsurl, { cache: "no-cache" })).json();
+const matchups = await (await fetch(matchupsurl, { })).json();
 
 const [width, height] = [1200, 1600];
 const box = {

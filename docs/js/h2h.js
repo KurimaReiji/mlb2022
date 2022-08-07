@@ -325,28 +325,6 @@ const main_handler = () => {
       .querySelector(`[data-team]`)
       .setAttribute("transform", `translate(${wrapper.x},${wrapper.y})`);
 
-    games.forEach((g) => {
-      const opp = [g.winner, g.loser].filter((t) => t !== team)[0];
-      const rects = [
-        ...svg.querySelectorAll(`[data-team="${opp}"] rect`),
-      ].filter((r) => r.dataset.result === "togo");
-      if (g.winner === team) {
-        const r = rects[0];
-        if (r) {
-          r.dataset.result = "win";
-          r.dataset.winner = team;
-        }
-      } else if (g.loser === team) {
-        const r = rects.slice(-1)[0];
-        if (r) {
-          r.dataset.result = "loss";
-          r.dataset.winner = opp;
-          r.setAttribute("height", 0.70 * box.height);
-          r.setAttribute("transform", `translate(0, ${0.15 * box.height})`);
-        }
-      }
-    });
-
     opponents.forEach((opp) => {
       const grp = svg.querySelector(`[data-team="${opp}"]`);
       const divGroup = grp.closest(`[data-division]`);
@@ -363,6 +341,28 @@ const main_handler = () => {
       img.setAttribute("height", Math.min(1.2 * bbox.height, 2.6 * box.height));
       logo.append(img);
       grp.append(logo);
+    });
+
+    games.forEach((g) => {
+      const opp = [g.winner, g.loser].filter((t) => t !== team)[0];
+      const rects = [
+        ...svg.querySelectorAll(`[data-team="${opp}"] rect`),
+      ].filter((r) => r.dataset.result === "togo");
+      if (g.winner === team) {
+        const r = rects[0];
+        if (r) {
+          r.dataset.result = "win";
+          r.dataset.winner = team;
+        }
+      } else if (g.loser === team) {
+        const r = rects.slice(-1)[0];
+        if (r) {
+          r.dataset.result = "loss";
+          r.dataset.winner = opp;
+          r.setAttribute("height", 0.7 * box.height);
+          r.setAttribute("transform", `translate(0, ${0.15 * box.height})`);
+        }
+      }
     });
 
     divisions
@@ -401,13 +401,15 @@ const main_handler = () => {
     const title = create_title(`2022 Head-to-Head Results`);
     svg.append(teamLogo, teamRecord, title);
 
-    [...document.querySelectorAll(`[data-result="win"]+[data-result="loss"]`)].forEach((r) => {
+    [
+      ...document.querySelectorAll(`[data-result="win"]+[data-result="loss"]`),
+    ].forEach((r) => {
       const wRect = r.previousElementSibling;
       const c = createCircle({
         attr: {
           cx: 2 + r.getBBox().x - box.xShift * 0.5,
           cy: 0.5 * Number(wRect.getAttribute("height")),
-          r: box.xShift * .20,
+          r: box.xShift * 0.2,
         },
         cls: ["divider"],
       });

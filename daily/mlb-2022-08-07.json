@@ -96,5 +96,12 @@
     "road": "ROCKIES",
     "score": "6 - 4",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-07",
+    "home": "DODGERS",
+    "road": "PADRES",
+    "score": "4 - 0",
+    "status": "FINAL"
   }
 ]

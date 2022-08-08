@@ -1,13 +1,6 @@
 [
   {
     "date": "2022-08-07",
-    "home": "MARINERS",
-    "road": "ANGELS",
-    "score": "6 - 3",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-07",
     "home": "GUARDIANS",
     "road": "ASTROS",
     "score": "1 - 0",
@@ -74,6 +67,34 @@
     "home": "RANGERS",
     "road": "WHITE SOX",
     "score": "2 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-07",
+    "home": "ATHLETICS",
+    "road": "GIANTS",
+    "score": "4 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-07",
+    "home": "METS",
+    "road": "BRAVES",
+    "score": "5 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-07",
+    "home": "MARINERS",
+    "road": "ANGELS",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-07",
+    "home": "DIAMONDBACKS",
+    "road": "ROCKIES",
+    "score": "6 - 4",
     "status": "FINAL"
   }
 ]

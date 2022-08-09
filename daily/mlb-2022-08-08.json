@@ -19,5 +19,33 @@
     "road": "NATIONALS",
     "score": "6 - 3",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-08",
+    "home": "ATHLETICS",
+    "road": "ANGELS",
+    "score": "0 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-08",
+    "home": "PADRES",
+    "road": "GIANTS",
+    "score": "0 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-08",
+    "home": "DIAMONDBACKS",
+    "road": "PIRATES",
+    "score": "3 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-08",
+    "home": "MARINERS",
+    "road": "YANKEES",
+    "score": "4 - 9",
+    "status": "FINAL"
   }
 ]

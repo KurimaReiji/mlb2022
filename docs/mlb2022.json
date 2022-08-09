@@ -11408,5 +11408,26 @@
     "road": "PADRES",
     "score": "4 - 0",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-08",
+    "home": "ORIOLES",
+    "road": "BLUE JAYS",
+    "score": "7 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-08",
+    "home": "METS",
+    "road": "REDS",
+    "score": "5 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-08",
+    "home": "CUBS",
+    "road": "NATIONALS",
+    "score": "6 - 3",
+    "status": "FINAL"
   }
 ]

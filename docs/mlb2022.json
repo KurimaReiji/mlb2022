@@ -11460,30 +11460,16 @@
   },
   {
     "date": "2022-08-09",
-    "home": "ORIOLES",
-    "road": "BLUE JAYS",
-    "score": "6 - 5",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-09",
-    "home": "RED SOX",
-    "road": "BRAVES",
-    "score": "7 - 9",
-    "status": "FINAL (11)"
-  },
-  {
-    "date": "2022-08-09",
-    "home": "CUBS",
-    "road": "NATIONALS",
-    "score": "5 - 6",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-09",
     "home": "ROYALS",
     "road": "WHITE SOX",
     "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-09",
+    "home": "ORIOLES",
+    "road": "BLUE JAYS",
+    "score": "6 - 5",
     "status": "FINAL"
   },
   {
@@ -11492,6 +11478,13 @@
     "road": "MARLINS",
     "score": "4 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-09",
+    "home": "RED SOX",
+    "road": "BRAVES",
+    "score": "7 - 9",
+    "status": "FINAL (11)"
   },
   {
     "date": "2022-08-09",
@@ -11516,6 +11509,13 @@
   },
   {
     "date": "2022-08-09",
+    "home": "CUBS",
+    "road": "NATIONALS",
+    "score": "5 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-09",
     "home": "ASTROS",
     "road": "RANGERS",
     "score": "7 - 5",
@@ -11526,6 +11526,48 @@
     "home": "BREWERS",
     "road": "RAYS",
     "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-09",
+    "home": "ROCKIES",
+    "road": "CARDINALS",
+    "score": "16 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-09",
+    "home": "ATHLETICS",
+    "road": "ANGELS",
+    "score": "1 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-09",
+    "home": "PADRES",
+    "road": "GIANTS",
+    "score": "7 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-09",
+    "home": "DIAMONDBACKS",
+    "road": "PIRATES",
+    "score": "6 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-09",
+    "home": "MARINERS",
+    "road": "YANKEES",
+    "score": "1 - 0",
+    "status": "FINAL (13)"
+  },
+  {
+    "date": "2022-08-09",
+    "home": "DODGERS",
+    "road": "TWINS",
+    "score": "10 - 3",
     "status": "FINAL"
   }
 ]

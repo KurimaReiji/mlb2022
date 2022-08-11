@@ -11572,13 +11572,6 @@
   },
   {
     "date": "2022-08-10",
-    "home": "ROYALS",
-    "road": "WHITE SOX",
-    "score": "8 - 3",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-10",
     "home": "METS",
     "road": "REDS",
     "score": "10 - 2",
@@ -11638,6 +11631,41 @@
     "home": "TIGERS",
     "road": "GUARDIANS",
     "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-10",
+    "home": "ASTROS",
+    "road": "RANGERS",
+    "score": "4 - 8",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-10",
+    "home": "ROYALS",
+    "road": "WHITE SOX",
+    "score": "8 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-10",
+    "home": "ROCKIES",
+    "road": "CARDINALS",
+    "score": "5 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-10",
+    "home": "DIAMONDBACKS",
+    "road": "PIRATES",
+    "score": "4 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-10",
+    "home": "DODGERS",
+    "road": "TWINS",
+    "score": "8 - 5",
     "status": "FINAL"
   }
 ]

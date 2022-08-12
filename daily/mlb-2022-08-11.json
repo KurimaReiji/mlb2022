@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2022-08-11",
+    "home": "PHILLIES",
+    "road": "MARLINS",
+    "score": "0 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-11",
+    "home": "TIGERS",
+    "road": "GUARDIANS",
+    "score": "3 - 4",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-11",
+    "home": "ASTROS",
+    "road": "RANGERS",
+    "score": "7 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-11",
+    "home": "ROYALS",
+    "road": "WHITE SOX",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-11",
+    "home": "ROCKIES",
+    "road": "CARDINALS",
+    "score": "8 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-11",
+    "home": "DIAMONDBACKS",
+    "road": "PIRATES",
+    "score": "9 - 3",
+    "status": "FINAL"
+  }
+]

@@ -1,6 +1,13 @@
 [
   {
     "date": "2022-08-11",
+    "home": "REDS",
+    "road": "CUBS",
+    "score": "2 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-11",
     "home": "PHILLIES",
     "road": "MARLINS",
     "score": "0 - 3",
@@ -39,6 +46,13 @@
     "home": "DIAMONDBACKS",
     "road": "PIRATES",
     "score": "9 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-11",
+    "home": "RED SOX",
+    "road": "ORIOLES",
+    "score": "4 - 3",
     "status": "FINAL"
   }
 ]

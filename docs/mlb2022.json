@@ -11821,5 +11821,26 @@
     "road": "PIRATES",
     "score": "5 - 3",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-13",
+    "home": "MARLINS",
+    "road": "BRAVES",
+    "score": "2 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-13",
+    "home": "BLUE JAYS",
+    "road": "GUARDIANS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-13",
+    "home": "RAYS",
+    "road": "ORIOLES",
+    "score": "8 - 2",
+    "status": "FINAL"
   }
 ]

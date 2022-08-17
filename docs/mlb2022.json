@@ -12216,9 +12216,30 @@
   },
   {
     "date": "2022-08-16",
+    "home": "BREWERS",
+    "road": "DODGERS",
+    "score": "5 - 4",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-08-16",
     "home": "WHITE SOX",
     "road": "ASTROS",
     "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-16",
+    "home": "ANGELS",
+    "road": "MARINERS",
+    "score": "2 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-16",
+    "home": "GIANTS",
+    "road": "DIAMONDBACKS",
+    "score": "2 - 1",
     "status": "FINAL"
   }
 ]

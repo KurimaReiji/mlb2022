@@ -12293,6 +12293,13 @@
   },
   {
     "date": "2022-08-17",
+    "home": "YANKEES",
+    "road": "RAYS",
+    "score": "8 - 7",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-17",
     "home": "PIRATES",
     "road": "RED SOX",
     "score": "3 - 8",
@@ -12330,6 +12337,13 @@
     "date": "2022-08-17",
     "home": "WHITE SOX",
     "road": "ASTROS",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-17",
+    "home": "GIANTS",
+    "road": "DIAMONDBACKS",
     "score": "2 - 3",
     "status": "FINAL"
   }

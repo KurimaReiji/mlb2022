@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2022-08-17",
+    "home": "REDS",
+    "road": "PHILLIES",
+    "score": "1 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-17",
+    "home": "NATIONALS",
+    "road": "CUBS",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-17",
+    "home": "TWINS",
+    "road": "ROYALS",
+    "score": "4 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-17",
+    "home": "BLUE JAYS",
+    "road": "ORIOLES",
+    "score": "6 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-17",
+    "home": "ANGELS",
+    "road": "MARINERS",
+    "score": "7 - 11",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-17",
+    "home": "MARLINS",
+    "road": "PADRES",
+    "score": "3 - 10",
+    "status": "FINAL"
+  }
+]

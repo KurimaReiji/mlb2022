@@ -422,7 +422,7 @@ const main_handler = () => {
   apply_results();
 };
 
-const resultsurl = `./mlb2022.json`;
+const resultsurl = `./mlb2022-results.json`;
 const results = await (await fetch(resultsurl, { cache: "no-cache" })).json();
 
 const matchupsurl = `./mlb2022-matchups.json`;

@@ -38,7 +38,7 @@ const find_team = (team) => (db) => {
   return db.find((o) => o.nickname.toUpperCase() === team);
 }
 
-const url = `./mlb2022.json`;
+const url = `./mlb2022-results.json`;
 const inputs = await (await fetch(url, { cache: "no-cache" })).json();
 const games = inputs.map(createGameResult).map((obj) => {
   const winner = find_team(obj.winner)(mlbteams);

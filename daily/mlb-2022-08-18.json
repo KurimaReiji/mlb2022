@@ -40,5 +40,33 @@
     "road": "DIAMONDBACKS",
     "score": "0 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-18",
+    "home": "YANKEES",
+    "road": "BLUE JAYS",
+    "score": "2 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-18",
+    "home": "PIRATES",
+    "road": "RED SOX",
+    "score": "8 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-18",
+    "home": "RAYS",
+    "road": "ROYALS",
+    "score": "7 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-18",
+    "home": "BRAVES",
+    "road": "METS",
+    "score": "3 - 2",
+    "status": "FINAL"
   }
 ]

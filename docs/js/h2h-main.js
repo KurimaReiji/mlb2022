@@ -32,7 +32,7 @@ const set_variables = () => {
   }, 200);
 };
 
-screen.orientation.addEventListener("change", set_variables);
+screen?.orientation?.addEventListener("change", set_variables);
 
 window.addEventListener("popstate", (e) => {
   const url = new URL(window.location);

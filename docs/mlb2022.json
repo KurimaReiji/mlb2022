@@ -12531,9 +12531,44 @@
   },
   {
     "date": "2022-08-20",
+    "home": "CUBS",
+    "road": "BREWERS",
+    "score": "6 - 5",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "PHILLIES",
+    "road": "METS",
+    "score": "2 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "YANKEES",
+    "road": "BLUE JAYS",
+    "score": "2 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
     "home": "TIGERS",
     "road": "ANGELS",
     "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "ORIOLES",
+    "road": "RED SOX",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "RAYS",
+    "road": "ROYALS",
+    "score": "5 - 2",
     "status": "FINAL"
   },
   {
@@ -12541,10 +12576,6 @@
     "road": "BREWERS"
   },
   {
-    "home": "CUBS",
-    "road": "BREWERS"
-  },
-  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -12631,14 +12662,6 @@
   {
     "home": "PHILLIES",
     "road": "METS"
-  },
-  {
-    "home": "PHILLIES",
-    "road": "METS"
-  },
-  {
-    "home": "YANKEES",
-    "road": "BLUE JAYS"
   },
   {
     "home": "YANKEES",
@@ -12961,10 +12984,6 @@
     "road": "RED SOX"
   },
   {
-    "home": "ORIOLES",
-    "road": "RED SOX"
-  },
-  {
     "home": "BREWERS",
     "road": "CUBS"
   },
@@ -13951,10 +13970,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "RAYS",
-    "road": "ROYALS"
   },
   {
     "home": "RAYS",

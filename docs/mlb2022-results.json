@@ -12559,13 +12559,6 @@
   },
   {
     "date": "2022-08-20",
-    "home": "GUARDIANS",
-    "road": "WHITE SOX",
-    "score": "0 - 2",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-20",
     "home": "PHILLIES",
     "road": "METS",
     "score": "2 - 8",
@@ -12615,9 +12608,37 @@
   },
   {
     "date": "2022-08-20",
+    "home": "DIAMONDBACKS",
+    "road": "CARDINALS",
+    "score": "7 - 16",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
     "home": "ROCKIES",
     "road": "GIANTS",
     "score": "4 - 3",
     "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "PADRES",
+    "road": "NATIONALS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "DODGERS",
+    "road": "MARLINS",
+    "score": "7 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "GUARDIANS",
+    "road": "WHITE SOX",
+    "score": "0 - 2",
+    "status": "FINAL"
   }
 ]

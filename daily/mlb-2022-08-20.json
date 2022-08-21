@@ -10,6 +10,34 @@
     "date": "2022-08-20",
     "home": "PHILLIES",
     "road": "METS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "BRAVES",
+    "road": "ASTROS",
+    "score": "5 - 4",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "ATHLETICS",
+    "road": "MARINERS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "GUARDIANS",
+    "road": "WHITE SOX",
+    "score": "0 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "PHILLIES",
+    "road": "METS",
     "score": "2 - 8",
     "status": "FINAL"
   },
@@ -40,5 +68,26 @@
     "road": "ROYALS",
     "score": "5 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "PIRATES",
+    "road": "REDS",
+    "score": "1 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "TWINS",
+    "road": "RANGERS",
+    "score": "3 - 4",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "ROCKIES",
+    "road": "GIANTS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
   }
 ]

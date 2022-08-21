@@ -12540,6 +12540,34 @@
     "date": "2022-08-20",
     "home": "PHILLIES",
     "road": "METS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "BRAVES",
+    "road": "ASTROS",
+    "score": "5 - 4",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "ATHLETICS",
+    "road": "MARINERS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "GUARDIANS",
+    "road": "WHITE SOX",
+    "score": "0 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "PHILLIES",
+    "road": "METS",
     "score": "2 - 8",
     "status": "FINAL"
   },
@@ -12572,6 +12600,27 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-08-20",
+    "home": "PIRATES",
+    "road": "REDS",
+    "score": "1 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "TWINS",
+    "road": "RANGERS",
+    "score": "3 - 4",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-20",
+    "home": "ROCKIES",
+    "road": "GIANTS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
+  },
+  {
     "home": "CUBS",
     "road": "BREWERS"
   },
@@ -12654,10 +12703,6 @@
   {
     "home": "TIGERS",
     "road": "WHITE SOX"
-  },
-  {
-    "home": "PHILLIES",
-    "road": "METS"
   },
   {
     "home": "PHILLIES",
@@ -12816,10 +12861,6 @@
     "road": "WHITE SOX"
   },
   {
-    "home": "GUARDIANS",
-    "road": "WHITE SOX"
-  },
-  {
     "home": "REDS",
     "road": "CARDINALS"
   },
@@ -13086,10 +13127,6 @@
   {
     "home": "GIANTS",
     "road": "ROCKIES"
-  },
-  {
-    "home": "PIRATES",
-    "road": "REDS"
   },
   {
     "home": "PIRATES",
@@ -13184,10 +13221,6 @@
     "road": "GIANTS"
   },
   {
-    "home": "ROCKIES",
-    "road": "GIANTS"
-  },
-  {
     "home": "DODGERS",
     "road": "DIAMONDBACKS"
   },
@@ -13570,10 +13603,6 @@
   {
     "home": "PADRES",
     "road": "DIAMONDBACKS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "MARINERS"
   },
   {
     "home": "ATHLETICS",
@@ -13990,14 +14019,6 @@
   {
     "home": "BRAVES",
     "road": "ASTROS"
-  },
-  {
-    "home": "BRAVES",
-    "road": "ASTROS"
-  },
-  {
-    "home": "TWINS",
-    "road": "RANGERS"
   },
   {
     "home": "TWINS",

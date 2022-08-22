@@ -12733,6 +12733,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-08-21",
+    "home": "ORIOLES",
+    "road": "RED SOX",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -13107,10 +13114,6 @@
   {
     "home": "WHITE SOX",
     "road": "ROYALS"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "RED SOX"
   },
   {
     "home": "ORIOLES",

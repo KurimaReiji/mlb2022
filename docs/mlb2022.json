@@ -12740,6 +12740,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-08-22",
+    "home": "ROYALS",
+    "road": "WHITE SOX",
+    "score": "6 - 4",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -13294,10 +13301,6 @@
   {
     "home": "MARLINS",
     "road": "NATIONALS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "WHITE SOX"
   },
   {
     "home": "ROCKIES",

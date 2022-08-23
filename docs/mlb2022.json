@@ -12789,6 +12789,20 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-08-22",
+    "home": "ATHLETICS",
+    "road": "MARLINS",
+    "score": "0 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "DODGERS",
+    "road": "BREWERS",
+    "score": "0 - 4",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -14175,14 +14189,6 @@
   {
     "home": "ATHLETICS",
     "road": "MARLINS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "MARLINS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "BREWERS"
   },
   {
     "home": "DODGERS",

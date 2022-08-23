@@ -47,5 +47,19 @@
     "road": "CARDINALS",
     "score": "0 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "ATHLETICS",
+    "road": "MARLINS",
+    "score": "0 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "DODGERS",
+    "road": "BREWERS",
+    "score": "0 - 4",
+    "status": "FINAL"
   }
 ]

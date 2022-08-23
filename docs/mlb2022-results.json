@@ -12745,5 +12745,47 @@
     "road": "WHITE SOX",
     "score": "6 - 4",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "YANKEES",
+    "road": "METS",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "PHILLIES",
+    "road": "REDS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "PIRATES",
+    "road": "BRAVES",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "RAYS",
+    "road": "ANGELS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "TWINS",
+    "road": "RANGERS",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "CUBS",
+    "road": "CARDINALS",
+    "score": "0 - 1",
+    "status": "FINAL"
   }
 ]

@@ -12747,6 +12747,48 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-08-22",
+    "home": "YANKEES",
+    "road": "METS",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "PHILLIES",
+    "road": "REDS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "PIRATES",
+    "road": "BRAVES",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "RAYS",
+    "road": "ANGELS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "TWINS",
+    "road": "RANGERS",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-22",
+    "home": "CUBS",
+    "road": "CARDINALS",
+    "score": "0 - 1",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -13571,10 +13613,6 @@
     "road": "CARDINALS"
   },
   {
-    "home": "CUBS",
-    "road": "CARDINALS"
-  },
-  {
     "home": "CARDINALS",
     "road": "REDS"
   },
@@ -14095,14 +14133,6 @@
     "road": "BLUE JAYS"
   },
   {
-    "home": "TWINS",
-    "road": "RANGERS"
-  },
-  {
-    "home": "YANKEES",
-    "road": "METS"
-  },
-  {
     "home": "YANKEES",
     "road": "METS"
   },
@@ -14119,24 +14149,12 @@
     "road": "REDS"
   },
   {
-    "home": "PHILLIES",
-    "road": "REDS"
-  },
-  {
     "home": "PIRATES",
     "road": "BRAVES"
   },
   {
     "home": "PIRATES",
     "road": "BRAVES"
-  },
-  {
-    "home": "PIRATES",
-    "road": "BRAVES"
-  },
-  {
-    "home": "RAYS",
-    "road": "ANGELS"
   },
   {
     "home": "RAYS",

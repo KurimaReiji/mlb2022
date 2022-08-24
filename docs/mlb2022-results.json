@@ -12913,5 +12913,33 @@
     "road": "NATIONALS",
     "score": "4 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-24",
+    "home": "PIRATES",
+    "road": "BRAVES",
+    "score": "2 - 14",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-24",
+    "home": "TIGERS",
+    "road": "GIANTS",
+    "score": "6 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-24",
+    "home": "ROCKIES",
+    "road": "RANGERS",
+    "score": "4 - 16",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-24",
+    "home": "ATHLETICS",
+    "road": "MARLINS",
+    "score": "3 - 2",
+    "status": "FINAL (10)"
   }
 ]

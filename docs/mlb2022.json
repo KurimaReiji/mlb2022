@@ -13006,6 +13006,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-08-24",
+    "home": "DODGERS",
+    "road": "BREWERS",
+    "score": "12 - 6",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -14336,10 +14343,6 @@
   {
     "home": "RAYS",
     "road": "ANGELS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "BREWERS"
   },
   {
     "home": "ORIOLES",

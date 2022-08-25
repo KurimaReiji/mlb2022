@@ -12941,5 +12941,19 @@
     "road": "MARLINS",
     "score": "3 - 2",
     "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-08-24",
+    "home": "PADRES",
+    "road": "GUARDIANS",
+    "score": "0 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-24",
+    "home": "MARINERS",
+    "road": "NATIONALS",
+    "score": "1 - 3",
+    "status": "FINAL"
   }
 ]

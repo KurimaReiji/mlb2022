@@ -13011,5 +13011,26 @@
     "road": "BREWERS",
     "score": "12 - 6",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-25",
+    "home": "RAYS",
+    "road": "ANGELS",
+    "score": "8 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-25",
+    "home": "CUBS",
+    "road": "CARDINALS",
+    "score": "3 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-25",
+    "home": "MARINERS",
+    "road": "GUARDIANS",
+    "score": "3 - 1",
+    "status": "FINAL"
   }
 ]

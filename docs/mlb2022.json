@@ -13384,6 +13384,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-08-28",
+    "home": "CARDINALS",
+    "road": "BRAVES",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -14678,10 +14685,6 @@
   {
     "home": "MARLINS",
     "road": "DODGERS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "BRAVES"
   },
   {
     "home": "BLUE JAYS",

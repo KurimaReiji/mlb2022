@@ -33,5 +33,26 @@
     "road": "PIRATES",
     "score": "7 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-08-29",
+    "home": "ANGELS",
+    "road": "YANKEES",
+    "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-29",
+    "home": "DIAMONDBACKS",
+    "road": "PHILLIES",
+    "score": "13 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-29",
+    "home": "GIANTS",
+    "road": "PADRES",
+    "score": "5 - 6",
+    "status": "FINAL"
   }
 ]

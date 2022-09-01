@@ -13553,6 +13553,13 @@
   },
   {
     "date": "2022-08-31",
+    "home": "ANGELS",
+    "road": "YANKEES",
+    "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-31",
     "home": "RANGERS",
     "road": "ASTROS",
     "score": "3 - 5",
@@ -14881,10 +14888,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "ANGELS",
-    "road": "YANKEES"
   },
   {
     "home": "DIAMONDBACKS",

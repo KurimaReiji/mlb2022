@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2022-08-31",
+    "home": "RANGERS",
+    "road": "ASTROS",
+    "score": "3 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-31",
+    "home": "BREWERS",
+    "road": "PIRATES",
+    "score": "6 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-31",
+    "home": "GIANTS",
+    "road": "PADRES",
+    "score": "4 - 5",
+    "status": "FINAL"
+  }
+]

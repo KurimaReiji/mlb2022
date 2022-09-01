@@ -13553,13 +13553,6 @@
   },
   {
     "date": "2022-08-31",
-    "home": "ANGELS",
-    "road": "YANKEES",
-    "score": "3 - 2",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-08-31",
     "home": "RANGERS",
     "road": "ASTROS",
     "score": "3 - 5",
@@ -13650,6 +13643,20 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-08-31",
+    "home": "ANGELS",
+    "road": "YANKEES",
+    "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-08-31",
+    "home": "DIAMONDBACKS",
+    "road": "PHILLIES",
+    "score": "2 - 18",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -14888,10 +14895,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "PHILLIES"
   },
   {
     "home": "GUARDIANS",

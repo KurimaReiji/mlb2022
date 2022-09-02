@@ -26,5 +26,26 @@
     "road": "DODGERS",
     "score": "5 - 3",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-01",
+    "home": "GUARDIANS",
+    "road": "ORIOLES",
+    "score": "0 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-01",
+    "home": "RED SOX",
+    "road": "RANGERS",
+    "score": "9 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-01",
+    "home": "BRAVES",
+    "road": "ROCKIES",
+    "score": "3 - 0",
+    "status": "FINAL"
   }
 ]

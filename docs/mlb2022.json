@@ -13706,6 +13706,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-01",
+    "home": "DIAMONDBACKS",
+    "road": "BREWERS",
+    "score": "5 - 0",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -14952,10 +14959,6 @@
   {
     "home": "RED SOX",
     "road": "RANGERS"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "BREWERS"
   },
   {
     "home": "DIAMONDBACKS",

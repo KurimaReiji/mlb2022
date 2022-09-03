@@ -13790,6 +13790,34 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-02",
+    "home": "ANGELS",
+    "road": "ASTROS",
+    "score": "2 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "DIAMONDBACKS",
+    "road": "BREWERS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "DODGERS",
+    "road": "PADRES",
+    "score": "1 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "GIANTS",
+    "road": "PHILLIES",
+    "score": "13 - 1",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -13822,10 +13850,6 @@
     "road": "ASTROS"
   },
   {
-    "home": "ANGELS",
-    "road": "ASTROS"
-  },
-  {
     "home": "DIAMONDBACKS",
     "road": "PADRES"
   },
@@ -14750,10 +14774,6 @@
     "road": "PADRES"
   },
   {
-    "home": "DODGERS",
-    "road": "PADRES"
-  },
-  {
     "home": "BLUE JAYS",
     "road": "RAYS"
   },
@@ -15018,10 +15038,6 @@
     "road": "BREWERS"
   },
   {
-    "home": "DIAMONDBACKS",
-    "road": "BREWERS"
-  },
-  {
     "home": "PIRATES",
     "road": "BLUE JAYS"
   },
@@ -15052,10 +15068,6 @@
   {
     "home": "GUARDIANS",
     "road": "MARINERS"
-  },
-  {
-    "home": "GIANTS",
-    "road": "PHILLIES"
   },
   {
     "home": "GIANTS",

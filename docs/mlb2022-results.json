@@ -13788,5 +13788,33 @@
     "road": "CUBS",
     "score": "8 - 0",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "ANGELS",
+    "road": "ASTROS",
+    "score": "2 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "DIAMONDBACKS",
+    "road": "BREWERS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "DODGERS",
+    "road": "PADRES",
+    "score": "1 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "GIANTS",
+    "road": "PHILLIES",
+    "score": "13 - 1",
+    "status": "FINAL"
   }
 ]

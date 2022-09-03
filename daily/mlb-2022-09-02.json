@@ -52,7 +52,7 @@
     "date": "2022-09-02",
     "home": "TIGERS",
     "road": "ROYALS",
-    "score": "4 - 4",
+    "score": "5 - 4",
     "status": "FINAL"
   },
   {
@@ -60,6 +60,20 @@
     "home": "BRAVES",
     "road": "MARLINS",
     "score": "8 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "WHITE SOX",
+    "road": "TWINS",
+    "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-02",
+    "home": "CARDINALS",
+    "road": "CUBS",
+    "score": "8 - 0",
     "status": "FINAL"
   }
 ]

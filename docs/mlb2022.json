@@ -13994,6 +13994,13 @@
   },
   {
     "date": "2022-09-04",
+    "home": "GIANTS",
+    "road": "PHILLIES",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
     "home": "ANGELS",
     "road": "ASTROS",
     "score": "1 - 9",
@@ -15153,10 +15160,6 @@
   {
     "home": "GUARDIANS",
     "road": "MARINERS"
-  },
-  {
-    "home": "GIANTS",
-    "road": "PHILLIES"
   },
   {
     "home": "PIRATES",

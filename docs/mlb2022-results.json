@@ -13816,5 +13816,19 @@
     "road": "PHILLIES",
     "score": "13 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-03",
+    "home": "GIANTS",
+    "road": "PHILLIES",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-03",
+    "home": "RED SOX",
+    "road": "RANGERS",
+    "score": "5 - 3",
+    "status": "FINAL"
   }
 ]

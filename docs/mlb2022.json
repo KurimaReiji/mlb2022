@@ -13818,6 +13818,20 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-03",
+    "home": "GIANTS",
+    "road": "PHILLIES",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-03",
+    "home": "RED SOX",
+    "road": "RANGERS",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -15026,10 +15040,6 @@
     "road": "RANGERS"
   },
   {
-    "home": "RED SOX",
-    "road": "RANGERS"
-  },
-  {
     "home": "DIAMONDBACKS",
     "road": "BREWERS"
   },
@@ -15068,10 +15078,6 @@
   {
     "home": "GUARDIANS",
     "road": "MARINERS"
-  },
-  {
-    "home": "GIANTS",
-    "road": "PHILLIES"
   },
   {
     "home": "GIANTS",

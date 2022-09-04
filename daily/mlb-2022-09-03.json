@@ -15,13 +15,6 @@
   },
   {
     "date": "2022-09-03",
-    "home": "DODGERS",
-    "road": "PADRES",
-    "score": "12 - 1",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-09-03",
     "home": "GIANTS",
     "road": "PHILLIES",
     "score": "5 - 4",
@@ -81,6 +74,27 @@
     "home": "BRAVES",
     "road": "MARLINS",
     "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-03",
+    "home": "DIAMONDBACKS",
+    "road": "BREWERS",
+    "score": "6 - 8",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-09-03",
+    "home": "ANGELS",
+    "road": "ASTROS",
+    "score": "2 - 1",
+    "status": "FINAL (12)"
+  },
+  {
+    "date": "2022-09-03",
+    "home": "DODGERS",
+    "road": "PADRES",
+    "score": "12 - 1",
     "status": "FINAL"
   }
 ]

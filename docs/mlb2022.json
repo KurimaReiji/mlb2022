@@ -13916,6 +13916,62 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-04",
+    "home": "PIRATES",
+    "road": "BLUE JAYS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "REDS",
+    "road": "ROCKIES",
+    "score": "4 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "RED SOX",
+    "road": "RANGERS",
+    "score": "5 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "ORIOLES",
+    "road": "ATHLETICS",
+    "score": "0 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "RAYS",
+    "road": "YANKEES",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "METS",
+    "road": "NATIONALS",
+    "score": "1 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "TIGERS",
+    "road": "ROYALS",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "WHITE SOX",
+    "road": "TWINS",
+    "score": "1 - 5",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -14520,10 +14576,6 @@
     "road": "RANGERS"
   },
   {
-    "home": "RAYS",
-    "road": "YANKEES"
-  },
-  {
     "home": "TWINS",
     "road": "ROYALS"
   },
@@ -14594,10 +14646,6 @@
   {
     "home": "GUARDIANS",
     "road": "ROYALS"
-  },
-  {
-    "home": "METS",
-    "road": "NATIONALS"
   },
   {
     "home": "METS",
@@ -14880,10 +14928,6 @@
     "road": "ROYALS"
   },
   {
-    "home": "TIGERS",
-    "road": "ROYALS"
-  },
-  {
     "home": "ROCKIES",
     "road": "DIAMONDBACKS"
   },
@@ -14918,10 +14962,6 @@
   {
     "home": "DIAMONDBACKS",
     "road": "GIANTS"
-  },
-  {
-    "home": "WHITE SOX",
-    "road": "TWINS"
   },
   {
     "home": "WHITE SOX",
@@ -15086,30 +15126,14 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "RED SOX",
-    "road": "RANGERS"
   },
   {
     "home": "DIAMONDBACKS",
     "road": "BREWERS"
   },
   {
-    "home": "PIRATES",
-    "road": "BLUE JAYS"
-  },
-  {
     "home": "REDS",
     "road": "ROCKIES"
-  },
-  {
-    "home": "REDS",
-    "road": "ROCKIES"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "ATHLETICS"
   },
   {
     "home": "GUARDIANS",

@@ -13938,6 +13938,13 @@
   },
   {
     "date": "2022-09-04",
+    "home": "BRAVES",
+    "road": "MARLINS",
+    "score": "7 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
     "home": "ORIOLES",
     "road": "ATHLETICS",
     "score": "0 - 5",
@@ -13972,32 +13979,56 @@
     "status": "FINAL"
   },
   {
-    "home": "ROYALS",
-    "road": "GUARDIANS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "GUARDIANS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "GUARDIANS"
-  },
-  {
+    "date": "2022-09-04",
     "home": "CARDINALS",
-    "road": "PIRATES"
+    "road": "CUBS",
+    "score": "2 - 0",
+    "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
+    "date": "2022-09-04",
+    "home": "REDS",
+    "road": "ROCKIES",
+    "score": "10 - 0",
+    "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
-  },
-  {
+    "date": "2022-09-04",
     "home": "ANGELS",
-    "road": "ASTROS"
+    "road": "ASTROS",
+    "score": "1 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "DIAMONDBACKS",
+    "road": "BREWERS",
+    "score": "5 - 1",
+    "status": "FINAL"
+  },
+  {
+    "home": "ROYALS",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "ROYALS",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "ROYALS",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
   },
   {
     "home": "DIAMONDBACKS",
@@ -14166,10 +14197,6 @@
   {
     "home": "RAYS",
     "road": "RED SOX"
-  },
-  {
-    "home": "BRAVES",
-    "road": "MARLINS"
   },
   {
     "home": "TWINS",
@@ -14812,10 +14839,6 @@
     "road": "METS"
   },
   {
-    "home": "CARDINALS",
-    "road": "CUBS"
-  },
-  {
     "home": "ANGELS",
     "road": "MARINERS"
   },
@@ -15126,14 +15149,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "BREWERS"
-  },
-  {
-    "home": "REDS",
-    "road": "ROCKIES"
   },
   {
     "home": "GUARDIANS",

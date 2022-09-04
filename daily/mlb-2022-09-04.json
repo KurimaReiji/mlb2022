@@ -22,6 +22,13 @@
   },
   {
     "date": "2022-09-04",
+    "home": "BRAVES",
+    "road": "MARLINS",
+    "score": "7 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
     "home": "ORIOLES",
     "road": "ATHLETICS",
     "score": "0 - 5",
@@ -53,6 +60,34 @@
     "home": "WHITE SOX",
     "road": "TWINS",
     "score": "1 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "CARDINALS",
+    "road": "CUBS",
+    "score": "2 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "REDS",
+    "road": "ROCKIES",
+    "score": "10 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "ANGELS",
+    "road": "ASTROS",
+    "score": "1 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "DIAMONDBACKS",
+    "road": "BREWERS",
+    "score": "5 - 1",
     "status": "FINAL"
   }
 ]

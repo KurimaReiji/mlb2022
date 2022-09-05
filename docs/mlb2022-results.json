@@ -13987,6 +13987,13 @@
   },
   {
     "date": "2022-09-04",
+    "home": "GUARDIANS",
+    "road": "MARINERS",
+    "score": "3 - 6",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-09-04",
     "home": "REDS",
     "road": "ROCKIES",
     "score": "10 - 0",
@@ -14011,6 +14018,13 @@
     "home": "DIAMONDBACKS",
     "road": "BREWERS",
     "score": "5 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-04",
+    "home": "DODGERS",
+    "road": "PADRES",
+    "score": "9 - 4",
     "status": "FINAL"
   }
 ]

@@ -14098,6 +14098,20 @@
     "status": "FINAL (10)"
   },
   {
+    "date": "2022-09-05",
+    "home": "ANGELS",
+    "road": "TIGERS",
+    "score": "10 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-05",
+    "home": "DODGERS",
+    "road": "GIANTS",
+    "score": "4 - 7",
+    "status": "FINAL"
+  },
+  {
     "home": "ROYALS",
     "road": "GUARDIANS"
   },
@@ -14408,10 +14422,6 @@
   {
     "home": "BREWERS",
     "road": "REDS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "GIANTS"
   },
   {
     "home": "DODGERS",
@@ -15264,10 +15274,6 @@
   {
     "home": "MARINERS",
     "road": "WHITE SOX"
-  },
-  {
-    "home": "ANGELS",
-    "road": "TIGERS"
   },
   {
     "home": "ANGELS",

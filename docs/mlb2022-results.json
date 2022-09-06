@@ -14096,5 +14096,19 @@
     "road": "GUARDIANS",
     "score": "5 - 6",
     "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-09-05",
+    "home": "ANGELS",
+    "road": "TIGERS",
+    "score": "10 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-05",
+    "home": "DODGERS",
+    "road": "GIANTS",
+    "score": "4 - 7",
+    "status": "FINAL"
   }
 ]

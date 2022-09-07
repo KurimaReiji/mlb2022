@@ -14112,8 +14112,67 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-06",
+    "home": "PIRATES",
+    "road": "METS",
+    "score": "8 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-06",
+    "home": "RAYS",
+    "road": "RED SOX",
+    "score": "8 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-06",
+    "home": "PHILLIES",
+    "road": "MARLINS",
+    "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-06",
+    "home": "ORIOLES",
+    "road": "BLUE JAYS",
+    "score": "9 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-06",
+    "home": "CUBS",
+    "road": "REDS",
+    "score": "9 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-06",
+    "home": "CARDINALS",
+    "road": "NATIONALS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-06",
+    "home": "ASTROS",
+    "road": "RANGERS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-06",
     "home": "ROYALS",
-    "road": "GUARDIANS"
+    "road": "GUARDIANS",
+    "score": "1 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-06",
+    "home": "ROCKIES",
+    "road": "BREWERS",
+    "score": "10 - 7",
+    "status": "FINAL (10)"
   },
   {
     "home": "ROYALS",
@@ -14286,10 +14345,6 @@
   {
     "home": "GUARDIANS",
     "road": "WHITE SOX"
-  },
-  {
-    "home": "RAYS",
-    "road": "RED SOX"
   },
   {
     "home": "RAYS",
@@ -14592,10 +14647,6 @@
     "road": "RANGERS"
   },
   {
-    "home": "ASTROS",
-    "road": "RANGERS"
-  },
-  {
     "home": "PIRATES",
     "road": "CARDINALS"
   },
@@ -14828,10 +14879,6 @@
     "road": "MARLINS"
   },
   {
-    "home": "PHILLIES",
-    "road": "MARLINS"
-  },
-  {
     "home": "BLUE JAYS",
     "road": "ORIOLES"
   },
@@ -14974,10 +15021,6 @@
   {
     "home": "PHILLIES",
     "road": "BRAVES"
-  },
-  {
-    "home": "CUBS",
-    "road": "REDS"
   },
   {
     "home": "CUBS",
@@ -15220,14 +15263,6 @@
     "road": "BLUE JAYS"
   },
   {
-    "home": "ORIOLES",
-    "road": "BLUE JAYS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "METS"
-  },
-  {
     "home": "PIRATES",
     "road": "METS"
   },
@@ -15250,14 +15285,6 @@
   {
     "home": "ROCKIES",
     "road": "BREWERS"
-  },
-  {
-    "home": "ROCKIES",
-    "road": "BREWERS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "NATIONALS"
   },
   {
     "home": "CARDINALS",

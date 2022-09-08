@@ -14208,5 +14208,54 @@
     "road": "GIANTS",
     "score": "6 - 3",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "PIRATES",
+    "road": "METS",
+    "score": "1 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "YANKEES",
+    "road": "TWINS",
+    "score": "5 - 4",
+    "status": "FINAL (12)"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "ROCKIES",
+    "road": "BREWERS",
+    "score": "8 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "ATHLETICS",
+    "road": "BRAVES",
+    "score": "3 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "ANGELS",
+    "road": "TIGERS",
+    "score": "4 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "MARINERS",
+    "road": "WHITE SOX",
+    "score": "6 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "DODGERS",
+    "road": "GIANTS",
+    "score": "7 - 3",
+    "status": "FINAL"
   }
 ]

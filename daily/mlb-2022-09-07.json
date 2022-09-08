@@ -8,13 +8,6 @@
   },
   {
     "date": "2022-09-07",
-    "home": "ASTROS",
-    "road": "RANGERS",
-    "score": "4 - 3",
-    "status": "FINAL (10)"
-  },
-  {
-    "date": "2022-09-07",
     "home": "PIRATES",
     "road": "METS",
     "score": "1 - 5",
@@ -110,6 +103,13 @@
     "road": "TWINS",
     "score": "7 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "ASTROS",
+    "road": "RANGERS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
   },
   {
     "date": "2022-09-07",

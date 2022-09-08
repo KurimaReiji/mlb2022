@@ -14211,6 +14211,20 @@
   },
   {
     "date": "2022-09-07",
+    "home": "PADRES",
+    "road": "DIAMONDBACKS",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "ASTROS",
+    "road": "RANGERS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-09-07",
     "home": "PIRATES",
     "road": "METS",
     "score": "1 - 5",
@@ -14256,6 +14270,62 @@
     "home": "DODGERS",
     "road": "GIANTS",
     "score": "7 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "PIRATES",
+    "road": "METS",
+    "score": "0 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "RAYS",
+    "road": "RED SOX",
+    "score": "1 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "PHILLIES",
+    "road": "MARLINS",
+    "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "ORIOLES",
+    "road": "BLUE JAYS",
+    "score": "1 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "CUBS",
+    "road": "REDS",
+    "score": "1 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "CARDINALS",
+    "road": "NATIONALS",
+    "score": "6 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "YANKEES",
+    "road": "TWINS",
+    "score": "7 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-07",
+    "home": "ROYALS",
+    "road": "GUARDIANS",
+    "score": "2 - 1",
     "status": "FINAL"
   }
 ]

@@ -14350,680 +14350,693 @@
     "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "PIRATES"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "PIRATES"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "PADRES"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "PADRES"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "PADRES"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "PADRES"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "TIGERS",
-    "road": "WHITE SOX"
-  },
-  {
-    "home": "TIGERS",
-    "road": "WHITE SOX"
-  },
-  {
-    "home": "TIGERS",
-    "road": "WHITE SOX"
-  },
-  {
-    "home": "BRAVES",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "BRAVES",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "BRAVES",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CUBS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CUBS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CUBS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CUBS"
-  },
-  {
-    "home": "BREWERS",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "BREWERS",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "MARLINS",
-    "road": "PHILLIES"
-  },
-  {
-    "home": "MARLINS",
-    "road": "PHILLIES"
-  },
-  {
-    "home": "MARLINS",
-    "road": "PHILLIES"
-  },
-  {
-    "home": "RANGERS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "RANGERS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "RANGERS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "TIGERS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "TIGERS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "TIGERS"
-  },
-  {
-    "home": "ASTROS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ASTROS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ASTROS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "TWINS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "TWINS"
-  },
-  {
-    "home": "ROYALS",
-    "road": "TWINS"
-  },
-  {
-    "home": "MARINERS",
-    "road": "RANGERS"
-  },
-  {
-    "home": "MARINERS",
-    "road": "RANGERS"
-  },
-  {
-    "home": "MARINERS",
-    "road": "RANGERS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "WHITE SOX"
-  },
-  {
-    "home": "TWINS",
-    "road": "WHITE SOX"
-  },
-  {
-    "home": "TWINS",
-    "road": "WHITE SOX"
-  },
-  {
-    "home": "TWINS",
-    "road": "WHITE SOX"
-  },
-  {
-    "home": "PADRES",
-    "road": "DODGERS"
-  },
-  {
-    "home": "PADRES",
-    "road": "DODGERS"
-  },
-  {
-    "home": "PADRES",
-    "road": "DODGERS"
-  },
-  {
-    "home": "PADRES",
-    "road": "DODGERS"
-  },
-  {
-    "home": "PADRES",
-    "road": "DODGERS"
-  },
-  {
-    "home": "PADRES",
-    "road": "DODGERS"
-  },
-  {
-    "home": "BREWERS",
-    "road": "GIANTS"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "RED SOX"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "RED SOX"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "RED SOX"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "DODGERS"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "DODGERS"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "DODGERS"
-  },
-  {
-    "home": "NATIONALS",
-    "road": "MARLINS"
-  },
-  {
-    "home": "NATIONALS",
-    "road": "MARLINS"
-  },
-  {
-    "home": "NATIONALS",
-    "road": "MARLINS"
-  },
-  {
-    "home": "YANKEES",
-    "road": "ORIOLES"
-  },
-  {
-    "home": "YANKEES",
-    "road": "ORIOLES"
-  },
-  {
-    "home": "YANKEES",
-    "road": "ORIOLES"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "YANKEES"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "YANKEES"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "YANKEES"
-  },
-  {
-    "home": "BREWERS",
-    "road": "REDS"
-  },
-  {
-    "home": "BREWERS",
-    "road": "REDS"
-  },
-  {
-    "home": "BREWERS",
-    "road": "REDS"
-  },
-  {
-    "home": "REDS",
-    "road": "PIRATES"
-  },
-  {
-    "home": "REDS",
-    "road": "PIRATES"
-  },
-  {
-    "home": "REDS",
-    "road": "PIRATES"
-  },
-  {
-    "home": "REDS",
-    "road": "PIRATES"
-  },
-  {
-    "home": "REDS",
-    "road": "BREWERS"
-  },
-  {
-    "home": "REDS",
-    "road": "BREWERS"
-  },
-  {
-    "home": "REDS",
-    "road": "BREWERS"
-  },
-  {
-    "home": "REDS",
-    "road": "BREWERS"
-  },
-  {
-    "home": "WHITE SOX",
-    "road": "GUARDIANS"
-  },
-  {
-    "home": "WHITE SOX",
-    "road": "GUARDIANS"
-  },
-  {
-    "home": "WHITE SOX",
-    "road": "GUARDIANS"
-  },
-  {
-    "home": "GIANTS",
-    "road": "ROCKIES"
-  },
-  {
-    "home": "GIANTS",
-    "road": "ROCKIES"
-  },
-  {
-    "home": "GIANTS",
-    "road": "ROCKIES"
-  },
-  {
-    "home": "PIRATES",
-    "road": "REDS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "REDS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "REDS"
-  },
-  {
-    "home": "RAYS",
-    "road": "BLUE JAYS"
-  },
-  {
-    "home": "RAYS",
-    "road": "BLUE JAYS"
-  },
-  {
-    "home": "RAYS",
-    "road": "BLUE JAYS"
-  },
-  {
-    "home": "RAYS",
-    "road": "BLUE JAYS"
-  },
-  {
-    "home": "TWINS",
-    "road": "GUARDIANS"
-  },
-  {
-    "home": "TWINS",
-    "road": "GUARDIANS"
-  },
-  {
-    "home": "TWINS",
-    "road": "GUARDIANS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "MARLINS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "MARLINS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "MARLINS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "ROCKIES",
-    "road": "GIANTS"
-  },
-  {
-    "home": "ROCKIES",
-    "road": "GIANTS"
-  },
-  {
-    "home": "ROCKIES",
-    "road": "GIANTS"
-  },
-  {
-    "home": "ROCKIES",
-    "road": "GIANTS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "DIAMONDBACKS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "DIAMONDBACKS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "DIAMONDBACKS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "DIAMONDBACKS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "DIAMONDBACKS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "MARLINS",
-    "road": "BRAVES"
-  },
-  {
-    "home": "MARLINS",
-    "road": "BRAVES"
-  },
-  {
-    "home": "MARLINS",
-    "road": "BRAVES"
-  },
-  {
-    "home": "ANGELS",
-    "road": "ATHLETICS"
-  },
-  {
-    "home": "ANGELS",
-    "road": "ATHLETICS"
-  },
-  {
-    "home": "ANGELS",
-    "road": "ATHLETICS"
-  },
-  {
-    "home": "REDS",
-    "road": "CUBS"
-  },
-  {
-    "home": "REDS",
-    "road": "CUBS"
-  },
-  {
-    "home": "REDS",
-    "road": "CUBS"
-  },
-  {
-    "home": "BRAVES",
-    "road": "PHILLIES"
-  },
-  {
-    "home": "BRAVES",
-    "road": "PHILLIES"
-  },
-  {
-    "home": "BRAVES",
-    "road": "PHILLIES"
-  },
-  {
-    "home": "MARINERS",
-    "road": "ATHLETICS"
-  },
-  {
-    "home": "MARINERS",
-    "road": "ATHLETICS"
-  },
-  {
-    "home": "MARINERS",
-    "road": "ATHLETICS"
-  },
-  {
-    "home": "ANGELS",
-    "road": "RANGERS"
-  },
-  {
-    "home": "ANGELS",
-    "road": "RANGERS"
-  },
-  {
-    "home": "ANGELS",
-    "road": "RANGERS"
-  },
-  {
-    "home": "TWINS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "TWINS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "TWINS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "BREWERS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "BREWERS"
-  },
-  {
-    "home": "RED SOX",
-    "road": "ORIOLES"
-  },
-  {
-    "home": "RED SOX",
-    "road": "ORIOLES"
-  },
-  {
-    "home": "RED SOX",
-    "road": "ORIOLES"
-  },
-  {
-    "home": "RED SOX",
-    "road": "ORIOLES"
-  },
-  {
-    "home": "TIGERS",
-    "road": "TWINS"
-  },
-  {
-    "home": "TIGERS",
-    "road": "TWINS"
-  },
-  {
-    "home": "TIGERS",
-    "road": "TWINS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "METS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "METS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "METS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "REDS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "REDS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "REDS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "REDS"
-  },
-  {
-    "home": "CARDINALS",
-    "road": "REDS"
-  },
-  {
-    "home": "GIANTS",
-    "road": "DODGERS"
-  },
-  {
-    "home": "GIANTS",
-    "road": "DODGERS"
-  },
-  {
-    "home": "GIANTS",
-    "road": "DODGERS"
-  },
-  {
-    "home": "NATIONALS",
-    "road": "BRAVES"
-  },
-  {
-    "home": "NATIONALS",
-    "road": "BRAVES"
-  },
-  {
-    "home": "NATIONALS",
-    "road": "BRAVES"
-  },
-  {
+    "date": "2022-09-08",
     "home": "PHILLIES",
+    "road": "MARLINS",
+    "score": "5 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-08",
+    "home": "YANKEES",
+    "road": "TWINS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-08",
+    "home": "BREWERS",
+    "road": "GIANTS",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "PADRES"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "PADRES"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "PADRES"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "PADRES"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "TIGERS",
+    "road": "WHITE SOX"
+  },
+  {
+    "home": "TIGERS",
+    "road": "WHITE SOX"
+  },
+  {
+    "home": "TIGERS",
+    "road": "WHITE SOX"
+  },
+  {
+    "home": "BRAVES",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "BRAVES",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "BRAVES",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CUBS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CUBS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CUBS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CUBS"
+  },
+  {
+    "home": "BREWERS",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "BREWERS",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "MARLINS",
+    "road": "PHILLIES"
+  },
+  {
+    "home": "MARLINS",
+    "road": "PHILLIES"
+  },
+  {
+    "home": "MARLINS",
+    "road": "PHILLIES"
+  },
+  {
+    "home": "RANGERS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "RANGERS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "RANGERS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "ROYALS",
+    "road": "TIGERS"
+  },
+  {
+    "home": "ROYALS",
+    "road": "TIGERS"
+  },
+  {
+    "home": "ROYALS",
+    "road": "TIGERS"
+  },
+  {
+    "home": "ASTROS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "ASTROS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "ASTROS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "ROYALS",
+    "road": "TWINS"
+  },
+  {
+    "home": "ROYALS",
+    "road": "TWINS"
+  },
+  {
+    "home": "ROYALS",
+    "road": "TWINS"
+  },
+  {
+    "home": "MARINERS",
+    "road": "RANGERS"
+  },
+  {
+    "home": "MARINERS",
+    "road": "RANGERS"
+  },
+  {
+    "home": "MARINERS",
+    "road": "RANGERS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "WHITE SOX"
+  },
+  {
+    "home": "TWINS",
+    "road": "WHITE SOX"
+  },
+  {
+    "home": "TWINS",
+    "road": "WHITE SOX"
+  },
+  {
+    "home": "TWINS",
+    "road": "WHITE SOX"
+  },
+  {
+    "home": "PADRES",
+    "road": "DODGERS"
+  },
+  {
+    "home": "PADRES",
+    "road": "DODGERS"
+  },
+  {
+    "home": "PADRES",
+    "road": "DODGERS"
+  },
+  {
+    "home": "PADRES",
+    "road": "DODGERS"
+  },
+  {
+    "home": "PADRES",
+    "road": "DODGERS"
+  },
+  {
+    "home": "PADRES",
+    "road": "DODGERS"
+  },
+  {
+    "home": "BLUE JAYS",
+    "road": "RED SOX"
+  },
+  {
+    "home": "BLUE JAYS",
+    "road": "RED SOX"
+  },
+  {
+    "home": "BLUE JAYS",
+    "road": "RED SOX"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "DODGERS"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "DODGERS"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "DODGERS"
+  },
+  {
+    "home": "NATIONALS",
     "road": "MARLINS"
+  },
+  {
+    "home": "NATIONALS",
+    "road": "MARLINS"
+  },
+  {
+    "home": "NATIONALS",
+    "road": "MARLINS"
+  },
+  {
+    "home": "YANKEES",
+    "road": "ORIOLES"
+  },
+  {
+    "home": "YANKEES",
+    "road": "ORIOLES"
+  },
+  {
+    "home": "YANKEES",
+    "road": "ORIOLES"
+  },
+  {
+    "home": "ORIOLES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "ORIOLES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "ORIOLES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "BLUE JAYS",
+    "road": "YANKEES"
+  },
+  {
+    "home": "BLUE JAYS",
+    "road": "YANKEES"
+  },
+  {
+    "home": "BLUE JAYS",
+    "road": "YANKEES"
+  },
+  {
+    "home": "BREWERS",
+    "road": "REDS"
+  },
+  {
+    "home": "BREWERS",
+    "road": "REDS"
+  },
+  {
+    "home": "BREWERS",
+    "road": "REDS"
+  },
+  {
+    "home": "REDS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "REDS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "REDS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "REDS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "REDS",
+    "road": "BREWERS"
+  },
+  {
+    "home": "REDS",
+    "road": "BREWERS"
+  },
+  {
+    "home": "REDS",
+    "road": "BREWERS"
+  },
+  {
+    "home": "REDS",
+    "road": "BREWERS"
+  },
+  {
+    "home": "WHITE SOX",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "WHITE SOX",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "WHITE SOX",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "GIANTS",
+    "road": "ROCKIES"
+  },
+  {
+    "home": "GIANTS",
+    "road": "ROCKIES"
+  },
+  {
+    "home": "GIANTS",
+    "road": "ROCKIES"
+  },
+  {
+    "home": "PIRATES",
+    "road": "REDS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "REDS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "REDS"
+  },
+  {
+    "home": "RAYS",
+    "road": "BLUE JAYS"
+  },
+  {
+    "home": "RAYS",
+    "road": "BLUE JAYS"
+  },
+  {
+    "home": "RAYS",
+    "road": "BLUE JAYS"
+  },
+  {
+    "home": "RAYS",
+    "road": "BLUE JAYS"
+  },
+  {
+    "home": "TWINS",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "TWINS",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "TWINS",
+    "road": "GUARDIANS"
+  },
+  {
+    "home": "ATHLETICS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "ATHLETICS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "ATHLETICS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "MARLINS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "MARLINS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "MARLINS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "ROCKIES",
+    "road": "GIANTS"
+  },
+  {
+    "home": "ROCKIES",
+    "road": "GIANTS"
+  },
+  {
+    "home": "ROCKIES",
+    "road": "GIANTS"
+  },
+  {
+    "home": "ROCKIES",
+    "road": "GIANTS"
+  },
+  {
+    "home": "DODGERS",
+    "road": "DIAMONDBACKS"
+  },
+  {
+    "home": "DODGERS",
+    "road": "DIAMONDBACKS"
+  },
+  {
+    "home": "DODGERS",
+    "road": "DIAMONDBACKS"
+  },
+  {
+    "home": "DODGERS",
+    "road": "DIAMONDBACKS"
+  },
+  {
+    "home": "DODGERS",
+    "road": "DIAMONDBACKS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "MARLINS",
+    "road": "BRAVES"
+  },
+  {
+    "home": "MARLINS",
+    "road": "BRAVES"
+  },
+  {
+    "home": "MARLINS",
+    "road": "BRAVES"
+  },
+  {
+    "home": "ANGELS",
+    "road": "ATHLETICS"
+  },
+  {
+    "home": "ANGELS",
+    "road": "ATHLETICS"
+  },
+  {
+    "home": "ANGELS",
+    "road": "ATHLETICS"
+  },
+  {
+    "home": "REDS",
+    "road": "CUBS"
+  },
+  {
+    "home": "REDS",
+    "road": "CUBS"
+  },
+  {
+    "home": "REDS",
+    "road": "CUBS"
+  },
+  {
+    "home": "BRAVES",
+    "road": "PHILLIES"
+  },
+  {
+    "home": "BRAVES",
+    "road": "PHILLIES"
+  },
+  {
+    "home": "BRAVES",
+    "road": "PHILLIES"
+  },
+  {
+    "home": "MARINERS",
+    "road": "ATHLETICS"
+  },
+  {
+    "home": "MARINERS",
+    "road": "ATHLETICS"
+  },
+  {
+    "home": "MARINERS",
+    "road": "ATHLETICS"
+  },
+  {
+    "home": "ANGELS",
+    "road": "RANGERS"
+  },
+  {
+    "home": "ANGELS",
+    "road": "RANGERS"
+  },
+  {
+    "home": "ANGELS",
+    "road": "RANGERS"
+  },
+  {
+    "home": "TWINS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "TWINS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "TWINS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "BREWERS"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "BREWERS"
+  },
+  {
+    "home": "RED SOX",
+    "road": "ORIOLES"
+  },
+  {
+    "home": "RED SOX",
+    "road": "ORIOLES"
+  },
+  {
+    "home": "RED SOX",
+    "road": "ORIOLES"
+  },
+  {
+    "home": "RED SOX",
+    "road": "ORIOLES"
+  },
+  {
+    "home": "TIGERS",
+    "road": "TWINS"
+  },
+  {
+    "home": "TIGERS",
+    "road": "TWINS"
+  },
+  {
+    "home": "TIGERS",
+    "road": "TWINS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "METS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "METS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "METS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "REDS"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "REDS"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "REDS"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "REDS"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "REDS"
+  },
+  {
+    "home": "GIANTS",
+    "road": "DODGERS"
+  },
+  {
+    "home": "GIANTS",
+    "road": "DODGERS"
+  },
+  {
+    "home": "GIANTS",
+    "road": "DODGERS"
+  },
+  {
+    "home": "NATIONALS",
+    "road": "BRAVES"
+  },
+  {
+    "home": "NATIONALS",
+    "road": "BRAVES"
+  },
+  {
+    "home": "NATIONALS",
+    "road": "BRAVES"
   },
   {
     "home": "BLUE JAYS",
@@ -15388,10 +15401,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "YANKEES",
-    "road": "TWINS"
   },
   {
     "home": "ATHLETICS",

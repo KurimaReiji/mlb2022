@@ -14327,5 +14327,26 @@
     "road": "GUARDIANS",
     "score": "2 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-08",
+    "home": "CARDINALS",
+    "road": "NATIONALS",
+    "score": "6 - 11",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-08",
+    "home": "CUBS",
+    "road": "REDS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-08",
+    "home": "BREWERS",
+    "road": "GIANTS",
+    "score": "2 - 1",
+    "status": "FINAL"
   }
 ]

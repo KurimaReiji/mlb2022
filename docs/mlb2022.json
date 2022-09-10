@@ -14379,13 +14379,6 @@
   },
   {
     "date": "2022-09-09",
-    "home": "PADRES",
-    "road": "DODGERS",
-    "score": "5 - 4",
-    "status": "FINAL (10)"
-  },
-  {
-    "date": "2022-09-09",
     "home": "CUBS",
     "road": "GIANTS",
     "score": "4 - 2",
@@ -14474,6 +14467,13 @@
     "road": "BRAVES",
     "score": "4 - 6",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-09",
+    "home": "PADRES",
+    "road": "DODGERS",
+    "score": "5 - 4",
+    "status": "FINAL (10)"
   },
   {
     "date": "2022-09-09",

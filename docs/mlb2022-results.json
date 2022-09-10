@@ -14383,5 +14383,26 @@
     "road": "GIANTS",
     "score": "4 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-09",
+    "home": "PIRATES",
+    "road": "CARDINALS",
+    "score": "8 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-09",
+    "home": "MARLINS",
+    "road": "METS",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-09",
+    "home": "PHILLIES",
+    "road": "NATIONALS",
+    "score": "5 - 3",
+    "status": "FINAL"
   }
 ]

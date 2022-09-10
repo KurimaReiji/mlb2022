@@ -14379,9 +14379,9 @@
   },
   {
     "date": "2022-09-09",
-    "home": "MARINERS",
-    "road": "BRAVES",
-    "score": "4 - 6",
+    "home": "TWINS",
+    "road": "GUARDIANS",
+    "score": "6 - 7",
     "status": "FINAL"
   },
   {
@@ -14459,6 +14459,13 @@
     "home": "ROCKIES",
     "road": "DIAMONDBACKS",
     "score": "13 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-09",
+    "home": "MARINERS",
+    "road": "BRAVES",
+    "score": "4 - 6",
     "status": "FINAL"
   },
   {
@@ -14823,10 +14830,6 @@
   {
     "home": "RAYS",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "TWINS",
-    "road": "GUARDIANS"
   },
   {
     "home": "TWINS",

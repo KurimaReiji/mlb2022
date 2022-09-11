@@ -14589,9 +14589,9 @@
   },
   {
     "date": "2022-09-11",
-    "home": "YANKEES",
-    "road": "RAYS",
-    "score": "10 - 4",
+    "home": "ROCKIES",
+    "road": "DIAMONDBACKS",
+    "score": "6 - 12",
     "status": "FINAL"
   },
   {
@@ -14599,6 +14599,13 @@
     "home": "ORIOLES",
     "road": "RED SOX",
     "score": "0 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "YANKEES",
+    "road": "RAYS",
+    "score": "10 - 4",
     "status": "FINAL"
   },
   {
@@ -15393,10 +15400,6 @@
   {
     "home": "TIGERS",
     "road": "ROYALS"
-  },
-  {
-    "home": "ROCKIES",
-    "road": "DIAMONDBACKS"
   },
   {
     "home": "RED SOX",

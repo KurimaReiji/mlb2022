@@ -14589,6 +14589,13 @@
   },
   {
     "date": "2022-09-11",
+    "home": "ASTROS",
+    "road": "ANGELS",
+    "score": "12 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
     "home": "ORIOLES",
     "road": "RED SOX",
     "score": "0 - 1",
@@ -14606,6 +14613,13 @@
     "home": "MARLINS",
     "road": "METS",
     "score": "3 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "TWINS",
+    "road": "GUARDIANS",
+    "score": "1 - 4",
     "status": "FINAL"
   },
   {
@@ -14736,10 +14750,6 @@
   },
   {
     "home": "RANGERS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ASTROS",
     "road": "ANGELS"
   },
   {
@@ -14941,10 +14951,6 @@
   {
     "home": "RAYS",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "TWINS",
-    "road": "GUARDIANS"
   },
   {
     "home": "ATHLETICS",

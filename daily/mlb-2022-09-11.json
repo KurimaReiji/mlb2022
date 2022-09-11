@@ -1,9 +1,9 @@
 [
   {
     "date": "2022-09-11",
-    "home": "ASTROS",
-    "road": "ANGELS",
-    "score": "12 - 4",
+    "home": "RANGERS",
+    "road": "BLUE JAYS",
+    "score": "4 - 1",
     "status": "FINAL"
   },
   {
@@ -25,6 +25,13 @@
     "home": "MARLINS",
     "road": "METS",
     "score": "3 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "ASTROS",
+    "road": "ANGELS",
+    "score": "12 - 4",
     "status": "FINAL"
   },
   {

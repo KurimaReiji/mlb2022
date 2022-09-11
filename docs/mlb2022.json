@@ -14589,9 +14589,9 @@
   },
   {
     "date": "2022-09-11",
-    "home": "ROCKIES",
-    "road": "DIAMONDBACKS",
-    "score": "6 - 12",
+    "home": "ATHLETICS",
+    "road": "WHITE SOX",
+    "score": "10 - 3",
     "status": "FINAL"
   },
   {
@@ -14658,6 +14658,20 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-11",
+    "home": "ROCKIES",
+    "road": "DIAMONDBACKS",
+    "score": "6 - 12",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "PADRES",
+    "road": "DODGERS",
+    "score": "2 - 11",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -14826,10 +14840,6 @@
     "road": "DODGERS"
   },
   {
-    "home": "PADRES",
-    "road": "DODGERS"
-  },
-  {
     "home": "BLUE JAYS",
     "road": "RED SOX"
   },
@@ -15564,10 +15574,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "WHITE SOX"
   },
   {
     "home": "CUBS",

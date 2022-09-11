@@ -1,9 +1,9 @@
 [
   {
     "date": "2022-09-11",
-    "home": "ROCKIES",
-    "road": "DIAMONDBACKS",
-    "score": "6 - 12",
+    "home": "ATHLETICS",
+    "road": "WHITE SOX",
+    "score": "10 - 3",
     "status": "FINAL"
   },
   {
@@ -67,6 +67,20 @@
     "home": "RANGERS",
     "road": "BLUE JAYS",
     "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "ROCKIES",
+    "road": "DIAMONDBACKS",
+    "score": "6 - 12",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "PADRES",
+    "road": "DODGERS",
+    "score": "2 - 11",
     "status": "FINAL"
   }
 ]

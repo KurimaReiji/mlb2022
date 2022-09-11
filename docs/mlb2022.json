@@ -14581,6 +14581,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-10",
+    "home": "MARINERS",
+    "road": "BRAVES",
+    "score": "3 - 1",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -15535,10 +15542,6 @@
   {
     "home": "RANGERS",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "MARINERS",
-    "road": "BRAVES"
   },
   {
     "home": "MARINERS",

@@ -96,5 +96,12 @@
     "road": "DODGERS",
     "score": "4 - 8",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-10",
+    "home": "MARINERS",
+    "road": "BRAVES",
+    "score": "3 - 1",
+    "status": "FINAL"
   }
 ]

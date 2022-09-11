@@ -14589,9 +14589,9 @@
   },
   {
     "date": "2022-09-11",
-    "home": "RANGERS",
-    "road": "BLUE JAYS",
-    "score": "4 - 1",
+    "home": "YANKEES",
+    "road": "RAYS",
+    "score": "10 - 4",
     "status": "FINAL"
   },
   {
@@ -14641,6 +14641,13 @@
     "home": "ROYALS",
     "road": "TIGERS",
     "score": "4 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "RANGERS",
+    "road": "BLUE JAYS",
+    "score": "4 - 1",
     "status": "FINAL"
   }
 ]

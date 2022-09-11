@@ -14586,5 +14586,19 @@
     "road": "BRAVES",
     "score": "3 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "PIRATES",
+    "road": "CARDINALS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "ROYALS",
+    "road": "TIGERS",
+    "score": "4 - 0",
+    "status": "FINAL"
   }
 ]

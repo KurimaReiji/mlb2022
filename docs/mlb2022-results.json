@@ -14589,9 +14589,30 @@
   },
   {
     "date": "2022-09-11",
+    "home": "ORIOLES",
+    "road": "RED SOX",
+    "score": "0 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
     "home": "PIRATES",
     "road": "CARDINALS",
     "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "MARLINS",
+    "road": "METS",
+    "score": "3 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "BREWERS",
+    "road": "REDS",
+    "score": "7 - 6",
     "status": "FINAL"
   },
   {

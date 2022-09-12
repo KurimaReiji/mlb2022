@@ -14589,6 +14589,13 @@
   },
   {
     "date": "2022-09-11",
+    "home": "PHILLIES",
+    "road": "NATIONALS",
+    "score": "7 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
     "home": "ORIOLES",
     "road": "RED SOX",
     "score": "0 - 1",
@@ -15477,10 +15484,6 @@
   {
     "home": "DODGERS",
     "road": "ROCKIES"
-  },
-  {
-    "home": "PHILLIES",
-    "road": "NATIONALS"
   },
   {
     "home": "RED SOX",

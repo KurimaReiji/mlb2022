@@ -14686,6 +14686,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-11",
+    "home": "CUBS",
+    "road": "GIANTS",
+    "score": "2 - 4",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -15584,10 +15591,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "CUBS",
-    "road": "GIANTS"
   },
   {
     "home": "GUARDIANS",

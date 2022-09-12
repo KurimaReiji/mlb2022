@@ -96,5 +96,12 @@
     "road": "BRAVES",
     "score": "8 - 7",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-11",
+    "home": "CUBS",
+    "road": "GIANTS",
+    "score": "2 - 4",
+    "status": "FINAL"
   }
 ]

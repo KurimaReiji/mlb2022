@@ -14698,5 +14698,47 @@
     "road": "RANGERS",
     "score": "2 - 3",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-12",
+    "home": "GUARDIANS",
+    "road": "ANGELS",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-12",
+    "home": "TIGERS",
+    "road": "ASTROS",
+    "score": "0 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-12",
+    "home": "REDS",
+    "road": "PIRATES",
+    "score": "3 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-12",
+    "home": "BLUE JAYS",
+    "road": "RAYS",
+    "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-12",
+    "home": "METS",
+    "road": "CUBS",
+    "score": "2 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-12",
+    "home": "MARLINS",
+    "road": "RANGERS",
+    "score": "10 - 6",
+    "status": "FINAL"
   }
 ]

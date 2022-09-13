@@ -14740,5 +14740,19 @@
     "road": "RANGERS",
     "score": "10 - 6",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-12",
+    "home": "DIAMONDBACKS",
+    "road": "DODGERS",
+    "score": "0 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-12",
+    "home": "GIANTS",
+    "road": "BRAVES",
+    "score": "3 - 2",
+    "status": "FINAL"
   }
 ]

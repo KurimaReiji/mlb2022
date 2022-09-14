@@ -14854,6 +14854,27 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-13",
+    "home": "MARINERS",
+    "road": "PADRES",
+    "score": "0 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-13",
+    "home": "DIAMONDBACKS",
+    "road": "DODGERS",
+    "score": "0 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-13",
+    "home": "GIANTS",
+    "road": "BRAVES",
+    "score": "1 - 5",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -15028,10 +15049,6 @@
   {
     "home": "BLUE JAYS",
     "road": "RED SOX"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "DODGERS"
   },
   {
     "home": "DIAMONDBACKS",
@@ -15714,20 +15731,12 @@
     "road": "BRAVES"
   },
   {
-    "home": "GIANTS",
-    "road": "BRAVES"
-  },
-  {
     "home": "NATIONALS",
     "road": "ORIOLES"
   },
   {
     "home": "WHITE SOX",
     "road": "ROCKIES"
-  },
-  {
-    "home": "MARINERS",
-    "road": "PADRES"
   },
   {
     "home": "MARINERS",

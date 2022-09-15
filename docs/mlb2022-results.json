@@ -14873,5 +14873,47 @@
     "road": "BRAVES",
     "score": "1 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-14",
+    "home": "REDS",
+    "road": "PIRATES",
+    "score": "4 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-14",
+    "home": "GUARDIANS",
+    "road": "ANGELS",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-14",
+    "home": "TIGERS",
+    "road": "ASTROS",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-14",
+    "home": "WHITE SOX",
+    "road": "ROCKIES",
+    "score": "0 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-14",
+    "home": "GIANTS",
+    "road": "BRAVES",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-14",
+    "home": "MARINERS",
+    "road": "PADRES",
+    "score": "6 - 1",
+    "status": "FINAL"
   }
 ]

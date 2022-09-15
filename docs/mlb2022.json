@@ -14973,6 +14973,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-14",
+    "home": "DIAMONDBACKS",
+    "road": "DODGERS",
+    "score": "5 - 3",
+    "status": "FINAL (10)"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -15143,10 +15150,6 @@
   {
     "home": "BLUE JAYS",
     "road": "RED SOX"
-  },
-  {
-    "home": "DIAMONDBACKS",
-    "road": "DODGERS"
   },
   {
     "home": "NATIONALS",

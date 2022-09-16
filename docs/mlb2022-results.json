@@ -14978,5 +14978,19 @@
     "road": "DODGERS",
     "score": "5 - 3",
     "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-09-15",
+    "home": "GUARDIANS",
+    "road": "WHITE SOX",
+    "score": "2 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-15",
+    "home": "BLUE JAYS",
+    "road": "RAYS",
+    "score": "0 - 11",
+    "status": "FINAL"
   }
 ]

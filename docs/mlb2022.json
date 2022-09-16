@@ -14980,6 +14980,20 @@
     "status": "FINAL (10)"
   },
   {
+    "date": "2022-09-15",
+    "home": "GUARDIANS",
+    "road": "WHITE SOX",
+    "score": "2 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-15",
+    "home": "BLUE JAYS",
+    "road": "RAYS",
+    "score": "0 - 11",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -15112,10 +15126,6 @@
     "road": "RANGERS"
   },
   {
-    "home": "GUARDIANS",
-    "road": "WHITE SOX"
-  },
-  {
     "home": "TWINS",
     "road": "WHITE SOX"
   },
@@ -15634,10 +15644,6 @@
   {
     "home": "CUBS",
     "road": "REDS"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "RAYS"
   },
   {
     "home": "TIGERS",

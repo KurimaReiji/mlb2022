@@ -1,6 +1,13 @@
 [
   {
     "date": "2022-09-16",
+    "home": "GIANTS",
+    "road": "DODGERS",
+    "score": "0 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-16",
     "home": "CUBS",
     "road": "ROCKIES",
     "score": "2 - 1",
@@ -64,6 +71,13 @@
   },
   {
     "date": "2022-09-16",
+    "home": "BREWERS",
+    "road": "YANKEES",
+    "score": "7 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-16",
     "home": "ASTROS",
     "road": "ATHLETICS",
     "score": "5 - 0",
@@ -74,6 +88,20 @@
     "home": "CARDINALS",
     "road": "REDS",
     "score": "6 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-16",
+    "home": "ANGELS",
+    "road": "MARINERS",
+    "score": "8 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-16",
+    "home": "DIAMONDBACKS",
+    "road": "PADRES",
+    "score": "3 - 12",
     "status": "FINAL"
   }
 ]

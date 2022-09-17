@@ -15036,6 +15036,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-16",
+    "home": "CUBS",
+    "road": "ROCKIES",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -15826,10 +15833,6 @@
   {
     "home": "METS",
     "road": "PIRATES"
-  },
-  {
-    "home": "CUBS",
-    "road": "ROCKIES"
   },
   {
     "home": "CUBS",

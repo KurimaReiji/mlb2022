@@ -15043,48 +15043,114 @@
     "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
+    "date": "2022-09-16",
+    "home": "NATIONALS",
+    "road": "MARLINS",
+    "score": "5 - 4",
+    "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
+    "date": "2022-09-16",
+    "home": "BLUE JAYS",
+    "road": "ORIOLES",
+    "score": "6 - 3",
+    "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
+    "date": "2022-09-16",
+    "home": "RAYS",
+    "road": "RANGERS",
+    "score": "3 - 4",
+    "status": "FINAL"
   },
   {
-    "home": "DIAMONDBACKS",
-    "road": "PADRES"
+    "date": "2022-09-16",
+    "home": "GUARDIANS",
+    "road": "TWINS",
+    "score": "4 - 3",
+    "status": "FINAL"
   },
   {
-    "home": "DIAMONDBACKS",
-    "road": "PADRES"
+    "date": "2022-09-16",
+    "home": "RED SOX",
+    "road": "ROYALS",
+    "score": "2 - 1",
+    "status": "FINAL"
   },
   {
-    "home": "DIAMONDBACKS",
-    "road": "PADRES"
+    "date": "2022-09-16",
+    "home": "METS",
+    "road": "PIRATES",
+    "score": "4 - 3",
+    "status": "FINAL"
   },
   {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
+    "date": "2022-09-16",
     "home": "TIGERS",
-    "road": "WHITE SOX"
+    "road": "WHITE SOX",
+    "score": "3 - 2",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-09-16",
+    "home": "BRAVES",
+    "road": "PHILLIES",
+    "score": "7 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-16",
+    "home": "ASTROS",
+    "road": "ATHLETICS",
+    "score": "5 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-16",
+    "home": "CARDINALS",
+    "road": "REDS",
+    "score": "6 - 5",
+    "status": "FINAL"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "PADRES"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "PADRES"
+  },
+  {
+    "home": "DIAMONDBACKS",
+    "road": "PADRES"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
   },
   {
     "home": "TIGERS",
@@ -15211,10 +15277,6 @@
     "road": "MARLINS"
   },
   {
-    "home": "NATIONALS",
-    "road": "MARLINS"
-  },
-  {
     "home": "YANKEES",
     "road": "ORIOLES"
   },
@@ -15423,10 +15485,6 @@
     "road": "PHILLIES"
   },
   {
-    "home": "BRAVES",
-    "road": "PHILLIES"
-  },
-  {
     "home": "MARINERS",
     "road": "ATHLETICS"
   },
@@ -15527,10 +15585,6 @@
     "road": "REDS"
   },
   {
-    "home": "CARDINALS",
-    "road": "REDS"
-  },
-  {
     "home": "GIANTS",
     "road": "DODGERS"
   },
@@ -15553,10 +15607,6 @@
   {
     "home": "NATIONALS",
     "road": "BRAVES"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "ORIOLES"
   },
   {
     "home": "BLUE JAYS",
@@ -15647,10 +15697,6 @@
     "road": "TWINS"
   },
   {
-    "home": "GUARDIANS",
-    "road": "TWINS"
-  },
-  {
     "home": "PHILLIES",
     "road": "BRAVES"
   },
@@ -15807,10 +15853,6 @@
     "road": "ATHLETICS"
   },
   {
-    "home": "ASTROS",
-    "road": "ATHLETICS"
-  },
-  {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
   },
@@ -15821,10 +15863,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "METS",
-    "road": "PIRATES"
   },
   {
     "home": "METS",
@@ -15849,14 +15887,6 @@
   {
     "home": "RAYS",
     "road": "RANGERS"
-  },
-  {
-    "home": "RAYS",
-    "road": "RANGERS"
-  },
-  {
-    "home": "RED SOX",
-    "road": "ROYALS"
   },
   {
     "home": "RED SOX",

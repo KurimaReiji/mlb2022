@@ -15142,10 +15142,10 @@
   },
   {
     "date": "2022-09-17",
-    "home": "CARDINALS",
-    "road": "REDS",
-    "score": "1 - 0",
-    "status": "FINAL (11)"
+    "home": "ANGELS",
+    "road": "MARINERS",
+    "score": "2 - 1",
+    "status": "FINAL"
   },
   {
     "date": "2022-09-17",
@@ -15222,6 +15222,27 @@
     "home": "METS",
     "road": "PIRATES",
     "score": "5 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "CARDINALS",
+    "road": "REDS",
+    "score": "1 - 0",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "BRAVES",
+    "road": "PHILLIES",
+    "score": "4 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "DIAMONDBACKS",
+    "road": "PADRES",
+    "score": "0 - 2",
     "status": "FINAL"
   }
 ]

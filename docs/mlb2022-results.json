@@ -15142,13 +15142,6 @@
   },
   {
     "date": "2022-09-17",
-    "home": "ANGELS",
-    "road": "MARINERS",
-    "score": "2 - 1",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-09-17",
     "home": "GUARDIANS",
     "road": "TWINS",
     "score": "5 - 1",
@@ -15243,6 +15236,13 @@
     "home": "DIAMONDBACKS",
     "road": "PADRES",
     "score": "0 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "ANGELS",
+    "road": "MARINERS",
+    "score": "2 - 1",
     "status": "FINAL"
   }
 ]

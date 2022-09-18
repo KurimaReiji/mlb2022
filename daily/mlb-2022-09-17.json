@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2022-09-17",
+    "home": "GUARDIANS",
+    "road": "TWINS",
+    "score": "5 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "CARDINALS",
+    "road": "REDS",
+    "score": "5 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "CUBS",
+    "road": "ROCKIES",
+    "score": "1 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "BLUE JAYS",
+    "road": "ORIOLES",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "NATIONALS",
+    "road": "MARLINS",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
+    "home": "RED SOX",
+    "road": "ROYALS",
+    "score": "0 - 9",
+    "status": "FINAL"
+  }
+]

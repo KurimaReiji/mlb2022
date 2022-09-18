@@ -1,6 +1,13 @@
 [
   {
     "date": "2022-09-17",
+    "home": "GIANTS",
+    "road": "DODGERS",
+    "score": "2 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-17",
     "home": "GUARDIANS",
     "road": "TWINS",
     "score": "5 - 1",

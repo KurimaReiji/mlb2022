@@ -1,13 +1,6 @@
 [
   {
     "date": "2022-09-18",
-    "home": "GIANTS",
-    "road": "DODGERS",
-    "score": "3 - 4",
-    "status": "FINAL (10)"
-  },
-  {
-    "date": "2022-09-18",
     "home": "TIGERS",
     "road": "WHITE SOX",
     "score": "5 - 11",
@@ -103,5 +96,12 @@
     "road": "PADRES",
     "score": "1 - 6",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-18",
+    "home": "GIANTS",
+    "road": "DODGERS",
+    "score": "3 - 4",
+    "status": "FINAL (10)"
   }
 ]

@@ -15363,5 +15363,19 @@
     "road": "DODGERS",
     "score": "3 - 4",
     "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "GUARDIANS",
+    "road": "TWINS",
+    "score": "11 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "ANGELS",
+    "road": "MARINERS",
+    "score": "1 - 9",
+    "status": "FINAL"
   }
 ]

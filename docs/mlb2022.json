@@ -15379,36 +15379,67 @@
     "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
+    "date": "2022-09-19",
+    "home": "RAYS",
+    "road": "ASTROS",
+    "score": "0 - 4",
+    "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
+    "date": "2022-09-19",
+    "home": "MARLINS",
+    "road": "CUBS",
+    "score": "10 - 3",
+    "status": "FINAL"
   },
   {
-    "home": "CARDINALS",
-    "road": "PIRATES"
+    "date": "2022-09-19",
+    "home": "ORIOLES",
+    "road": "TIGERS",
+    "score": "0 - 11",
+    "status": "FINAL"
   },
   {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
-    "home": "YANKEES",
-    "road": "RED SOX"
-  },
-  {
+    "date": "2022-09-19",
     "home": "BRAVES",
-    "road": "NATIONALS"
+    "road": "NATIONALS",
+    "score": "5 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "BREWERS",
+    "road": "METS",
+    "score": "2 - 7",
+    "status": "FINAL"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "CARDINALS",
+    "road": "PIRATES"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
+  },
+  {
+    "home": "YANKEES",
+    "road": "RED SOX"
   },
   {
     "home": "BRAVES",
@@ -16031,14 +16062,6 @@
     "road": "ASTROS"
   },
   {
-    "home": "RAYS",
-    "road": "ASTROS"
-  },
-  {
-    "home": "MARLINS",
-    "road": "CUBS"
-  },
-  {
     "home": "MARLINS",
     "road": "CUBS"
   },
@@ -16053,14 +16076,6 @@
   {
     "home": "ORIOLES",
     "road": "TIGERS"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "TIGERS"
-  },
-  {
-    "home": "BREWERS",
-    "road": "METS"
   },
   {
     "home": "BREWERS",

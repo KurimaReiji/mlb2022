@@ -15377,5 +15377,40 @@
     "road": "MARINERS",
     "score": "1 - 9",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "RAYS",
+    "road": "ASTROS",
+    "score": "0 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "MARLINS",
+    "road": "CUBS",
+    "score": "10 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "ORIOLES",
+    "road": "TIGERS",
+    "score": "0 - 11",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "BRAVES",
+    "road": "NATIONALS",
+    "score": "5 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "BREWERS",
+    "road": "METS",
+    "score": "2 - 7",
+    "status": "FINAL"
   }
 ]

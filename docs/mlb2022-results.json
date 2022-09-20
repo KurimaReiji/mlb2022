@@ -15412,5 +15412,19 @@
     "road": "METS",
     "score": "2 - 7",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "ROCKIES",
+    "road": "GIANTS",
+    "score": "7 - 10",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-09-19",
+    "home": "DODGERS",
+    "road": "DIAMONDBACKS",
+    "score": "5 - 2",
+    "status": "FINAL"
   }
 ]

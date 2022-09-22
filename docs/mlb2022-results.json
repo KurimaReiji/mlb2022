@@ -15615,5 +15615,33 @@
     "road": "TWINS",
     "score": "5 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-21",
+    "home": "ROCKIES",
+    "road": "GIANTS",
+    "score": "1 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-21",
+    "home": "PADRES",
+    "road": "CARDINALS",
+    "score": "1 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-21",
+    "home": "ATHLETICS",
+    "road": "MARINERS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-21",
+    "home": "DODGERS",
+    "road": "DIAMONDBACKS",
+    "score": "1 - 6",
+    "status": "FINAL"
   }
 ]

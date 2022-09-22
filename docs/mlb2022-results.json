@@ -15538,5 +15538,19 @@
     "road": "DIAMONDBACKS",
     "score": "2 - 5",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-21",
+    "home": "BRAVES",
+    "road": "NATIONALS",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-21",
+    "home": "BREWERS",
+    "road": "METS",
+    "score": "6 - 0",
+    "status": "FINAL"
   }
 ]

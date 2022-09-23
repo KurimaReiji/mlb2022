@@ -15643,5 +15643,40 @@
     "road": "DIAMONDBACKS",
     "score": "1 - 6",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-22",
+    "home": "RANGERS",
+    "road": "ANGELS",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-22",
+    "home": "ROYALS",
+    "road": "TWINS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-22",
+    "home": "ROCKIES",
+    "road": "GIANTS",
+    "score": "0 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-22",
+    "home": "ATHLETICS",
+    "road": "MARINERS",
+    "score": "5 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-22",
+    "home": "PADRES",
+    "road": "CARDINALS",
+    "score": "4 - 5",
+    "status": "FINAL"
   }
 ]

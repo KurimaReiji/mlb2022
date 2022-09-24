@@ -15820,6 +15820,27 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-23",
+    "home": "ATHLETICS",
+    "road": "METS",
+    "score": "2 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-23",
+    "home": "DIAMONDBACKS",
+    "road": "GIANTS",
+    "score": "5 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-23",
+    "home": "DODGERS",
+    "road": "CARDINALS",
+    "score": "0 - 11",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -16220,10 +16241,6 @@
     "road": "GIANTS"
   },
   {
-    "home": "DIAMONDBACKS",
-    "road": "GIANTS"
-  },
-  {
     "home": "WHITE SOX",
     "road": "TWINS"
   },
@@ -16354,14 +16371,6 @@
   {
     "home": "ATHLETICS",
     "road": "METS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "METS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "CARDINALS"
   },
   {
     "home": "DODGERS",

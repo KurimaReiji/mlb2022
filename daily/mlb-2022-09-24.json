@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2022-09-24",
+    "home": "MARLINS",
+    "road": "NATIONALS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-24",
+    "home": "YANKEES",
+    "road": "RED SOX",
+    "score": "7 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-24",
+    "home": "PHILLIES",
+    "road": "BRAVES",
+    "score": "3 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-24",
+    "home": "ATHLETICS",
+    "road": "METS",
+    "score": "10 - 4",
+    "status": "FINAL"
+  }
+]

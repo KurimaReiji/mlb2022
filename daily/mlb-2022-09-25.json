@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2022-09-25",
+    "home": "PHILLIES",
+    "road": "BRAVES",
+    "score": "7 - 8",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "ORIOLES",
+    "road": "ASTROS",
+    "score": "3 - 6",
+    "status": "FINAL (11)"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "RAYS",
+    "road": "BLUE JAYS",
+    "score": "1 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "PIRATES",
+    "road": "CUBS",
+    "score": "3 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "REDS",
+    "road": "BREWERS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "MARLINS",
+    "road": "NATIONALS",
+    "score": "1 - 6",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "TWINS",
+    "road": "ANGELS",
+    "score": "3 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "ROYALS",
+    "road": "MARINERS",
+    "score": "13 - 12",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "WHITE SOX",
+    "road": "TIGERS",
+    "score": "1 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "RANGERS",
+    "road": "GUARDIANS",
+    "score": "4 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "ROCKIES",
+    "road": "PADRES",
+    "score": "6 - 13",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "DIAMONDBACKS",
+    "road": "GIANTS",
+    "score": "2 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "ATHLETICS",
+    "road": "METS",
+    "score": "4 - 13",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-25",
+    "home": "DODGERS",
+    "road": "CARDINALS",
+    "score": "4 - 1",
+    "status": "FINAL"
+  }
+]

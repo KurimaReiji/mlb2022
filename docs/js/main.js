@@ -256,8 +256,8 @@ const main_handler = (series, league = "AL", division = "West") => {
       .sort()
       .slice(-1)[0]
   );
-  moveTo(selected, params, 5 - (params.num % 5) + params.num);
-  //moveTo(selected, params, 162);
+  //moveTo(selected, params, 5 - (params.num % 5) + params.num);
+  moveTo(selected, params, 162);
   set_page_title(`Games above .500, ${league} ${division} 2022`);
 };
 

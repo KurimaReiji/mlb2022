@@ -16049,5 +16049,26 @@
     "road": "RED SOX",
     "score": "2 - 0",
     "status": "FINAL (6)"
+  },
+  {
+    "date": "2022-09-26",
+    "home": "PIRATES",
+    "road": "REDS",
+    "score": "8 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-26",
+    "home": "NATIONALS",
+    "road": "BRAVES",
+    "score": "0 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-26",
+    "home": "BLUE JAYS",
+    "road": "YANKEES",
+    "score": "3 - 2",
+    "status": "FINAL (10)"
   }
 ]

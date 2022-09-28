@@ -16080,13 +16080,6 @@
   },
   {
     "date": "2022-09-27",
-    "home": "ASTROS",
-    "road": "DIAMONDBACKS",
-    "score": "10 - 2",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-09-27",
     "home": "GUARDIANS",
     "road": "RAYS",
     "score": "5 - 6",
@@ -16153,6 +16146,13 @@
     "home": "TWINS",
     "road": "WHITE SOX",
     "score": "4 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-27",
+    "home": "ASTROS",
+    "road": "DIAMONDBACKS",
+    "score": "10 - 2",
     "status": "FINAL"
   },
   {

@@ -16287,5 +16287,33 @@
     "road": "ROCKIES",
     "score": "6 - 3",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "TWINS",
+    "road": "WHITE SOX",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "TIGERS",
+    "road": "ROYALS",
+    "score": "10 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "RED SOX",
+    "road": "ORIOLES",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "CUBS",
+    "road": "PHILLIES",
+    "score": "2 - 0",
+    "status": "FINAL"
   }
 ]

@@ -16289,6 +16289,34 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-29",
+    "home": "TWINS",
+    "road": "WHITE SOX",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "TIGERS",
+    "road": "ROYALS",
+    "score": "10 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "RED SOX",
+    "road": "ORIOLES",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "CUBS",
+    "road": "PHILLIES",
+    "score": "2 - 0",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -16303,10 +16331,6 @@
   {
     "home": "MARINERS",
     "road": "RANGERS"
-  },
-  {
-    "home": "TWINS",
-    "road": "WHITE SOX"
   },
   {
     "home": "PADRES",
@@ -16417,10 +16441,6 @@
     "road": "RANGERS"
   },
   {
-    "home": "RED SOX",
-    "road": "ORIOLES"
-  },
-  {
     "home": "TIGERS",
     "road": "TWINS"
   },
@@ -16495,10 +16515,6 @@
   {
     "home": "CUBS",
     "road": "REDS"
-  },
-  {
-    "home": "TIGERS",
-    "road": "ROYALS"
   },
   {
     "home": "RED SOX",
@@ -16599,10 +16615,6 @@
   {
     "home": "GUARDIANS",
     "road": "RAYS"
-  },
-  {
-    "home": "CUBS",
-    "road": "PHILLIES"
   },
   {
     "home": "BREWERS",

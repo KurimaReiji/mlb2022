@@ -16184,6 +16184,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-28",
+    "home": "PIRATES",
+    "road": "REDS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -16258,10 +16265,6 @@
   {
     "home": "GIANTS",
     "road": "ROCKIES"
-  },
-  {
-    "home": "PIRATES",
-    "road": "REDS"
   },
   {
     "home": "ATHLETICS",

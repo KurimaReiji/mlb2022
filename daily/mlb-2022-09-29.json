@@ -40,5 +40,19 @@
     "road": "MARLINS",
     "score": "2 - 4",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "ANGELS",
+    "road": "ATHLETICS",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "GIANTS",
+    "road": "ROCKIES",
+    "score": "6 - 4",
+    "status": "FINAL"
   }
 ]

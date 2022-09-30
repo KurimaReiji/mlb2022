@@ -50,6 +50,13 @@
   },
   {
     "date": "2022-09-29",
+    "home": "PADRES",
+    "road": "DODGERS",
+    "score": "2 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
     "home": "GIANTS",
     "road": "ROCKIES",
     "score": "6 - 4",

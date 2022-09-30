@@ -16317,6 +16317,20 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-09-29",
+    "home": "GUARDIANS",
+    "road": "RAYS",
+    "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-29",
+    "home": "BREWERS",
+    "road": "MARLINS",
+    "score": "2 - 4",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -16611,14 +16625,6 @@
   {
     "home": "ORIOLES",
     "road": "BLUE JAYS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "RAYS"
-  },
-  {
-    "home": "BREWERS",
-    "road": "MARLINS"
   },
   {
     "home": "BREWERS",

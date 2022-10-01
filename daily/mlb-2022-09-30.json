@@ -1,13 +1,6 @@
 [
   {
     "date": "2022-09-30",
-    "home": "GIANTS",
-    "road": "DIAMONDBACKS",
-    "score": "10 - 4",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-09-30",
     "home": "NATIONALS",
     "road": "PHILLIES",
     "score": "1 - 5",
@@ -102,6 +95,13 @@
     "home": "DODGERS",
     "road": "ROCKIES",
     "score": "10 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-30",
+    "home": "GIANTS",
+    "road": "DIAMONDBACKS",
+    "score": "10 - 4",
     "status": "FINAL"
   }
 ]

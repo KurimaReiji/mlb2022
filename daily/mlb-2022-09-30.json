@@ -1,9 +1,9 @@
 [
   {
     "date": "2022-09-30",
-    "home": "ANGELS",
-    "road": "RANGERS",
-    "score": "4 - 1",
+    "home": "MARINERS",
+    "road": "ATHLETICS",
+    "score": "2 - 1",
     "status": "FINAL"
   },
   {
@@ -74,6 +74,13 @@
     "home": "CARDINALS",
     "road": "PIRATES",
     "score": "2 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-30",
+    "home": "ANGELS",
+    "road": "RANGERS",
+    "score": "4 - 1",
     "status": "FINAL"
   }
 ]

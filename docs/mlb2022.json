@@ -16360,13 +16360,6 @@
   },
   {
     "date": "2022-09-30",
-    "home": "CARDINALS",
-    "road": "PIRATES",
-    "score": "2 - 1",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-09-30",
     "home": "NATIONALS",
     "road": "PHILLIES",
     "score": "1 - 5",
@@ -16426,6 +16419,13 @@
     "home": "BREWERS",
     "road": "MARLINS",
     "score": "1 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-30",
+    "home": "CARDINALS",
+    "road": "PIRATES",
+    "score": "2 - 1",
     "status": "FINAL"
   },
   {

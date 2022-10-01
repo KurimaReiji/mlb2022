@@ -107,6 +107,7 @@ const chart_param_builder = (series, predefined = {}) => {
   const yMin = Math.min(...series.map((s) => s.min));
   const num = Math.max(...series.map((s) => s.values.length));
   const xAxis = [0, 5 - (num % 5) + num];
+  xAxis[1] = 162;
   const yAxis = [yMin - 2, yMax + 2].map((n) =>
     n % 5 == 0 ? n + Math.sign(n) : n
   );

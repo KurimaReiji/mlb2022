@@ -16371,5 +16371,40 @@
     "road": "REDS",
     "score": "6 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-09-30",
+    "home": "YANKEES",
+    "road": "ORIOLES",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-30",
+    "home": "BLUE JAYS",
+    "road": "RED SOX",
+    "score": "9 - 0",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-30",
+    "home": "GUARDIANS",
+    "road": "ROYALS",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-30",
+    "home": "TIGERS",
+    "road": "TWINS",
+    "score": "0 - 7",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-09-30",
+    "home": "BRAVES",
+    "road": "METS",
+    "score": "5 - 2",
+    "status": "FINAL"
   }
 ]

@@ -16576,6 +16576,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-10-02",
+    "home": "TIGERS",
+    "road": "TWINS",
+    "score": "5 - 2",
+    "status": "FINAL"
+  },
+  {
     "home": "CARDINALS",
     "road": "PIRATES"
   },
@@ -16642,10 +16649,6 @@
   {
     "home": "ANGELS",
     "road": "RANGERS"
-  },
-  {
-    "home": "TIGERS",
-    "road": "TWINS"
   },
   {
     "home": "GUARDIANS",

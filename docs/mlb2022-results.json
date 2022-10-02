@@ -16577,9 +16577,9 @@
   },
   {
     "date": "2022-10-02",
-    "home": "ASTROS",
-    "road": "RAYS",
-    "score": "3 - 1",
+    "home": "YANKEES",
+    "road": "ORIOLES",
+    "score": "1 - 3",
     "status": "FINAL"
   },
   {
@@ -16601,6 +16601,20 @@
     "home": "GUARDIANS",
     "road": "ROYALS",
     "score": "7 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
+    "home": "ASTROS",
+    "road": "RAYS",
+    "score": "3 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
+    "home": "CUBS",
+    "road": "REDS",
+    "score": "8 - 1",
     "status": "FINAL"
   }
 ]

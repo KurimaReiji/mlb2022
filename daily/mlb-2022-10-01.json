@@ -15,13 +15,6 @@
   },
   {
     "date": "2022-10-01",
-    "home": "DODGERS",
-    "road": "ROCKIES",
-    "score": "6 - 4",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-10-01",
     "home": "YANKEES",
     "road": "ORIOLES",
     "score": "8 - 0",
@@ -109,6 +102,13 @@
     "home": "ANGELS",
     "road": "RANGERS",
     "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-01",
+    "home": "DODGERS",
+    "road": "ROCKIES",
+    "score": "6 - 4",
     "status": "FINAL"
   }
 ]

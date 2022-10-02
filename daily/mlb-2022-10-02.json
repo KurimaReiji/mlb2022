@@ -1,9 +1,9 @@
 [
   {
     "date": "2022-10-02",
-    "home": "BLUE JAYS",
-    "road": "RED SOX",
-    "score": "6 - 3",
+    "home": "GUARDIANS",
+    "road": "ROYALS",
+    "score": "7 - 5",
     "status": "FINAL"
   },
   {
@@ -11,6 +11,13 @@
     "home": "TIGERS",
     "road": "TWINS",
     "score": "5 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
+    "home": "BLUE JAYS",
+    "road": "RED SOX",
+    "score": "6 - 3",
     "status": "FINAL"
   }
 ]

@@ -16479,13 +16479,6 @@
   },
   {
     "date": "2022-10-01",
-    "home": "CARDINALS",
-    "road": "PIRATES",
-    "score": "13 - 3",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-10-01",
     "home": "YANKEES",
     "road": "ORIOLES",
     "score": "8 - 0",
@@ -16545,6 +16538,20 @@
     "home": "NATIONALS",
     "road": "PHILLIES",
     "score": "2 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-01",
+    "home": "BREWERS",
+    "road": "MARLINS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-01",
+    "home": "CARDINALS",
+    "road": "PIRATES",
+    "score": "13 - 3",
     "status": "FINAL"
   }
 ]

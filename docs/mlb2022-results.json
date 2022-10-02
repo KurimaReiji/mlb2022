@@ -16577,10 +16577,10 @@
   },
   {
     "date": "2022-10-02",
-    "home": "CARDINALS",
-    "road": "PIRATES",
-    "score": "5 - 7",
-    "status": "FINAL"
+    "home": "BREWERS",
+    "road": "MARLINS",
+    "score": "3 - 4",
+    "status": "FINAL (12)"
   },
   {
     "date": "2022-10-02",
@@ -16622,6 +16622,13 @@
     "home": "ASTROS",
     "road": "RAYS",
     "score": "3 - 1",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
+    "home": "CARDINALS",
+    "road": "PIRATES",
+    "score": "5 - 7",
     "status": "FINAL"
   },
   {

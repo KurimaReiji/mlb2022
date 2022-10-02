@@ -1,17 +1,10 @@
 [
   {
     "date": "2022-10-02",
-    "home": "PADRES",
-    "road": "WHITE SOX",
-    "score": "1 - 2",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-10-02",
-    "home": "MARINERS",
-    "road": "ATHLETICS",
-    "score": "3 - 10",
-    "status": "FINAL"
+    "home": "GIANTS",
+    "road": "DIAMONDBACKS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
   },
   {
     "date": "2022-10-02",
@@ -81,6 +74,20 @@
     "home": "ANGELS",
     "road": "RANGERS",
     "score": "8 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
+    "home": "PADRES",
+    "road": "WHITE SOX",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
+    "home": "MARINERS",
+    "road": "ATHLETICS",
+    "score": "3 - 10",
     "status": "FINAL"
   },
   {

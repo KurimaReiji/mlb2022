@@ -16577,16 +16577,23 @@
   },
   {
     "date": "2022-10-02",
-    "home": "YANKEES",
-    "road": "ORIOLES",
-    "score": "1 - 3",
-    "status": "FINAL"
+    "home": "NATIONALS",
+    "road": "PHILLIES",
+    "score": "1 - 8",
+    "status": "FINAL (6)"
   },
   {
     "date": "2022-10-02",
     "home": "TIGERS",
     "road": "TWINS",
     "score": "5 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
+    "home": "YANKEES",
+    "road": "ORIOLES",
+    "score": "1 - 3",
     "status": "FINAL"
   },
   {

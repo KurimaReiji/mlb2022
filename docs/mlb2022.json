@@ -16577,6 +16577,13 @@
   },
   {
     "date": "2022-10-02",
+    "home": "BLUE JAYS",
+    "road": "RED SOX",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
     "home": "TIGERS",
     "road": "TWINS",
     "score": "5 - 2",
@@ -16585,10 +16592,6 @@
   {
     "home": "CARDINALS",
     "road": "PIRATES"
-  },
-  {
-    "home": "BLUE JAYS",
-    "road": "RED SOX"
   },
   {
     "home": "YANKEES",

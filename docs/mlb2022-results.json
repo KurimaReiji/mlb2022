@@ -16577,13 +16577,6 @@
   },
   {
     "date": "2022-10-02",
-    "home": "GIANTS",
-    "road": "DIAMONDBACKS",
-    "score": "4 - 3",
-    "status": "FINAL (10)"
-  },
-  {
-    "date": "2022-10-02",
     "home": "TIGERS",
     "road": "TWINS",
     "score": "5 - 2",
@@ -16644,6 +16637,13 @@
     "road": "REDS",
     "score": "8 - 1",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-10-02",
+    "home": "GIANTS",
+    "road": "DIAMONDBACKS",
+    "score": "4 - 3",
+    "status": "FINAL (10)"
   },
   {
     "date": "2022-10-02",

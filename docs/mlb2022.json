@@ -16751,140 +16751,152 @@
     "status": "FINAL"
   },
   {
-    "home": "ATHLETICS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "ATHLETICS",
-    "road": "ANGELS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
-  },
-  {
-    "home": "MARLINS",
-    "road": "BRAVES"
-  },
-  {
-    "home": "MARLINS",
-    "road": "BRAVES"
-  },
-  {
-    "home": "REDS",
-    "road": "CUBS"
-  },
-  {
-    "home": "REDS",
-    "road": "CUBS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
-  },
-  {
-    "home": "METS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "METS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "METS",
-    "road": "NATIONALS"
-  },
-  {
-    "home": "RED SOX",
-    "road": "RAYS"
-  },
-  {
-    "home": "RED SOX",
-    "road": "RAYS"
-  },
-  {
-    "home": "WHITE SOX",
-    "road": "TWINS"
-  },
-  {
-    "home": "WHITE SOX",
-    "road": "TWINS"
-  },
-  {
-    "home": "DODGERS",
-    "road": "ROCKIES"
-  },
-  {
-    "home": "DODGERS",
-    "road": "ROCKIES"
-  },
-  {
-    "home": "DODGERS",
-    "road": "ROCKIES"
-  },
-  {
-    "home": "PADRES",
-    "road": "GIANTS"
-  },
-  {
-    "home": "PADRES",
-    "road": "GIANTS"
-  },
-  {
-    "home": "PADRES",
-    "road": "GIANTS"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "BLUE JAYS"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "BLUE JAYS"
-  },
-  {
-    "home": "RANGERS",
-    "road": "YANKEES"
-  },
-  {
-    "home": "RANGERS",
-    "road": "YANKEES"
-  },
-  {
-    "home": "RANGERS",
-    "road": "YANKEES"
-  },
-  {
-    "home": "BREWERS",
-    "road": "DIAMONDBACKS"
-  },
-  {
-    "home": "BREWERS",
-    "road": "DIAMONDBACKS"
-  },
-  {
-    "home": "ASTROS",
-    "road": "PHILLIES"
-  },
-  {
-    "home": "ASTROS",
-    "road": "PHILLIES"
-  },
-  {
+    "date": "2022-10-03",
     "home": "MARINERS",
-    "road": "TIGERS"
+    "road": "TIGERS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-03",
+    "home": "PADRES",
+    "road": "GIANTS",
+    "score": "7 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-03",
+    "home": "ATHLETICS",
+    "road": "ANGELS",
+    "score": "5 - 4",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-10-03",
+    "home": "DODGERS",
+    "road": "ROCKIES",
+    "score": "1 - 2",
+    "status": "FINAL"
+  },
+  {
+    "home": "ATHLETICS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "ATHLETICS",
+    "road": "ANGELS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "PIRATES",
+    "road": "CARDINALS"
+  },
+  {
+    "home": "MARLINS",
+    "road": "BRAVES"
+  },
+  {
+    "home": "MARLINS",
+    "road": "BRAVES"
+  },
+  {
+    "home": "REDS",
+    "road": "CUBS"
+  },
+  {
+    "home": "REDS",
+    "road": "CUBS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "GUARDIANS",
+    "road": "ROYALS"
+  },
+  {
+    "home": "METS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "METS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "METS",
+    "road": "NATIONALS"
+  },
+  {
+    "home": "RED SOX",
+    "road": "RAYS"
+  },
+  {
+    "home": "RED SOX",
+    "road": "RAYS"
+  },
+  {
+    "home": "WHITE SOX",
+    "road": "TWINS"
+  },
+  {
+    "home": "WHITE SOX",
+    "road": "TWINS"
+  },
+  {
+    "home": "DODGERS",
+    "road": "ROCKIES"
+  },
+  {
+    "home": "DODGERS",
+    "road": "ROCKIES"
+  },
+  {
+    "home": "PADRES",
+    "road": "GIANTS"
+  },
+  {
+    "home": "PADRES",
+    "road": "GIANTS"
+  },
+  {
+    "home": "ORIOLES",
+    "road": "BLUE JAYS"
+  },
+  {
+    "home": "ORIOLES",
+    "road": "BLUE JAYS"
+  },
+  {
+    "home": "RANGERS",
+    "road": "YANKEES"
+  },
+  {
+    "home": "RANGERS",
+    "road": "YANKEES"
+  },
+  {
+    "home": "RANGERS",
+    "road": "YANKEES"
+  },
+  {
+    "home": "BREWERS",
+    "road": "DIAMONDBACKS"
+  },
+  {
+    "home": "BREWERS",
+    "road": "DIAMONDBACKS"
+  },
+  {
+    "home": "ASTROS",
+    "road": "PHILLIES"
+  },
+  {
+    "home": "ASTROS",
+    "road": "PHILLIES"
   },
   {
     "home": "MARINERS",

@@ -16749,5 +16749,33 @@
     "road": "TWINS",
     "score": "3 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-10-03",
+    "home": "MARINERS",
+    "road": "TIGERS",
+    "score": "3 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-03",
+    "home": "PADRES",
+    "road": "GIANTS",
+    "score": "7 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-03",
+    "home": "ATHLETICS",
+    "road": "ANGELS",
+    "score": "5 - 4",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-10-03",
+    "home": "DODGERS",
+    "road": "ROCKIES",
+    "score": "1 - 2",
+    "status": "FINAL"
   }
 ]

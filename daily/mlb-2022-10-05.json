@@ -1,9 +1,16 @@
 [
   {
     "date": "2022-10-05",
-    "home": "PADRES",
-    "road": "GIANTS",
-    "score": "1 - 8",
+    "home": "RED SOX",
+    "road": "RAYS",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "REDS",
+    "road": "CUBS",
+    "score": "2 - 15",
     "status": "FINAL"
   },
   {
@@ -60,6 +67,13 @@
     "home": "WHITE SOX",
     "road": "TWINS",
     "score": "1 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "PADRES",
+    "road": "GIANTS",
+    "score": "1 - 8",
     "status": "FINAL"
   },
   {

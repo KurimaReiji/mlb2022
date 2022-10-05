@@ -16899,9 +16899,16 @@
   },
   {
     "date": "2022-10-05",
-    "home": "PADRES",
-    "road": "GIANTS",
-    "score": "1 - 8",
+    "home": "RED SOX",
+    "road": "RAYS",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "REDS",
+    "road": "CUBS",
+    "score": "2 - 15",
     "status": "FINAL"
   },
   {
@@ -16962,6 +16969,13 @@
   },
   {
     "date": "2022-10-05",
+    "home": "PADRES",
+    "road": "GIANTS",
+    "score": "1 - 8",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
     "home": "BREWERS",
     "road": "DIAMONDBACKS",
     "score": "2 - 4",
@@ -16986,15 +17000,7 @@
     "road": "BRAVES"
   },
   {
-    "home": "REDS",
-    "road": "CUBS"
-  },
-  {
     "home": "METS",
     "road": "NATIONALS"
-  },
-  {
-    "home": "RED SOX",
-    "road": "RAYS"
   }
 ]

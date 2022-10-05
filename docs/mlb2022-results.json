@@ -16777,5 +16777,19 @@
     "road": "ROCKIES",
     "score": "1 - 2",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-10-04",
+    "home": "RANGERS",
+    "road": "YANKEES",
+    "score": "4 - 5",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-04",
+    "home": "METS",
+    "road": "NATIONALS",
+    "score": "4 - 2",
+    "status": "FINAL"
   }
 ]

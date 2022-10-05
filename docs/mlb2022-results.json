@@ -16868,5 +16868,26 @@
     "road": "NATIONALS",
     "score": "8 - 0",
     "status": "FINAL"
+  },
+  {
+    "date": "2022-10-04",
+    "home": "ATHLETICS",
+    "road": "ANGELS",
+    "score": "2 - 1",
+    "status": "FINAL (10)"
+  },
+  {
+    "date": "2022-10-04",
+    "home": "PADRES",
+    "road": "GIANTS",
+    "score": "6 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-04",
+    "home": "DODGERS",
+    "road": "ROCKIES",
+    "score": "2 - 5",
+    "status": "FINAL"
   }
 ]

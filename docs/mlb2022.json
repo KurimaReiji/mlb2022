@@ -16899,30 +16899,16 @@
   },
   {
     "date": "2022-10-05",
-    "home": "RANGERS",
-    "road": "YANKEES",
-    "score": "4 - 2",
+    "home": "ORIOLES",
+    "road": "BLUE JAYS",
+    "score": "1 - 5",
     "status": "FINAL"
   },
   {
     "date": "2022-10-05",
-    "home": "MARINERS",
-    "road": "TIGERS",
-    "score": "5 - 4",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-10-05",
-    "home": "WHITE SOX",
-    "road": "TWINS",
-    "score": "1 - 10",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-10-05",
-    "home": "BREWERS",
-    "road": "DIAMONDBACKS",
-    "score": "2 - 4",
+    "home": "DODGERS",
+    "road": "ROCKIES",
+    "score": "6 - 1",
     "status": "FINAL"
   },
   {
@@ -16941,9 +16927,44 @@
   },
   {
     "date": "2022-10-05",
+    "home": "RANGERS",
+    "road": "YANKEES",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
     "home": "PIRATES",
     "road": "CARDINALS",
     "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "MARINERS",
+    "road": "TIGERS",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "ASTROS",
+    "road": "PHILLIES",
+    "score": "3 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "WHITE SOX",
+    "road": "TWINS",
+    "score": "1 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "BREWERS",
+    "road": "DIAMONDBACKS",
+    "score": "2 - 4",
     "status": "FINAL"
   },
   {
@@ -16970,19 +16991,7 @@
     "road": "RAYS"
   },
   {
-    "home": "DODGERS",
-    "road": "ROCKIES"
-  },
-  {
     "home": "PADRES",
     "road": "GIANTS"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "BLUE JAYS"
-  },
-  {
-    "home": "ASTROS",
-    "road": "PHILLIES"
   }
 ]

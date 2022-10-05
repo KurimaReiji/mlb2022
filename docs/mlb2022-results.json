@@ -16899,6 +16899,27 @@
   },
   {
     "date": "2022-10-05",
+    "home": "RANGERS",
+    "road": "YANKEES",
+    "score": "4 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "MARINERS",
+    "road": "TIGERS",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "WHITE SOX",
+    "road": "TWINS",
+    "score": "1 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
     "home": "BREWERS",
     "road": "DIAMONDBACKS",
     "score": "2 - 4",

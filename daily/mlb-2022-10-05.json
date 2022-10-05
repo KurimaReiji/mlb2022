@@ -1,6 +1,20 @@
 [
   {
     "date": "2022-10-05",
+    "home": "BREWERS",
+    "road": "DIAMONDBACKS",
+    "score": "2 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "ORIOLES",
+    "road": "BLUE JAYS",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
     "home": "ATHLETICS",
     "road": "ANGELS",
     "score": "3 - 2",
@@ -18,13 +32,6 @@
     "home": "GUARDIANS",
     "road": "ROYALS",
     "score": "9 - 2",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-10-05",
-    "home": "ORIOLES",
-    "road": "BLUE JAYS",
-    "score": "5 - 4",
     "status": "FINAL"
   }
 ]

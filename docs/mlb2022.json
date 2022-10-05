@@ -16899,20 +16899,6 @@
   },
   {
     "date": "2022-10-05",
-    "home": "RED SOX",
-    "road": "RAYS",
-    "score": "6 - 3",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-10-05",
-    "home": "REDS",
-    "road": "CUBS",
-    "score": "2 - 15",
-    "status": "FINAL"
-  },
-  {
-    "date": "2022-10-05",
     "home": "ORIOLES",
     "road": "BLUE JAYS",
     "score": "5 - 4",
@@ -16948,6 +16934,20 @@
   },
   {
     "date": "2022-10-05",
+    "home": "MARLINS",
+    "road": "BRAVES",
+    "score": "12 - 9",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "RED SOX",
+    "road": "RAYS",
+    "score": "6 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
     "home": "MARINERS",
     "road": "TIGERS",
     "score": "5 - 4",
@@ -16965,6 +16965,13 @@
     "home": "WHITE SOX",
     "road": "TWINS",
     "score": "1 - 10",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "REDS",
+    "road": "CUBS",
+    "score": "2 - 15",
     "status": "FINAL"
   },
   {
@@ -16994,10 +17001,6 @@
     "road": "ROCKIES",
     "score": "6 - 1",
     "status": "FINAL"
-  },
-  {
-    "home": "MARLINS",
-    "road": "BRAVES"
   },
   {
     "home": "METS",

@@ -16906,14 +16906,24 @@
   },
   {
     "date": "2022-10-05",
+    "home": "PIRATES",
+    "road": "CARDINALS",
+    "score": "5 - 3",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
+    "home": "GUARDIANS",
+    "road": "ROYALS",
+    "score": "9 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
     "home": "ORIOLES",
     "road": "BLUE JAYS",
     "score": "5 - 4",
     "status": "FINAL"
-  },
-  {
-    "home": "PIRATES",
-    "road": "CARDINALS"
   },
   {
     "home": "MARLINS",
@@ -16922,10 +16932,6 @@
   {
     "home": "REDS",
     "road": "CUBS"
-  },
-  {
-    "home": "GUARDIANS",
-    "road": "ROYALS"
   },
   {
     "home": "METS",

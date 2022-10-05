@@ -16898,6 +16898,13 @@
     "status": "FINAL"
   },
   {
+    "date": "2022-10-05",
+    "home": "ORIOLES",
+    "road": "BLUE JAYS",
+    "score": "5 - 4",
+    "status": "FINAL"
+  },
+  {
     "home": "ATHLETICS",
     "road": "ANGELS"
   },
@@ -16936,10 +16943,6 @@
   {
     "home": "PADRES",
     "road": "GIANTS"
-  },
-  {
-    "home": "ORIOLES",
-    "road": "BLUE JAYS"
   },
   {
     "home": "ORIOLES",

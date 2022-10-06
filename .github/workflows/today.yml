@@ -1,8 +1,5 @@
 name: get the results of today
 on:
-  schedule:
-    - cron: '15 0,3,6 * 8-10 *'
-    - cron: '15 0,3,6 22-31 7 *'
   workflow_dispatch:
 
 jobs:

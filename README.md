@@ -17,8 +17,8 @@ Wins and Losses by Opponent
 
 - [ANGELS](https://kurimareiji.github.io/mlb2022/h2h.html?team=ANGELS)
 - [YANKEES](https://kurimareiji.github.io/mlb2022/h2h.html?team=YANKEES)
-- [TWINS](https://kurimareiji.github.io/mlb2022/h2h.html?team=TWINS)
+- [GUARDIANS](https://kurimareiji.github.io/mlb2022/h2h.html?team=GUARDIANS)
 - [ASTROS](https://kurimareiji.github.io/mlb2022/h2h.html?team=ASTROS)
-- [METS](https://kurimareiji.github.io/mlb2022/h2h.html?team=METS)
-- [BREWERS](https://kurimareiji.github.io/mlb2022/h2h.html?team=BREWERS)
+- [BRAVES](https://kurimareiji.github.io/mlb2022/h2h.html?team=BRAVES)
+- [CARDINALS](https://kurimareiji.github.io/mlb2022/h2h.html?team=CARDINALS)
 - [DODGERS](https://kurimareiji.github.io/mlb2022/h2h.html?team=DODGERS)

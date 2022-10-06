@@ -16899,6 +16899,13 @@
   },
   {
     "date": "2022-10-05",
+    "home": "METS",
+    "road": "NATIONALS",
+    "score": "9 - 2",
+    "status": "FINAL"
+  },
+  {
+    "date": "2022-10-05",
     "home": "ORIOLES",
     "road": "BLUE JAYS",
     "score": "5 - 4",
@@ -17001,9 +17008,5 @@
     "road": "ROCKIES",
     "score": "6 - 1",
     "status": "FINAL"
-  },
-  {
-    "home": "METS",
-    "road": "NATIONALS"
   }
 ]

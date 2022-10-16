@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Best Record in Baseball</title>
+  <style>
+    body {
+      margin: 0;
+      background: cornsilk;
+    }
+
+    .wrapper {
+      display: block;
+    }
+
+    svg {
+      width: auto;
+      margin: auto;
+      display: block;
+    }
+
+    @media print {
+      @page {
+        margin: 2mm;
+        size: a4 landscape;
+      }
+
+      body {
+        background: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrapper">
+
+    <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+      <style type="text/css">
+        text {
+          text-anchor: middle;
+          font-family: Arial, sans-serif;
+          fill: #ffffff;
+        }
+
+        text[data-team]:hover {
+          cursor: pointer;
+        }
+
+        rect {
+          fill: #1565c0;
+          fill-opacity: 1;
+          transition: .5s;
+          stroke-width: 0;
+        }
+
+        rect.show_win {
+          stroke: midnightblue;
+          stroke-width: .2;
+          fill-opacity: 0;
+          transition: .3s;
+        }
+
+        .WC {
+          font-style: oblique;
+        }
+
+        .AL text {
+          fill: #E1F5FE;
+        }
+
+        .NL text {
+          fill: #E6EE9C;
+        }
+
+        text.title,
+        text.year,
+        text.show_win {
+          fill: midnightblue;
+        }
+
+        .LCS rect,
+        .LDS rect,
+        .LWC rect {
+          fill: #827717;
+        }
+
+        .WS rect {
+          fill: #e040fb;
+        }
+
+        .WSW rect {
+          fill: #e65100;
+        }
+      </style>
+      <g id="drawarea"></g>
+    </svg>
+  </div>
+  <script src="js/bestRecord.js?v=0" type="module"></script>
+</body>
+
+</html>

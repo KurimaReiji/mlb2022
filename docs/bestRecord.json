@@ -1,0 +1,5968 @@
+[
+  {
+    "year": "1990",
+    "team": "OAK",
+    "wins": "103",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "1990",
+    "team": "PIT",
+    "wins": "95",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "1990",
+    "team": "CHW",
+    "wins": "94",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "CIN",
+    "wins": "91",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "1990",
+    "team": "NYM",
+    "wins": "91",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "BOS",
+    "wins": "88",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "1990",
+    "team": "TOR",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "LAD",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "SFG",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "MON",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "TEX",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "CAL",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "DET",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "CLE",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "SEA",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "CHC",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "PHI",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "BAL",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "KCR",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "HOU",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "SDP",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "MIL",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "MIN",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "STL",
+    "wins": "70",
+    "league": "NL"
+  },
+  {
+    "year": "1990",
+    "team": "NYY",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "1990",
+    "team": "ATL",
+    "wins": "65",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "PIT",
+    "wins": "98",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "1991",
+    "team": "MIN",
+    "wins": "95",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "1991",
+    "team": "ATL",
+    "wins": "94",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "1991",
+    "team": "LAD",
+    "wins": "93",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "TOR",
+    "wins": "91",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "1991",
+    "team": "CHW",
+    "wins": "87",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "TEX",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "BOS",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "DET",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "OAK",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "SDP",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "STL",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "MIL",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "SEA",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "KCR",
+    "wins": "82",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "CAL",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "PHI",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "CHC",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "NYM",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "SFG",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "CIN",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "NYY",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "MON",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "BAL",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "1991",
+    "team": "HOU",
+    "wins": "65",
+    "league": "NL"
+  },
+  {
+    "year": "1991",
+    "team": "CLE",
+    "wins": "57",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "ATL",
+    "wins": "98",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "1992",
+    "team": "OAK",
+    "wins": "96",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "1992",
+    "team": "TOR",
+    "wins": "96",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "1992",
+    "team": "PIT",
+    "wins": "96",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "1992",
+    "team": "MIL",
+    "wins": "92",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "MIN",
+    "wins": "90",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "CIN",
+    "wins": "90",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "BAL",
+    "wins": "89",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "MON",
+    "wins": "87",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "CHW",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "STL",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "SDP",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "HOU",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "CHC",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "TEX",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "CLE",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "NYY",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "DET",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "BOS",
+    "wins": "73",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "KCR",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "CAL",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "NYM",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "SFG",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "PHI",
+    "wins": "70",
+    "league": "NL"
+  },
+  {
+    "year": "1992",
+    "team": "SEA",
+    "wins": "64",
+    "league": "AL"
+  },
+  {
+    "year": "1992",
+    "team": "LAD",
+    "wins": "63",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "ATL",
+    "wins": "104",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "1993",
+    "team": "SFG",
+    "wins": "103",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "PHI",
+    "wins": "97",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "1993",
+    "team": "TOR",
+    "wins": "95",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "1993",
+    "team": "CHW",
+    "wins": "94",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "1993",
+    "team": "MON",
+    "wins": "94",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "NYY",
+    "wins": "88",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "STL",
+    "wins": "87",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "TEX",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "BAL",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "DET",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "HOU",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "KCR",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "CHC",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "SEA",
+    "wins": "82",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "LAD",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "BOS",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "CLE",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "PIT",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "CIN",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "CAL",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "MIN",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "MIL",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "OAK",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "1993",
+    "team": "COL",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "FLA",
+    "wins": "64",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "SDP",
+    "wins": "61",
+    "league": "NL"
+  },
+  {
+    "year": "1993",
+    "team": "NYM",
+    "wins": "59",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "MON",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "NYY",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "ATL",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "CHW",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "CLE",
+    "wins": "66",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "CIN",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "HOU",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "KCR",
+    "wins": "64",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "BAL",
+    "wins": "63",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "LAD",
+    "wins": "58",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "TOR",
+    "wins": "55",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "NYM",
+    "wins": "55",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "SFG",
+    "wins": "55",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "BOS",
+    "wins": "54",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "PHI",
+    "wins": "54",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "DET",
+    "wins": "53",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "MIL",
+    "wins": "53",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "MIN",
+    "wins": "53",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "COL",
+    "wins": "53",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "PIT",
+    "wins": "53",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "STL",
+    "wins": "53",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "TEX",
+    "wins": "52",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "OAK",
+    "wins": "51",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "FLA",
+    "wins": "51",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "SEA",
+    "wins": "49",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "CHC",
+    "wins": "49",
+    "league": "NL"
+  },
+  {
+    "year": "1994",
+    "team": "CAL",
+    "wins": "47",
+    "league": "AL"
+  },
+  {
+    "year": "1994",
+    "team": "SDP",
+    "wins": "47",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "CLE",
+    "wins": "100",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "1995",
+    "team": "ATL",
+    "wins": "90",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "1995",
+    "team": "BOS",
+    "wins": "86",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "1995",
+    "team": "CIN",
+    "wins": "85",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "1995",
+    "team": "NYY",
+    "wins": "79",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "1995",
+    "team": "SEA",
+    "wins": "79",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "1995",
+    "team": "CAL",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "LAD",
+    "wins": "78",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "1995",
+    "team": "COL",
+    "wins": "77",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "1995",
+    "team": "HOU",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "TEX",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "CHC",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "BAL",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "KCR",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "SDP",
+    "wins": "70",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "NYM",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "PHI",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "CHW",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "OAK",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "FLA",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "SFG",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "MON",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "MIL",
+    "wins": "65",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "STL",
+    "wins": "62",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "DET",
+    "wins": "60",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "PIT",
+    "wins": "58",
+    "league": "NL"
+  },
+  {
+    "year": "1995",
+    "team": "MIN",
+    "wins": "56",
+    "league": "AL"
+  },
+  {
+    "year": "1995",
+    "team": "TOR",
+    "wins": "56",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "CLE",
+    "wins": "99",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "1996",
+    "team": "ATL",
+    "wins": "96",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "1996",
+    "team": "NYY",
+    "wins": "92",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "1996",
+    "team": "SDP",
+    "wins": "91",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "1996",
+    "team": "TEX",
+    "wins": "90",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "1996",
+    "team": "LAD",
+    "wins": "90",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "1996",
+    "team": "BAL",
+    "wins": "88",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "1996",
+    "team": "STL",
+    "wins": "88",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "1996",
+    "team": "MON",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "BOS",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "CHW",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "SEA",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "COL",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "HOU",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "CIN",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "MIL",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "FLA",
+    "wins": "80",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "MIN",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "OAK",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "CHC",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "KCR",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "TOR",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "PIT",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "NYM",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "CAL",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "1996",
+    "team": "SFG",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "PHI",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "1996",
+    "team": "DET",
+    "wins": "53",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "ATL",
+    "wins": "101",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "1997",
+    "team": "BAL",
+    "wins": "98",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "1997",
+    "team": "NYY",
+    "wins": "96",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "1997",
+    "team": "FLA",
+    "wins": "92",
+    "league": "NL",
+    "series": "WSW",
+    "wc": "WC"
+  },
+  {
+    "year": "1997",
+    "team": "SEA",
+    "wins": "90",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "1997",
+    "team": "SFG",
+    "wins": "90",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "1997",
+    "team": "LAD",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "NYM",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "CLE",
+    "wins": "86",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "1997",
+    "team": "ANA",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "HOU",
+    "wins": "84",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "1997",
+    "team": "COL",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "CHW",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "DET",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "PIT",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "BOS",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "MIL",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "MON",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "TEX",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "TOR",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "CIN",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "SDP",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "STL",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "MIN",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "CHC",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "PHI",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "1997",
+    "team": "KCR",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "1997",
+    "team": "OAK",
+    "wins": "65",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "NYY",
+    "wins": "114",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "1998",
+    "team": "ATL",
+    "wins": "106",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "1998",
+    "team": "HOU",
+    "wins": "102",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "1998",
+    "team": "SDP",
+    "wins": "98",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "1998",
+    "team": "BOS",
+    "wins": "92",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "1998",
+    "team": "CHC",
+    "wins": "90",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "1998",
+    "team": "CLE",
+    "wins": "89",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "1998",
+    "team": "SFG",
+    "wins": "89",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "TEX",
+    "wins": "88",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "1998",
+    "team": "TOR",
+    "wins": "88",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "NYM",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "ANA",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "LAD",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "STL",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "CHW",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "BAL",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "CIN",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "COL",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "SEA",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "PHI",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "OAK",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "MIL",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "KCR",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "MIN",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "PIT",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "DET",
+    "wins": "65",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "ARI",
+    "wins": "65",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "MON",
+    "wins": "65",
+    "league": "NL"
+  },
+  {
+    "year": "1998",
+    "team": "TBD",
+    "wins": "63",
+    "league": "AL"
+  },
+  {
+    "year": "1998",
+    "team": "FLA",
+    "wins": "54",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "ATL",
+    "wins": "103",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "1999",
+    "team": "ARI",
+    "wins": "100",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "1999",
+    "team": "NYY",
+    "wins": "98",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "1999",
+    "team": "CLE",
+    "wins": "97",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "1999",
+    "team": "HOU",
+    "wins": "97",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "1999",
+    "team": "NYM",
+    "wins": "97",
+    "league": "NL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "1999",
+    "team": "CIN",
+    "wins": "96",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "TEX",
+    "wins": "95",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "1999",
+    "team": "BOS",
+    "wins": "94",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "1999",
+    "team": "OAK",
+    "wins": "87",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "SFG",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "TOR",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "SEA",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "BAL",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "PIT",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "LAD",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "PHI",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "CHW",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "STL",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "MIL",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "SDP",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "COL",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "ANA",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "DET",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "TBD",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "MON",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "CHC",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "KCR",
+    "wins": "64",
+    "league": "AL"
+  },
+  {
+    "year": "1999",
+    "team": "FLA",
+    "wins": "64",
+    "league": "NL"
+  },
+  {
+    "year": "1999",
+    "team": "MIN",
+    "wins": "63",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "SFG",
+    "wins": "97",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2000",
+    "team": "CHW",
+    "wins": "95",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2000",
+    "team": "ATL",
+    "wins": "95",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2000",
+    "team": "STL",
+    "wins": "95",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2000",
+    "team": "NYM",
+    "wins": "94",
+    "league": "NL",
+    "series": "WS",
+    "wc": "WC"
+  },
+  {
+    "year": "2000",
+    "team": "OAK",
+    "wins": "91",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2000",
+    "team": "SEA",
+    "wins": "91",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2000",
+    "team": "CLE",
+    "wins": "90",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "NYY",
+    "wins": "87",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "2000",
+    "team": "LAD",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "BOS",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "ARI",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "CIN",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "TOR",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "ANA",
+    "wins": "82",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "COL",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "DET",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "FLA",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "KCR",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "SDP",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "BAL",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "MIL",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "HOU",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "TEX",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "MIN",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "TBD",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2000",
+    "team": "PIT",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "MON",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "CHC",
+    "wins": "65",
+    "league": "NL"
+  },
+  {
+    "year": "2000",
+    "team": "PHI",
+    "wins": "65",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "SEA",
+    "wins": "116",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2001",
+    "team": "OAK",
+    "wins": "102",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2001",
+    "team": "NYY",
+    "wins": "95",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2001",
+    "team": "HOU",
+    "wins": "93",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2001",
+    "team": "STL",
+    "wins": "93",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2001",
+    "team": "ARI",
+    "wins": "92",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "2001",
+    "team": "CLE",
+    "wins": "91",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2001",
+    "team": "SFG",
+    "wins": "90",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "ATL",
+    "wins": "88",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2001",
+    "team": "CHC",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "LAD",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "PHI",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "MIN",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "CHW",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "BOS",
+    "wins": "82",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "NYM",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "TOR",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "SDP",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "FLA",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "ANA",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "TEX",
+    "wins": "73",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "COL",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "MIL",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "MON",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "DET",
+    "wins": "66",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "CIN",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "2001",
+    "team": "KCR",
+    "wins": "65",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "BAL",
+    "wins": "63",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "TBD",
+    "wins": "62",
+    "league": "AL"
+  },
+  {
+    "year": "2001",
+    "team": "PIT",
+    "wins": "62",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "NYY",
+    "wins": "103",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2002",
+    "team": "OAK",
+    "wins": "103",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2002",
+    "team": "ATL",
+    "wins": "101",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2002",
+    "team": "ANA",
+    "wins": "99",
+    "league": "AL",
+    "series": "WSW",
+    "wc": "WC"
+  },
+  {
+    "year": "2002",
+    "team": "ARI",
+    "wins": "98",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2002",
+    "team": "STL",
+    "wins": "97",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2002",
+    "team": "SFG",
+    "wins": "95",
+    "league": "NL",
+    "series": "WS",
+    "wc": "WC"
+  },
+  {
+    "year": "2002",
+    "team": "MIN",
+    "wins": "94",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2002",
+    "team": "BOS",
+    "wins": "93",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "SEA",
+    "wins": "93",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "LAD",
+    "wins": "92",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "HOU",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "MON",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "CHW",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "PHI",
+    "wins": "80",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "FLA",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "TOR",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "CIN",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "NYM",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "CLE",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "COL",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "TEX",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "PIT",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "BAL",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "CHC",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "SDP",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "KCR",
+    "wins": "62",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "MIL",
+    "wins": "56",
+    "league": "NL"
+  },
+  {
+    "year": "2002",
+    "team": "DET",
+    "wins": "55",
+    "league": "AL"
+  },
+  {
+    "year": "2002",
+    "team": "TBD",
+    "wins": "55",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "NYY",
+    "wins": "101",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2003",
+    "team": "ATL",
+    "wins": "101",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2003",
+    "team": "SFG",
+    "wins": "100",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2003",
+    "team": "OAK",
+    "wins": "96",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2003",
+    "team": "BOS",
+    "wins": "95",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2003",
+    "team": "SEA",
+    "wins": "93",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "FLA",
+    "wins": "91",
+    "league": "NL",
+    "series": "WSW",
+    "wc": "WC"
+  },
+  {
+    "year": "2003",
+    "team": "MIN",
+    "wins": "90",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2003",
+    "team": "CHC",
+    "wins": "88",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2003",
+    "team": "HOU",
+    "wins": "87",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "CHW",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "TOR",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "PHI",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "LAD",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "STL",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "ARI",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "KCR",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "MON",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "ANA",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "PIT",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "COL",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "BAL",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "TEX",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "CIN",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "CLE",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "MIL",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "NYM",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "SDP",
+    "wins": "64",
+    "league": "NL"
+  },
+  {
+    "year": "2003",
+    "team": "TBD",
+    "wins": "63",
+    "league": "AL"
+  },
+  {
+    "year": "2003",
+    "team": "DET",
+    "wins": "43",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "STL",
+    "wins": "105",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "2004",
+    "team": "NYY",
+    "wins": "101",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2004",
+    "team": "BOS",
+    "wins": "98",
+    "league": "AL",
+    "series": "WSW",
+    "wc": "WC"
+  },
+  {
+    "year": "2004",
+    "team": "ATL",
+    "wins": "96",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2004",
+    "team": "LAD",
+    "wins": "93",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2004",
+    "team": "ANA",
+    "wins": "92",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2004",
+    "team": "MIN",
+    "wins": "92",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2004",
+    "team": "HOU",
+    "wins": "92",
+    "league": "NL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2004",
+    "team": "OAK",
+    "wins": "91",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "SFG",
+    "wins": "91",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "TEX",
+    "wins": "89",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "CHC",
+    "wins": "89",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "SDP",
+    "wins": "87",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "PHI",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "CHW",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "FLA",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "CLE",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "BAL",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "CIN",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "DET",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "PIT",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "NYM",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "TBD",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "COL",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "TOR",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "MIL",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "MON",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2004",
+    "team": "SEA",
+    "wins": "63",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "KCR",
+    "wins": "58",
+    "league": "AL"
+  },
+  {
+    "year": "2004",
+    "team": "ARI",
+    "wins": "51",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "STL",
+    "wins": "100",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2005",
+    "team": "CHW",
+    "wins": "99",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "2005",
+    "team": "BOS",
+    "wins": "95",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2005",
+    "team": "LAA",
+    "wins": "95",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2005",
+    "team": "NYY",
+    "wins": "95",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2005",
+    "team": "CLE",
+    "wins": "93",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "ATL",
+    "wins": "90",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2005",
+    "team": "HOU",
+    "wins": "89",
+    "league": "NL",
+    "series": "WS",
+    "wc": "WC"
+  },
+  {
+    "year": "2005",
+    "team": "OAK",
+    "wins": "88",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "PHI",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "MIN",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "FLA",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "NYM",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "SDP",
+    "wins": "82",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2005",
+    "team": "MIL",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "WSN",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "TOR",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "TEX",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "CHC",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "ARI",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "SFG",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "BAL",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "CIN",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "DET",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "LAD",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "SEA",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "TBD",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2005",
+    "team": "COL",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "PIT",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2005",
+    "team": "KCR",
+    "wins": "56",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "NYY",
+    "wins": "97",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2006",
+    "team": "NYM",
+    "wins": "97",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2006",
+    "team": "MIN",
+    "wins": "96",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2006",
+    "team": "DET",
+    "wins": "95",
+    "league": "AL",
+    "series": "WS",
+    "wc": "WC"
+  },
+  {
+    "year": "2006",
+    "team": "OAK",
+    "wins": "93",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2006",
+    "team": "CHW",
+    "wins": "90",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "LAA",
+    "wins": "89",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "LAD",
+    "wins": "88",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2006",
+    "team": "SDP",
+    "wins": "88",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2006",
+    "team": "TOR",
+    "wins": "87",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "BOS",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "PHI",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "STL",
+    "wins": "83",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "2006",
+    "team": "HOU",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "TEX",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "CIN",
+    "wins": "80",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "ATL",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "CLE",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "SEA",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "FLA",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "ARI",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "COL",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "SFG",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "MIL",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "WSN",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "BAL",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "PIT",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "CHC",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "2006",
+    "team": "KCR",
+    "wins": "62",
+    "league": "AL"
+  },
+  {
+    "year": "2006",
+    "team": "TBD",
+    "wins": "61",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "BOS",
+    "wins": "96",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "2007",
+    "team": "CLE",
+    "wins": "96",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2007",
+    "team": "LAA",
+    "wins": "94",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2007",
+    "team": "NYY",
+    "wins": "94",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2007",
+    "team": "ARI",
+    "wins": "90",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2007",
+    "team": "COL",
+    "wins": "90",
+    "league": "NL",
+    "series": "WS",
+    "wc": "WC"
+  },
+  {
+    "year": "2007",
+    "team": "PHI",
+    "wins": "89",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2007",
+    "team": "SDP",
+    "wins": "89",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "DET",
+    "wins": "88",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "SEA",
+    "wins": "88",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "NYM",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "CHC",
+    "wins": "85",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2007",
+    "team": "ATL",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "TOR",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "MIL",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "LAD",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "MIN",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "STL",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "OAK",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "TEX",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "HOU",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "WSN",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "CHW",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "CIN",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "FLA",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "SFG",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "BAL",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "KCR",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2007",
+    "team": "PIT",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2007",
+    "team": "TBD",
+    "wins": "66",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "LAA",
+    "wins": "100",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2008",
+    "team": "TBR",
+    "wins": "97",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2008",
+    "team": "CHC",
+    "wins": "97",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2008",
+    "team": "BOS",
+    "wins": "95",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2008",
+    "team": "PHI",
+    "wins": "92",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "2008",
+    "team": "MIL",
+    "wins": "90",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2008",
+    "team": "CHW",
+    "wins": "89",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2008",
+    "team": "NYY",
+    "wins": "89",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "NYM",
+    "wins": "89",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "MIN",
+    "wins": "88",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "TOR",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "HOU",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "STL",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "LAD",
+    "wins": "84",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2008",
+    "team": "FLA",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "ARI",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "CLE",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "TEX",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "KCR",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "OAK",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "DET",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "CIN",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "COL",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "ATL",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "SFG",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "BAL",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "PIT",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "SDP",
+    "wins": "63",
+    "league": "NL"
+  },
+  {
+    "year": "2008",
+    "team": "SEA",
+    "wins": "61",
+    "league": "AL"
+  },
+  {
+    "year": "2008",
+    "team": "WSN",
+    "wins": "59",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "NYY",
+    "wins": "103",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "2009",
+    "team": "LAA",
+    "wins": "97",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2009",
+    "team": "BOS",
+    "wins": "95",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2009",
+    "team": "LAD",
+    "wins": "95",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2009",
+    "team": "PHI",
+    "wins": "93",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "2009",
+    "team": "COL",
+    "wins": "92",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2009",
+    "team": "STL",
+    "wins": "91",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2009",
+    "team": "SFG",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "MIN",
+    "wins": "87",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2009",
+    "team": "TEX",
+    "wins": "87",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "FLA",
+    "wins": "87",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "DET",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "ATL",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "SEA",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "TBR",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "CHC",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "MIL",
+    "wins": "80",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "CHW",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "CIN",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "OAK",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "TOR",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "SDP",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "HOU",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "ARI",
+    "wins": "70",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "NYM",
+    "wins": "70",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "CLE",
+    "wins": "65",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "KCR",
+    "wins": "65",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "BAL",
+    "wins": "64",
+    "league": "AL"
+  },
+  {
+    "year": "2009",
+    "team": "PIT",
+    "wins": "62",
+    "league": "NL"
+  },
+  {
+    "year": "2009",
+    "team": "WSN",
+    "wins": "59",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "PHI",
+    "wins": "97",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2010",
+    "team": "TBR",
+    "wins": "96",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2010",
+    "team": "NYY",
+    "wins": "95",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2010",
+    "team": "MIN",
+    "wins": "94",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2010",
+    "team": "SFG",
+    "wins": "92",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "2010",
+    "team": "ATL",
+    "wins": "91",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2010",
+    "team": "CIN",
+    "wins": "91",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2010",
+    "team": "TEX",
+    "wins": "90",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2010",
+    "team": "SDP",
+    "wins": "90",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "BOS",
+    "wins": "89",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "CHW",
+    "wins": "88",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "STL",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "TOR",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "COL",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "DET",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "OAK",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "LAA",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "LAD",
+    "wins": "80",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "FLA",
+    "wins": "80",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "NYM",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "MIL",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "HOU",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "CHC",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "CLE",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "WSN",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "KCR",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "BAL",
+    "wins": "66",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "ARI",
+    "wins": "65",
+    "league": "NL"
+  },
+  {
+    "year": "2010",
+    "team": "SEA",
+    "wins": "61",
+    "league": "AL"
+  },
+  {
+    "year": "2010",
+    "team": "PIT",
+    "wins": "57",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "PHI",
+    "wins": "102",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2011",
+    "team": "NYY",
+    "wins": "97",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2011",
+    "team": "TEX",
+    "wins": "96",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2011",
+    "team": "MIL",
+    "wins": "96",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2011",
+    "team": "DET",
+    "wins": "95",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2011",
+    "team": "ARI",
+    "wins": "94",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2011",
+    "team": "TBR",
+    "wins": "91",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2011",
+    "team": "BOS",
+    "wins": "90",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "STL",
+    "wins": "90",
+    "league": "NL",
+    "series": "WSW",
+    "wc": "WC"
+  },
+  {
+    "year": "2011",
+    "team": "ATL",
+    "wins": "89",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "LAA",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "SFG",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "LAD",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "TOR",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "CLE",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "WSN",
+    "wins": "80",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "CHW",
+    "wins": "79",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "CIN",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "NYM",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "OAK",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "COL",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "FLA",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "PIT",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "KCR",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "CHC",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "SDP",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2011",
+    "team": "BAL",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "SEA",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "MIN",
+    "wins": "63",
+    "league": "AL"
+  },
+  {
+    "year": "2011",
+    "team": "HOU",
+    "wins": "56",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "WSN",
+    "wins": "98",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2012",
+    "team": "CIN",
+    "wins": "97",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2012",
+    "team": "NYY",
+    "wins": "95",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2012",
+    "team": "OAK",
+    "wins": "94",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2012",
+    "team": "ATL",
+    "wins": "94",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2012",
+    "team": "SFG",
+    "wins": "94",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "2012",
+    "team": "BAL",
+    "wins": "93",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2012",
+    "team": "TEX",
+    "wins": "93",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2012",
+    "team": "TBR",
+    "wins": "90",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "LAA",
+    "wins": "89",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "DET",
+    "wins": "88",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2012",
+    "team": "STL",
+    "wins": "88",
+    "league": "NL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2012",
+    "team": "LAD",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "CHW",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "MIL",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "ARI",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "PHI",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "PIT",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "SDP",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "SEA",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "NYM",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "TOR",
+    "wins": "73",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "KCR",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "BOS",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "MIA",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "CLE",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "MIN",
+    "wins": "66",
+    "league": "AL"
+  },
+  {
+    "year": "2012",
+    "team": "COL",
+    "wins": "64",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "CHC",
+    "wins": "61",
+    "league": "NL"
+  },
+  {
+    "year": "2012",
+    "team": "HOU",
+    "wins": "55",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "BOS",
+    "wins": "97",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "2013",
+    "team": "STL",
+    "wins": "97",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "2013",
+    "team": "OAK",
+    "wins": "96",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2013",
+    "team": "ATL",
+    "wins": "96",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2013",
+    "team": "PIT",
+    "wins": "94",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2013",
+    "team": "DET",
+    "wins": "93",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2013",
+    "team": "CLE",
+    "wins": "92",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2013",
+    "team": "TBR",
+    "wins": "92",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2013",
+    "team": "LAD",
+    "wins": "92",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2013",
+    "team": "TEX",
+    "wins": "91",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "CIN",
+    "wins": "90",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2013",
+    "team": "KCR",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "WSN",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "BAL",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "NYY",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "ARI",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "LAA",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "SDP",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "SFG",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "TOR",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "COL",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "MIL",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "NYM",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "PHI",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "SEA",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "MIN",
+    "wins": "66",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "CHC",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "CHW",
+    "wins": "63",
+    "league": "AL"
+  },
+  {
+    "year": "2013",
+    "team": "MIA",
+    "wins": "62",
+    "league": "NL"
+  },
+  {
+    "year": "2013",
+    "team": "HOU",
+    "wins": "51",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "LAA",
+    "wins": "98",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2014",
+    "team": "BAL",
+    "wins": "96",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2014",
+    "team": "WSN",
+    "wins": "96",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2014",
+    "team": "LAD",
+    "wins": "94",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2014",
+    "team": "DET",
+    "wins": "90",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2014",
+    "team": "STL",
+    "wins": "90",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2014",
+    "team": "KCR",
+    "wins": "89",
+    "league": "AL",
+    "series": "WS",
+    "wc": "WC"
+  },
+  {
+    "year": "2014",
+    "team": "OAK",
+    "wins": "88",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2014",
+    "team": "PIT",
+    "wins": "88",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2014",
+    "team": "SFG",
+    "wins": "88",
+    "league": "NL",
+    "series": "WSW",
+    "wc": "WC"
+  },
+  {
+    "year": "2014",
+    "team": "SEA",
+    "wins": "87",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "CLE",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "NYY",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "TOR",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "MIL",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "ATL",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "NYM",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "TBR",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "MIA",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "SDP",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "CIN",
+    "wins": "76",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "CHW",
+    "wins": "73",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "CHC",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "PHI",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "BOS",
+    "wins": "71",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "HOU",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "MIN",
+    "wins": "70",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "TEX",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2014",
+    "team": "COL",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "2014",
+    "team": "ARI",
+    "wins": "64",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "STL",
+    "wins": "100",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2015",
+    "team": "PIT",
+    "wins": "98",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2015",
+    "team": "CHC",
+    "wins": "97",
+    "league": "NL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2015",
+    "team": "KCR",
+    "wins": "95",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "2015",
+    "team": "TOR",
+    "wins": "93",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2015",
+    "team": "LAD",
+    "wins": "92",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2015",
+    "team": "NYM",
+    "wins": "90",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "2015",
+    "team": "TEX",
+    "wins": "88",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2015",
+    "team": "NYY",
+    "wins": "87",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2015",
+    "team": "HOU",
+    "wins": "86",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2015",
+    "team": "LAA",
+    "wins": "85",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "SFG",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "MIN",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "WSN",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "BAL",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "CLE",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "TBR",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "ARI",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "BOS",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "CHW",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "SEA",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "DET",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "SDP",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "MIA",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "OAK",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "2015",
+    "team": "COL",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "MIL",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "ATL",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "CIN",
+    "wins": "64",
+    "league": "NL"
+  },
+  {
+    "year": "2015",
+    "team": "PHI",
+    "wins": "63",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "CHC",
+    "wins": "103",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "2016",
+    "team": "TEX",
+    "wins": "95",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2016",
+    "team": "WSN",
+    "wins": "95",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2016",
+    "team": "CLE",
+    "wins": "94",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2016",
+    "team": "BOS",
+    "wins": "93",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2016",
+    "team": "LAD",
+    "wins": "91",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2016",
+    "team": "BAL",
+    "wins": "89",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2016",
+    "team": "TOR",
+    "wins": "89",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2016",
+    "team": "NYM",
+    "wins": "87",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2016",
+    "team": "SFG",
+    "wins": "87",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2016",
+    "team": "DET",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "SEA",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "STL",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "HOU",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "NYY",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "KCR",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "MIA",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "CHW",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "PIT",
+    "wins": "78",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "COL",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "LAA",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "MIL",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "PHI",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "OAK",
+    "wins": "69",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "ARI",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "TBR",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "2016",
+    "team": "ATL",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "CIN",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "SDP",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2016",
+    "team": "MIN",
+    "wins": "59",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "LAD",
+    "wins": "104",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "2017",
+    "team": "CLE",
+    "wins": "102",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2017",
+    "team": "HOU",
+    "wins": "101",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "2017",
+    "team": "WSN",
+    "wins": "97",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2017",
+    "team": "BOS",
+    "wins": "93",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2017",
+    "team": "ARI",
+    "wins": "93",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2017",
+    "team": "CHC",
+    "wins": "92",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2017",
+    "team": "NYY",
+    "wins": "91",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2017",
+    "team": "COL",
+    "wins": "87",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2017",
+    "team": "MIL",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "MIN",
+    "wins": "85",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2017",
+    "team": "STL",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "KCR",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "LAA",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "TBR",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "SEA",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "TEX",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "MIA",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "TOR",
+    "wins": "76",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "BAL",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "OAK",
+    "wins": "75",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "PIT",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "ATL",
+    "wins": "72",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "SDP",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "NYM",
+    "wins": "70",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "CIN",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "CHW",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "PHI",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "2017",
+    "team": "DET",
+    "wins": "64",
+    "league": "AL"
+  },
+  {
+    "year": "2017",
+    "team": "SFG",
+    "wins": "64",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "BOS",
+    "wins": "108",
+    "league": "AL",
+    "series": "WSW"
+  },
+  {
+    "year": "2018",
+    "team": "HOU",
+    "wins": "103",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2018",
+    "team": "NYY",
+    "wins": "100",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2018",
+    "team": "OAK",
+    "wins": "97",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2018",
+    "team": "MIL",
+    "wins": "96",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2018",
+    "team": "CHC",
+    "wins": "95",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2018",
+    "team": "LAD",
+    "wins": "92",
+    "league": "NL",
+    "series": "WS"
+  },
+  {
+    "year": "2018",
+    "team": "CLE",
+    "wins": "91",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2018",
+    "team": "COL",
+    "wins": "91",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2018",
+    "team": "TBR",
+    "wins": "90",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "ATL",
+    "wins": "90",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2018",
+    "team": "SEA",
+    "wins": "89",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "STL",
+    "wins": "88",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "ARI",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "PIT",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "WSN",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "LAA",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "PHI",
+    "wins": "80",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "MIN",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "NYM",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "TOR",
+    "wins": "73",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "SFG",
+    "wins": "73",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "TEX",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "CIN",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "SDP",
+    "wins": "66",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "DET",
+    "wins": "64",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "MIA",
+    "wins": "63",
+    "league": "NL"
+  },
+  {
+    "year": "2018",
+    "team": "CHW",
+    "wins": "62",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "KCR",
+    "wins": "58",
+    "league": "AL"
+  },
+  {
+    "year": "2018",
+    "team": "BAL",
+    "wins": "47",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "HOU",
+    "wins": "107",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2019",
+    "team": "LAD",
+    "wins": "106",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2019",
+    "team": "NYY",
+    "wins": "103",
+    "league": "AL",
+    "series": "LCS"
+  },
+  {
+    "year": "2019",
+    "team": "MIN",
+    "wins": "101",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2019",
+    "team": "OAK",
+    "wins": "97",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2019",
+    "team": "ATL",
+    "wins": "97",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2019",
+    "team": "TBR",
+    "wins": "96",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2019",
+    "team": "CLE",
+    "wins": "93",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "WSN",
+    "wins": "93",
+    "league": "NL",
+    "series": "WSW",
+    "wc": "WC"
+  },
+  {
+    "year": "2019",
+    "team": "STL",
+    "wins": "91",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2019",
+    "team": "MIL",
+    "wins": "89",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2019",
+    "team": "NYM",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "ARI",
+    "wins": "85",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "BOS",
+    "wins": "84",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "CHC",
+    "wins": "84",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "PHI",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "TEX",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "SFG",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "CIN",
+    "wins": "75",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "CHW",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "LAA",
+    "wins": "72",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "COL",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "SDP",
+    "wins": "70",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "PIT",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "SEA",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "TOR",
+    "wins": "67",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "KCR",
+    "wins": "59",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "MIA",
+    "wins": "57",
+    "league": "NL"
+  },
+  {
+    "year": "2019",
+    "team": "BAL",
+    "wins": "54",
+    "league": "AL"
+  },
+  {
+    "year": "2019",
+    "team": "DET",
+    "wins": "47",
+    "league": "AL"
+  },
+  {
+    "year": "2020",
+    "team": "LAD",
+    "wins": "43",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "2020",
+    "team": "TBR",
+    "wins": "40",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2020",
+    "team": "SDP",
+    "wins": "37",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "MIN",
+    "wins": "36",
+    "league": "AL",
+    "series": "LWC"
+  },
+  {
+    "year": "2020",
+    "team": "OAK",
+    "wins": "36",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2020",
+    "team": "CHW",
+    "wins": "35",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "CLE",
+    "wins": "35",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "ATL",
+    "wins": "35",
+    "league": "NL",
+    "series": "LCS"
+  },
+  {
+    "year": "2020",
+    "team": "CHC",
+    "wins": "34",
+    "league": "NL",
+    "series": "LWC"
+  },
+  {
+    "year": "2020",
+    "team": "NYY",
+    "wins": "33",
+    "league": "AL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "TOR",
+    "wins": "32",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "CIN",
+    "wins": "31",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "MIA",
+    "wins": "31",
+    "league": "NL",
+    "series": "LDS",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "STL",
+    "wins": "30",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "HOU",
+    "wins": "29",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "MIL",
+    "wins": "29",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2020",
+    "team": "SFG",
+    "wins": "29",
+    "league": "NL"
+  },
+  {
+    "year": "2020",
+    "team": "PHI",
+    "wins": "28",
+    "league": "NL"
+  },
+  {
+    "year": "2020",
+    "team": "SEA",
+    "wins": "27",
+    "league": "AL"
+  },
+  {
+    "year": "2020",
+    "team": "KCR",
+    "wins": "26",
+    "league": "AL"
+  },
+  {
+    "year": "2020",
+    "team": "LAA",
+    "wins": "26",
+    "league": "AL"
+  },
+  {
+    "year": "2020",
+    "team": "COL",
+    "wins": "26",
+    "league": "NL"
+  },
+  {
+    "year": "2020",
+    "team": "NYM",
+    "wins": "26",
+    "league": "NL"
+  },
+  {
+    "year": "2020",
+    "team": "WSN",
+    "wins": "26",
+    "league": "NL"
+  },
+  {
+    "year": "2020",
+    "team": "BAL",
+    "wins": "25",
+    "league": "AL"
+  },
+  {
+    "year": "2020",
+    "team": "ARI",
+    "wins": "25",
+    "league": "NL"
+  },
+  {
+    "year": "2020",
+    "team": "BOS",
+    "wins": "24",
+    "league": "AL"
+  },
+  {
+    "year": "2020",
+    "team": "DET",
+    "wins": "23",
+    "league": "AL"
+  },
+  {
+    "year": "2020",
+    "team": "TEX",
+    "wins": "22",
+    "league": "AL"
+  },
+  {
+    "year": "2020",
+    "team": "PIT",
+    "wins": "19",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "SFG",
+    "wins": "107",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2021",
+    "team": "LAD",
+    "wins": "106",
+    "league": "NL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2021",
+    "team": "TBR",
+    "wins": "100",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2021",
+    "team": "HOU",
+    "wins": "95",
+    "league": "AL",
+    "series": "WS"
+  },
+  {
+    "year": "2021",
+    "team": "MIL",
+    "wins": "95",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2021",
+    "team": "CHW",
+    "wins": "93",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2021",
+    "team": "BOS",
+    "wins": "92",
+    "league": "AL",
+    "series": "LCS",
+    "wc": "WC"
+  },
+  {
+    "year": "2021",
+    "team": "NYY",
+    "wins": "92",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2021",
+    "team": "TOR",
+    "wins": "91",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "SEA",
+    "wins": "90",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "STL",
+    "wins": "90",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2021",
+    "team": "ATL",
+    "wins": "88",
+    "league": "NL",
+    "series": "WSW"
+  },
+  {
+    "year": "2021",
+    "team": "OAK",
+    "wins": "86",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "CIN",
+    "wins": "83",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "PHI",
+    "wins": "82",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "CLE",
+    "wins": "80",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "SDP",
+    "wins": "79",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "DET",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "LAA",
+    "wins": "77",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "NYM",
+    "wins": "77",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "KCR",
+    "wins": "74",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "COL",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "MIN",
+    "wins": "73",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "CHC",
+    "wins": "71",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "MIA",
+    "wins": "67",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "WSN",
+    "wins": "65",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "PIT",
+    "wins": "61",
+    "league": "NL"
+  },
+  {
+    "year": "2021",
+    "team": "TEX",
+    "wins": "60",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "BAL",
+    "wins": "52",
+    "league": "AL"
+  },
+  {
+    "year": "2021",
+    "team": "ARI",
+    "wins": "52",
+    "league": "NL"
+  }
+]

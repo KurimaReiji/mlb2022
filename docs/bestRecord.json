@@ -5964,5 +5964,203 @@
     "team": "ARI",
     "wins": "52",
     "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "LAD",
+    "wins": "111",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2022",
+    "team": "HOU",
+    "wins": "106",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2022",
+    "team": "ATL",
+    "wins": "101",
+    "league": "NL",
+    "series": "LDS"
+  },
+  {
+    "year": "2022",
+    "team": "NYM",
+    "wins": "101",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2022",
+    "team": "NYY",
+    "wins": "99",
+    "league": "AL",
+    "series": "LDS"
+  },
+  {
+    "year": "2022",
+    "team": "STL",
+    "wins": "93",
+    "league": "NL",
+    "series": "LWC"
+  },
+  {
+    "year": "2022",
+    "team": "CLE",
+    "wins": "92",
+    "league": "AL",
+    "series": "LWC"
+  },
+  {
+    "year": "2022",
+    "team": "TOR",
+    "wins": "92",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2022",
+    "team": "SEA",
+    "wins": "90",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2022",
+    "team": "SDP",
+    "wins": "89",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2022",
+    "team": "PHI",
+    "wins": "87",
+    "league": "NL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2022",
+    "team": "TBR",
+    "wins": "86",
+    "league": "AL",
+    "series": "LWC",
+    "wc": "WC"
+  },
+  {
+    "year": "2022",
+    "team": "MIL",
+    "wins": "86",
+    "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "BAL",
+    "wins": "83",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "CHW",
+    "wins": "81",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "SFG",
+    "wins": "81",
+    "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "BOS",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "MIN",
+    "wins": "78",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "ARI",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "CHC",
+    "wins": "74",
+    "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "LAA",
+    "wins": "73",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "MIA",
+    "wins": "69",
+    "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "TEX",
+    "wins": "68",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "COL",
+    "wins": "68",
+    "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "DET",
+    "wins": "66",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "KCR",
+    "wins": "65",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "CIN",
+    "wins": "62",
+    "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "PIT",
+    "wins": "62",
+    "league": "NL"
+  },
+  {
+    "year": "2022",
+    "team": "OAK",
+    "wins": "60",
+    "league": "AL"
+  },
+  {
+    "year": "2022",
+    "team": "WSN",
+    "wins": "55",
+    "league": "NL"
   }
 ]

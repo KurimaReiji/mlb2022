@@ -48,7 +48,7 @@ const draw = (width, height, params) => {
   const { data, champShift, maxChampShift, years, minYear, maxYear, numTeams, title, titleHeight } = params;
 
   const xScale = createScale(0, width, minYear - 0.75, maxYear + 0.75);
-  const yScale = createScale(0, height, -maxChampShift - titleHeight, numTeams);
+  const yScale = createScale(0, height, -maxChampShift - titleHeight, numTeams + 1);
   const fontSize = trunc(yScale(1.65) - yScale(1));
   const dy = trunc(fontSize * 0.1);
   const rectWidth = (xScale(2) - xScale(1)) * 0.9;
@@ -208,7 +208,7 @@ const setup_print = (pWidth, pHeight, params) => {
       draw(pWidth, pHeight, params);
     } else {
       frame.removeAttribute("media");
-      const [sWidth, sHeight] = ["width", "height"].map((prop) => Number(document.querySelector(".wrapper").dataset[prop]));
+      const [sWidth, sHeight] = ["width", "height"].map((prop) => Number(frame.dataset[prop]));
       draw(sWidth, sHeight, params);
     }
   });
@@ -219,9 +219,14 @@ const add_sorting_criteria = (obj) => {
     obj.year,
     300 - Number(obj.wins),
     series.includes(obj.series) ? 1 : 0,
-    0 - ["WC"].indexOf(obj.wc),
+    1 + ["WC"].indexOf(obj.wc), // flipped in 2022
     series.indexOf(obj.series) + 12,
   ].join("");
+  if (obj.year == "2022" && obj.wins == 101) {
+    console.log(obj);
+    // NYM "2022 199 1012"
+    // ATL "2022 199 1113"
+  }
   return obj;
 };
 
@@ -251,9 +256,10 @@ document.addEventListener("DOMContentLoaded", async () => {
         acc[cur.year] = cur.place;
         return acc;
       },
-      { 1994: 0 }
+      { 1994: 0, 2022: 0 }
     );
   const years = data.map((obj) => Number(obj.year)).reduce(uniq, []);
+  [].filter((y) => Number(y) > 2000);
 
   const params = {
     data,

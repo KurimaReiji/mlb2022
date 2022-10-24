@@ -240,6 +240,17 @@ const add_place = (obj, idx, ary) => {
 
 document.addEventListener("DOMContentLoaded", async () => {
   const inputs = await (await fetch("./bestRecord.json")).json();
+
+  const phillies2022 = inputs.find((obj) => obj.year == "2022" && obj.team == "PHI");
+  const padres2022 = inputs.find((obj) => obj.year == "2022" && obj.team == "SDP");
+  const astros2022 = inputs.find((obj) => obj.year == "2022" && obj.team == "HOU");
+  const yankees2022 = inputs.find((obj) => obj.year == "2022" && obj.team == "NYY");
+  phillies2022.series = "WS";
+  padres2022.series = "LCS";
+  astros2022.series = "LCS";
+  yankees2022.series = "LCS";
+  console.log(phillies2022, padres2022, astros2022, yankees2022)
+
   const data = inputs.map(add_sorting_criteria).sort(sorter).map(add_place);
 
   const wrapper = document.querySelector(".wrapper");

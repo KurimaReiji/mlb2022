@@ -22,3 +22,5 @@ Wins and Losses by Opponent
 - [BRAVES](https://kurimareiji.github.io/mlb2022/h2h.html?team=BRAVES)
 - [CARDINALS](https://kurimareiji.github.io/mlb2022/h2h.html?team=CARDINALS)
 - [DODGERS](https://kurimareiji.github.io/mlb2022/h2h.html?team=DODGERS)
+
+## [The Best Record in Baseball](https://kurimareiji.github.io/mlb2022/bestRecord.html)

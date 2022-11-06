@@ -247,7 +247,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const yankees2022 = inputs.find((obj) => obj.year == "2022" && obj.team == "NYY");
   phillies2022.series = "WS";
   padres2022.series = "LCS";
-  astros2022.series = "WS";
+  astros2022.series = "WSW";
   yankees2022.series = "LCS";
   console.log(phillies2022, padres2022, astros2022, yankees2022)
 

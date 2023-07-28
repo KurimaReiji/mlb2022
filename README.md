@@ -24,3 +24,7 @@ Wins and Losses by Opponent
 - [DODGERS](https://kurimareiji.github.io/mlb2022/h2h.html?team=DODGERS)
 
 ## [The Best Record in Baseball](https://kurimareiji.github.io/mlb2022/bestRecord.html)
+
+## mlb2023
+
+- [Repo](https://github.com/KurimaReiji/mlb2023)
